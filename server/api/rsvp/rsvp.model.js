@@ -5,7 +5,10 @@ var mongoose = require('mongoose'),
 
 var RsvpSchema = new Schema({
   name: String,
-  info: String,
+  email: String,
+  phone: String, 
+  party: [String],
+  numberOfGuests: Number,
   active: Boolean
 });
 
