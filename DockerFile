@@ -1,10 +1,1 @@
-FROM digitallyseamless/nodejs-bower-grunt-runtime
-
-
-RUN npm install -g bower grunt-cli
-
-COPY . /src
-RUN cd /src; bower install
-RUN  cd /src; npm install
-
-EXPOSE 9000
+FROM digitallyseamless/nodejs-bower-grunt-runtime:compass-support
