@@ -18,7 +18,13 @@ angular.module('weddingApp')
         $scope.welcomeText = '';
         
         $scope.pattern = /^[-a-z0-9~!$%^&*_=+}{\'?]+(\.[-a-z0-9~!$%^&*_=+}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|arpa|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|pro|travel|mobi|[a-z][a-z])|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,5})?$/i;
-        $scope.saveEmail = function(){
+        $scope.saveEmail = function(e, email){
+            if(e){
+                if(e.keyCode !== 13 || (email.$pristine || email.$dirty && email.$invalid) || $scope.name === ''){
+                    return;
+                }
+            }
+            
             emailService.saveEmail({name: $scope.name, email:$scope.email});
             $scope.welcomeText = 'We got ya covered, ' + $scope.name + '!';
         };
