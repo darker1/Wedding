@@ -1,4 +1,4 @@
-FROM nodesource/centos7:5.0.0
+FROM digitallyseamless/nodejs-bower-grunt-runtime
 
 
 RUN npm install -g bower grunt-cli
