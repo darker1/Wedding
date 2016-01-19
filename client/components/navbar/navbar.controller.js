@@ -7,7 +7,7 @@ angular.module('weddingApp')
             'link': '/'
         }, {
             'title': 'Wedding',
-            'link': '/wedding'
+            'link': '/ceremony'
         }, {
             'title': 'Parties',
             'link': '/parties'

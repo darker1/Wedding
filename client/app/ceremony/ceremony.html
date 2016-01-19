@@ -1,5 +1,125 @@
-<div ng-include="'components/navbar/navbar.html'"></div>
-
 <div class="col-md-12">
-This is the ceremony view.
+    <div class="col-md-6">
+        <img src="assets/images/beach_wedding.jpg" style="max-width:100%; max-height:100%">
+    </div>
+    <div class="col-md-6 pull-right">
+        <h3> Come celebrate with us! (Where and When) </h3>
+        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vehicula nibh neque, quis dictum diam rutrum sed. Donec varius, neque mollis aliquet viverra, velit mauris ultrices arcu, a mollis magna turpis eget elit. Sed feugiat sed erat fermentum vehicula. Quisque eu facilisis lacus. Suspendisse eu justo massa. Cras auctor mi non convallis efficitur. Vivamus mauris nisi, vehicula nec est aliquam, tincidunt fermentum arcu. Vivamus est sapien, fringilla sed turpis a, congue consectetur mauris. Fusce eu metus vel eros scelerisque posuere. Vestibulum vel malesuada ipsum.
+        Nulla ut volutpat odio, eget tincidunt dui. In mollis turpis nibh, vitae imperdiet ex aliquet non. Phasellus quis libero volutpat, vestibulum enim quis, fringilla turpis. Donec lectus nisi, lacinia a enim porttitor, sagittis scelerisque elit. Sed vel leo metus. Nunc luctus erat non metus dignissim facilisis. In vel porta ex. Donec ligula est, interdum interdum pharetra vitae, vulputate nec nulla. Donec sit amet vehicula elit. Nunc eu tincidunt enim. Nunc vitae mollis nulla. Vestibulum volutpat nisi sit amet ornare cursus. Maecenas quam neque, malesuada id viverra a, vehicula quis mauris. 
+        </span>
+    </div>
+</div>
+<div class="col-md-12">
+    <div class="col-md-9 pull-left">
+        <h3> [What You] Need to Know </h3>
+        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vehicula nibh neque, quis dictum diam rutrum sed. Donec varius, neque mollis aliquet viverra, velit mauris ultrices arcu, a mollis magna turpis eget elit. Sed feugiat sed erat fermentum vehicula. Quisque eu facilisis lacus. Suspendisse eu justo massa. Cras auctor mi non convallis efficitur. Vivamus mauris nisi, vehicula nec est aliquam, tincidunt fermentum arcu. Vivamus est sapien, fringilla sed turpis a, congue consectetur mauris. Fusce eu metus vel eros scelerisque posuere. Vestibulum vel malesuada ipsum. </span>
+        <br>
+        <h3> How to get there</h3>
+        <b> Please be sure to double check everything before you buy - dates / number of passengers might be off on the actual site </b>
+        <div class="col-md-12">
+            <div class="col-md-3">
+                <input type="text" ng-model="selectedAirport" placeholder="Airport" uib-typeahead="airport as '(' + airport.code + ') ' + airport.city for airport in airportFilter(airports, $viewValue)" class="form-control" typeahead-show-hint="true" typeahead-min-length="0">
+            </div>
+            <div class="col-md-3">
+                <p class="input-group">
+                    <input type="text" class="form-control" uib-datepicker-popup="shortDate" ng-model="depart" is-open="popup1.opened" min-date="minDate" max-date="maxDate" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" />
+                    <span class="input-group-btn">
+                    <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
+              </span>
+            </p>
+            </div>
+            <div class="col-md-3">
+             <p class="input-group">
+              <input type="text" class="form-control" uib-datepicker-popup="shortDate" ng-model="return" is-open="popup2.opened" min-date="minDate" max-date="maxDate" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" close-text="Close" />
+              <span class="input-group-btn">
+                <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
+              </span>
+            </p>            
+            </div>
+            <div class="col-md-3">
+                <input type="text" class="form-control" placeholder="# of Passengers" ng-model="numberOfPassengers" aria-describedby="basic-addon1">
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="col-md-11 pull-right">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <img src="assets/images/southwest.jpg" width="45px">
+                            </td>
+                            <td>
+                                <a ng-href="{{southwestUrl()}}">Southwest</a>
+                            </td>
+                            <td>
+                                Los Angeles - Fly out of (SMA) Santa Ana, Chicago - Fly out of (MDW) Midway 
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="assets/images/kayak.jpg"  width="45px">
+                            </td>
+                            <td>
+                                <a ng-href="{{kayakUrl()}}">Kayak</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+            </div>
+        </div>
+        <br>
+        <h3> Where to stay </h3>
+               <span>Ok, this got a bit trickier than expected.  We booked our places through destinationweddings.com.  
+                   Their website is TERRIBLE (hince the need to build this thing), but it allowed us to get you guys a pretty good deal on rooms. 
+                   In order to get those rooms, you have to sign up on the tacky website they put up for us (Again, there are not enough appologies in the world for how bad it is). For all you 
+                   computer guys out there, yes I tried to strip all the urls and make it work without signup.  Yes I altered their URL so that you would not have to put in the "word of mouth password".
+                   No I dont have time to rewrite their shit for them.  No, DDOSing them will not help solve anything!
+                   On another note, if you contact Meagan or Kyle directly, we can help get you all set up! Now, without further ado, here are your options!   
+               </span>
+               <div class="col-md-12"><div class="col-md-11 pull-right">
+            <table>
+                <tbody>
+                  <tr>
+                     <td>
+                         <img src="assets/images/now_amber_logo.jpg" width="45px">
+                     </td>
+                     <td>
+                         <a href="http://www.destinationweddings.com/Weddings/Guests/AttendaWedding.aspx?dw_weddingcode=WEAREGETTINGMARRIED&dw_bname=Wall">Amber Secrets</a>
+                    </td>
+                    <td>
+                        This will bring you to our travel agent that you can work with!
+                    </td>
+                </tr>
+                 <tr>
+                    <td>
+                        <img src="assets/images/casa_salinas_i.jpg" width="45px">
+                    </td>
+                    <td>
+                        <a href="http://www.casasalinas-vallarta.com/villas/casa-salinas-i/">Casa Salinas I</a>
+                    </td>
+                    <td>
+                        Get the villa right next door!
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="assets/images/villa_logo.jpg" width="45px">
+                    </td>
+                    <td>
+                        <a href="http://www.luxuryretreats.com/North-America/Mexico/Puerto-Vallarta/">Get yo own villa!</a>
+                    </td>
+                    <td>
+                        Cause you is a balla... or travelling with a group
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <img src="assets/images/meagan_kyle_ocean.jpg" class="pull-right" width="350px">
+    </div>
 </div>
