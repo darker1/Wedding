@@ -8,6 +8,9 @@
         <li ng-repeat="item in menu" ng-class="{active: isActive(item.link)}">
             <a ng-href="{{item.link}}">{{item.title}}</a>
         </li>
+        <li>
+            <a href="/party/msy"> New Orleans </a>
+        </li>
       </ul>
       <form class="nav navbar-nav navbar-right form-inline" name="frm">
           <button ng-show="!showWelcomeText()" ng-disabled="frm.email.$pristine || frm.email.$dirty && frm.email.$invalid" type="button" class="btn btn-default" ng-click="saveEmail()">Stay Informed!</button>

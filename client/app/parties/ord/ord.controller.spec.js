@@ -1,18 +1,17 @@
 'use strict';
 
-describe('Controller: PartyCtrl', function () {
+describe('Controller: ORDCtrl', function () {
 
   // load the controller's module
   beforeEach(module('weddingApp'));
 
-  var PartyCtrl, scope;
+  var ORDCtrl, scope;
 
   // Initialize the controller and a mock scope
   beforeEach(inject(function ($controller, $rootScope) {
     scope = $rootScope.$new();
-    PartyCtrl = $controller('PartyCtrl', {
-      $scope: scope,
-      
+    ORDCtrl = $controller('ORDCtrl', {
+      $scope: scope
     });
   }));
 
