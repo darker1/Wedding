@@ -353,14 +353,11 @@ module.exports = function (grunt) {
             'assets/images/{,*/}*.{webp}',
             'assets/fonts/**/*',
             'index.html',
-            'assets/json/*.json'
+            'assets/json/*.json',         
+            'assets/images/*.*'
           ]
-        }, {
-          expand: true,
-          cwd: '.tmp/images',
-          dest: '<%= yeoman.dist %>/public/assets/images',
-          src: ['generated/*']
-        }, {
+        }, 
+        {
           expand: true,
           dest: '<%= yeoman.dist %>',
           src: [
