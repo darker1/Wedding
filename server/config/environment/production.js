@@ -15,6 +15,6 @@ module.exports = {
 
   // MongoDB connection options
   mongo: {
-    uri:    'mongodb://192.168.99.100:27017/wedding-dev'
+    uri:    'mongodb://127.0.0.1:27017/wedding-dev'
   }
 };
