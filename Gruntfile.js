@@ -1,4 +1,3 @@
-// Generated on 2015-11-18 using generator-angular-fullstack 2.1.1
 'use strict';
 
 module.exports = function (grunt) {
@@ -267,6 +266,30 @@ module.exports = function (grunt) {
         }
       }
     },
+
+    // The following *-min tasks produce minified files in the dist folder
+    imagemin: {
+      dist: {
+        files: [{
+          expand: true,
+          cwd: '<%= yeoman.client %>/assets/images',
+          src: '{,*/}*.{png,jpg,jpeg,gif,JPG,JPEG}',
+          dest: '<%= yeoman.dist %>/public/assets/images'
+        }]
+      }
+    },
+
+    svgmin: {
+      dist: {
+        files: [{
+          expand: true,
+          cwd: '<%= yeoman.client %>/assets/images',
+          src: '{,*/}*.svg',
+          dest: '<%= yeoman.dist %>/public/assets/images'
+        }]
+      }
+    },
+
     // Allow the use of non-minsafe AngularJS files. Automatically makes it
     // minsafe compatible so Uglify does not destroy the ng references
     ngAnnotate: {
@@ -286,13 +309,13 @@ module.exports = function (grunt) {
         // This should be the name of your apps angular module
         module: 'weddingApp',
         htmlmin: {
-          collapseBooleanAttributes: false,
+          collapseBooleanAttributes: true,
           collapseWhitespace: true,
-          removeAttributeQuotes: false,
-          removeEmptyAttributes: false,
-          removeRedundantAttributes: false,
-          removeScriptTypeAttributes: false,
-          removeStyleLinkTypeAttributes: false
+          removeAttributeQuotes: true,
+          removeEmptyAttributes: true,
+          removeRedundantAttributes: true,
+          removeScriptTypeAttributes: true,
+          removeStyleLinkTypeAttributes: true
         },
         usemin: 'app/app.js'
       },
@@ -396,7 +419,9 @@ module.exports = function (grunt) {
       },
       dist: [
         'babel',
-        'sass'
+        'sass',
+        'imagemin',
+        'svgmin'
       ]
     },
 
@@ -651,6 +676,7 @@ module.exports = function (grunt) {
     'copy:dist',
     'cdnify',
     'cssmin',
+    'uglify',
     'rev',
     'usemin'
   ]);
