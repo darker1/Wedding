@@ -101,7 +101,7 @@ angular.module('weddingApp')
          let parsedPass = parseInt($scope.numberOfPassengers);
          let numPassengers = isNaN(parsedPass) ? 1 : parsedPass;
          if(!$scope.selectedAirport){
-             return 'www.southwest.com';
+             return 'https://www.southwest.com';
          }
          return southwest.replace(departCity, $scope.selectedAirport.code)
                          .replace(departDate, getSouthwestDate($scope.depart))
@@ -110,7 +110,7 @@ angular.module('weddingApp')
      };
      $scope.kayakUrl = function(){
          if(!$scope.selectedAirport){
-             return 'www.kayak.com/flights';
+             return 'https://www.kayak.com/flights';
          }
          return kayak.replace(departCity, $scope.selectedAirport.code)
                      .replace(departDate, getKayakDate($scope.depart))
