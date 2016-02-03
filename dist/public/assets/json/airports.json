@@ -1,0 +1,7297 @@
+[
+    {
+        "name": "Putnam County Airport",
+        "city": "Greencastle",
+        "code": "4I7"
+    },
+    {
+        "name": "Dowagiac Municipal Airport",
+        "city": "Dowagiac",
+        "code": "C91"
+    },
+    {
+        "name": "Cambridge Municipal Airport",
+        "city": "Cambridge",
+        "code": "CDI"
+    },
+    {
+        "name": "Door County Cherryland Airport",
+        "city": "Sturgeon Bay",
+        "code": "SUE"
+    },
+    {
+        "name": "Shoestring Aviation Airfield",
+        "city": "Stewartstown",
+        "code": "0P2"
+    },
+    {
+        "name": "Eastern Oregon Regional Airport",
+        "city": "Pendleton",
+        "code": "PDT"
+    },
+    {
+        "name": "Tyonek Airport",
+        "city": "Tyonek",
+        "code": "TYE"
+    },
+    {
+        "name": "Riverton Regional",
+        "city": "Riverton WY",
+        "code": "RIW"
+    },
+    {
+        "name": "Montrose Regional Airport",
+        "city": "Montrose CO",
+        "code": "MTJ"
+    },
+    {
+        "name": "Clow International Airport",
+        "city": "Bolingbrook",
+        "code": "1CS"
+    },
+    {
+        "name": "Kenosha Regional Airport",
+        "city": "Kenosha",
+        "code": "ENW"
+    },
+    {
+        "name": "North Las Vegas Airport",
+        "city": "Las Vegas",
+        "code": "VGT"
+    },
+    {
+        "name": "Grand Geneva Resort Airport",
+        "city": "Lake Geneva",
+        "code": "C02"
+    },
+    {
+        "name": "De Kalb Taylor Municipal Airport",
+        "city": "De Kalb",
+        "code": "DKB"
+    },
+    {
+        "name": "Purude University Airport",
+        "city": "Lafayette",
+        "code": "LAF"
+    },
+    {
+        "name": "Miami University Airport",
+        "city": "Oxford",
+        "code": "OXD"
+    },
+    {
+        "name": "Delaware County Airport",
+        "city": "Muncie",
+        "code": "MIE"
+    },
+    {
+        "name": "Point Roberts Airpark",
+        "city": "Point Roberts",
+        "code": "1RL"
+    },
+    {
+        "name": "Macomb Municipal Airport",
+        "city": "Macomb",
+        "code": "MQB"
+    },
+    {
+        "name": "Wausau Downtown Airport",
+        "city": "Wausau",
+        "code": "AUW"
+    },
+    {
+        "name": "Portage Municipal Airport",
+        "city": "Portage",
+        "code": "C47"
+    },
+    {
+        "name": "Gogebic Iron County Airport",
+        "city": "Ironwood",
+        "code": "IWD"
+    },
+    {
+        "name": "Mackinac Island Airport",
+        "city": "Mackinac Island",
+        "code": "MCD"
+    },
+    {
+        "name": "Grand Marais Cook County Airport",
+        "city": "Grand Marais",
+        "code": "GRM"
+    },
+    {
+        "name": "Porter County Municipal Airport",
+        "city": "Valparaiso",
+        "code": "NPZ"
+    },
+    {
+        "name": "McCarthy Airport",
+        "city": "McCarthy",
+        "code": "MXY"
+    },
+    {
+        "name": "Seward Airport",
+        "city": "Seward",
+        "code": "SWD"
+    },
+    {
+        "name": "Michigan City Municipal Airport",
+        "city": "Michigan City",
+        "code": "MGC"
+    },
+    {
+        "name": "Allakaket Airport",
+        "city": "Allakaket",
+        "code": "AET"
+    },
+    {
+        "name": "Yakutat",
+        "city": "Yakutat",
+        "code": "YAK"
+    },
+    {
+        "name": "Sawyer International Airport",
+        "city": "Marquette",
+        "code": "MQT"
+    },
+    {
+        "name": "Ford Airport",
+        "city": "Iron Mountain",
+        "code": "IMT"
+    },
+    {
+        "name": "Delta County Airport",
+        "city": "Escanaba",
+        "code": "ESC"
+    },
+    {
+        "name": "Williamson Country Regional Airport",
+        "city": "Marion",
+        "code": "MWA"
+    },
+    {
+        "name": "Barter Island Lrrs",
+        "city": "Barter Island",
+        "code": "BTI"
+    },
+    {
+        "name": "Wainwright As",
+        "city": "Fort Wainwright",
+        "code": "K03"
+    },
+    {
+        "name": "Cape Lisburne Lrrs",
+        "city": "Cape Lisburne",
+        "code": "LUR"
+    },
+    {
+        "name": "Point Lay Lrrs",
+        "city": "Point Lay",
+        "code": "PIZ"
+    },
+    {
+        "name": "Hilo Intl",
+        "city": "Hilo",
+        "code": "ITO"
+    },
+    {
+        "name": "Executive",
+        "city": "Orlando",
+        "code": "ORL"
+    },
+    {
+        "name": "Bettles",
+        "city": "Bettles",
+        "code": "BTT"
+    },
+    {
+        "name": "Clear",
+        "city": "Clear Mews",
+        "code": "Z84"
+    },
+    {
+        "name": "Indian Mountain Lrrs",
+        "city": "Indian Mountains",
+        "code": "UTO"
+    },
+    {
+        "name": "Fort Yukon",
+        "city": "Fort Yukon",
+        "code": "FYU"
+    },
+    {
+        "name": "Sparrevohn Lrrs",
+        "city": "Sparrevohn",
+        "code": "SVW"
+    },
+    {
+        "name": "Bryant Ahp",
+        "city": "Fort Richardson",
+        "code": "FRN"
+    },
+    {
+        "name": "Tatalina Lrrs",
+        "city": "Tatalina",
+        "code": "TLJ"
+    },
+    {
+        "name": "Cape Romanzof Lrrs",
+        "city": "Cape Romanzof",
+        "code": "CZF"
+    },
+    {
+        "name": "Laurence G Hanscom Fld",
+        "city": "Bedford",
+        "code": "BED"
+    },
+    {
+        "name": "St Paul Island",
+        "city": "St. Paul Island",
+        "code": "SNP"
+    },
+    {
+        "name": "Cape Newenham Lrrs",
+        "city": "Cape Newenham",
+        "code": "EHM"
+    },
+    {
+        "name": "St George",
+        "city": "Point Barrow",
+        "code": "PBV"
+    },
+    {
+        "name": "Iliamna",
+        "city": "Iliamna",
+        "code": "ILI"
+    },
+    {
+        "name": "Platinum",
+        "city": "Port Moller",
+        "code": "PTU"
+    },
+    {
+        "name": "Big Mountain Afs",
+        "city": "Big Mountain",
+        "code": "BMX"
+    },
+    {
+        "name": "Oscoda Wurtsmith",
+        "city": "Oscoda",
+        "code": "OSC"
+    },
+    {
+        "name": "Marina Muni",
+        "city": "Fort Ord",
+        "code": "OAR"
+    },
+    {
+        "name": "Sacramento Mather",
+        "city": "Sacramento",
+        "code": "MHR"
+    },
+    {
+        "name": "Bicycle Lake Aaf",
+        "city": "Fort Irwin",
+        "code": "BYS"
+    },
+    {
+        "name": "Twentynine Palms Eaf",
+        "city": "Twenty Nine Palms",
+        "code": "NXP"
+    },
+    {
+        "name": "Fort Smith Rgnl",
+        "city": "Fort Smith",
+        "code": "FSM"
+    },
+    {
+        "name": "Merrill Fld",
+        "city": "Anchorage",
+        "code": "MRI"
+    },
+    {
+        "name": "Grants Milan Muni",
+        "city": "Grants",
+        "code": "GNT"
+    },
+    {
+        "name": "Ponca City Rgnl",
+        "city": "Ponca City",
+        "code": "PNC"
+    },
+    {
+        "name": "Hunter Aaf",
+        "city": "Hunter Aaf",
+        "code": "SVN"
+    },
+    {
+        "name": "Grand Forks Intl",
+        "city": "Grand Forks",
+        "code": "GFK"
+    },
+    {
+        "name": "Grider Fld",
+        "city": "Pine Bluff",
+        "code": "PBF"
+    },
+    {
+        "name": "Whiting Fld Nas North",
+        "city": "Milton",
+        "code": "NSE"
+    },
+    {
+        "name": "Hana",
+        "city": "Hana",
+        "code": "HNM"
+    },
+    {
+        "name": "Ernest A Love Fld",
+        "city": "Prescott",
+        "code": "PRC"
+    },
+    {
+        "name": "Trenton Mercer",
+        "city": "Trenton",
+        "code": "TTN"
+    },
+    {
+        "name": "General Edward Lawrence Logan Intl",
+        "city": "Boston",
+        "code": "BOS"
+    },
+    {
+        "name": "Travis Afb",
+        "city": "Fairfield",
+        "code": "SUU"
+    },
+    {
+        "name": "Griffiss Afld",
+        "city": "Rome",
+        "code": "RME"
+    },
+    {
+        "name": "Wendover",
+        "city": "Wendover",
+        "code": "ENV"
+    },
+    {
+        "name": "Mobile Downtown",
+        "city": "Mobile",
+        "code": "BFM"
+    },
+    {
+        "name": "Metropolitan Oakland Intl",
+        "city": "Oakland",
+        "code": "OAK"
+    },
+    {
+        "name": "Eppley Afld",
+        "city": "Omaha",
+        "code": "OMA"
+    },
+    {
+        "name": "Port Angeles Cgas",
+        "city": "Port Angeles",
+        "code": "NOW"
+    },
+    {
+        "name": "Kahului",
+        "city": "Kahului",
+        "code": "OGG"
+    },
+    {
+        "name": "Wichita Mid Continent",
+        "city": "Wichita",
+        "code": "ICT"
+    },
+    {
+        "name": "Kansas City Intl",
+        "city": "Kansas City",
+        "code": "MCI"
+    },
+    {
+        "name": "Dane Co Rgnl Truax Fld",
+        "city": "Madison",
+        "code": "MSN"
+    },
+    {
+        "name": "Dillingham",
+        "city": "Dillingham",
+        "code": "DLG"
+    },
+    {
+        "name": "Boone Co",
+        "city": "Harrison",
+        "code": "HRO"
+    },
+    {
+        "name": "Phoenix Sky Harbor Intl",
+        "city": "Phoenix",
+        "code": "PHX"
+    },
+    {
+        "name": "Bangor Intl",
+        "city": "Bangor",
+        "code": "BGR"
+    },
+    {
+        "name": "Fort Lauderdale Executive",
+        "city": "Fort Lauderdale",
+        "code": "FXE"
+    },
+    {
+        "name": "East Texas Rgnl",
+        "city": "Longview",
+        "code": "GGG"
+    },
+    {
+        "name": "Anderson Rgnl",
+        "city": "Andersen",
+        "code": "AND"
+    },
+    {
+        "name": "Spokane Intl",
+        "city": "Spokane",
+        "code": "GEG"
+    },
+    {
+        "name": "North Perry",
+        "city": "Hollywood",
+        "code": "HWO"
+    },
+    {
+        "name": "San Francisco Intl",
+        "city": "San Francisco",
+        "code": "SFO"
+    },
+    {
+        "name": "Cut Bank Muni",
+        "city": "Cutbank",
+        "code": "CTB"
+    },
+    {
+        "name": "Acadiana Rgnl",
+        "city": "Louisiana",
+        "code": "ARA"
+    },
+    {
+        "name": "Gainesville Rgnl",
+        "city": "Gainesville",
+        "code": "GNV"
+    },
+    {
+        "name": "Memphis Intl",
+        "city": "Memphis",
+        "code": "MEM"
+    },
+    {
+        "name": "Bisbee Douglas Intl",
+        "city": "Douglas",
+        "code": "DUG"
+    },
+    {
+        "name": "Allen Aaf",
+        "city": "Delta Junction",
+        "code": "BIG"
+    },
+    {
+        "name": "Tstc Waco",
+        "city": "Waco",
+        "code": "CNW"
+    },
+    {
+        "name": "Annette Island",
+        "city": "Annette Island",
+        "code": "ANN"
+    },
+    {
+        "name": "Caribou Muni",
+        "city": "Caribou",
+        "code": "CAR"
+    },
+    {
+        "name": "Little Rock Afb",
+        "city": "Jacksonville",
+        "code": "LRF"
+    },
+    {
+        "name": "Redstone Aaf",
+        "city": "Redstone",
+        "code": "HUA"
+    },
+    {
+        "name": "Pope Field",
+        "city": "Fort Bragg",
+        "code": "POB"
+    },
+    {
+        "name": "Dalhart Muni",
+        "city": "Dalhart",
+        "code": "DHT"
+    },
+    {
+        "name": "Laughlin Afb",
+        "city": "Del Rio",
+        "code": "DLF"
+    },
+    {
+        "name": "Los Angeles Intl",
+        "city": "Los Angeles",
+        "code": "LAX"
+    },
+    {
+        "name": "Anniston Metro",
+        "city": "Anniston",
+        "code": "ANB"
+    },
+    {
+        "name": "Cleveland Hopkins Intl",
+        "city": "Cleveland",
+        "code": "CLE"
+    },
+    {
+        "name": "Dover Afb",
+        "city": "Dover",
+        "code": "DOV"
+    },
+    {
+        "name": "Cincinnati Northern Kentucky Intl",
+        "city": "Cincinnati",
+        "code": "CVG"
+    },
+    {
+        "name": "Tipton",
+        "city": "Fort Meade",
+        "code": "FME"
+    },
+    {
+        "name": "China Lake Naws",
+        "city": "China",
+        "code": "NID"
+    },
+    {
+        "name": "Huron Rgnl",
+        "city": "Huron",
+        "code": "HON"
+    },
+    {
+        "name": "Juneau Intl",
+        "city": "Juneau",
+        "code": "JNU"
+    },
+    {
+        "name": "Lafayette Rgnl",
+        "city": "Lafayette",
+        "code": "LFT"
+    },
+    {
+        "name": "Newark Liberty Intl",
+        "city": "Newark",
+        "code": "EWR"
+    },
+    {
+        "name": "Boise Air Terminal",
+        "city": "Boise",
+        "code": "BOI"
+    },
+    {
+        "name": "Creech Afb",
+        "city": "Indian Springs",
+        "code": "INS"
+    },
+    {
+        "name": "Garden City Rgnl",
+        "city": "Garden City",
+        "code": "GCK"
+    },
+    {
+        "name": "Minot Intl",
+        "city": "Minot",
+        "code": "MOT"
+    },
+    {
+        "name": "Wheeler Aaf",
+        "city": "Wahiawa",
+        "code": "HHI"
+    },
+    {
+        "name": "Maxwell Afb",
+        "city": "Montgomery",
+        "code": "MXF"
+    },
+    {
+        "name": "Robinson Aaf",
+        "city": "Robinson",
+        "code": "RBM"
+    },
+    {
+        "name": "Dallas Love Fld",
+        "city": "Dallas",
+        "code": "DAL"
+    },
+    {
+        "name": "Butts Aaf",
+        "city": "Fort Carson",
+        "code": "FCS"
+    },
+    {
+        "name": "Helena Rgnl",
+        "city": "Helena",
+        "code": "HLN"
+    },
+    {
+        "name": "Miramar Mcas",
+        "city": "Miramar",
+        "code": "NKX"
+    },
+    {
+        "name": "Luke Afb",
+        "city": "Phoenix",
+        "code": "LUF"
+    },
+    {
+        "name": "Hurlburt Fld",
+        "city": "Mary Esther",
+        "code": "HRT"
+    },
+    {
+        "name": "Jack Northrop Fld Hawthorne Muni",
+        "city": "Hawthorne",
+        "code": "HHR"
+    },
+    {
+        "name": "Houlton Intl",
+        "city": "Houlton",
+        "code": "HUL"
+    },
+    {
+        "name": "Vance Afb",
+        "city": "Enid",
+        "code": "END"
+    },
+    {
+        "name": "Point Mugu Nas",
+        "city": "Point Mugu",
+        "code": "NTD"
+    },
+    {
+        "name": "Edwards Afb",
+        "city": "Edwards Afb",
+        "code": "EDW"
+    },
+    {
+        "name": "Lake Charles Rgnl",
+        "city": "Lake Charles",
+        "code": "LCH"
+    },
+    {
+        "name": "Kona Intl At Keahole",
+        "city": "Kona",
+        "code": "KOA"
+    },
+    {
+        "name": "Myrtle Beach Intl",
+        "city": "Myrtle Beach",
+        "code": "MYR"
+    },
+    {
+        "name": "Lemoore Nas",
+        "city": "Lemoore",
+        "code": "NLC"
+    },
+    {
+        "name": "Nantucket Mem",
+        "city": "Nantucket",
+        "code": "ACK"
+    },
+    {
+        "name": "Felker Aaf",
+        "city": "Fort Eustis",
+        "code": "FAF"
+    },
+    {
+        "name": "Campbell Aaf",
+        "city": "Hopkinsville",
+        "code": "HOP"
+    },
+    {
+        "name": "Ronald Reagan Washington Natl",
+        "city": "Washington",
+        "code": "DCA"
+    },
+    {
+        "name": "Patuxent River Nas",
+        "city": "Patuxent River",
+        "code": "NHK"
+    },
+    {
+        "name": "Palacios Muni",
+        "city": "Palacios",
+        "code": "PSX"
+    },
+    {
+        "name": "Arkansas Intl",
+        "city": "Blytheville",
+        "code": "BYH"
+    },
+    {
+        "name": "Atlantic City Intl",
+        "city": "Atlantic City",
+        "code": "ACY"
+    },
+    {
+        "name": "Tinker Afb",
+        "city": "Oklahoma City",
+        "code": "TIK"
+    },
+    {
+        "name": "Elizabeth City Cgas Rgnl",
+        "city": "Elizabeth City",
+        "code": "ECG"
+    },
+    {
+        "name": "Pueblo Memorial",
+        "city": "Pueblo",
+        "code": "PUB"
+    },
+    {
+        "name": "Northern Maine Rgnl At Presque Isle",
+        "city": "Presque Isle",
+        "code": "PQI"
+    },
+    {
+        "name": "Kirtland Air Force Base",
+        "city": "Kirtland A.f.b.",
+        "code": "IKR"
+    },
+    {
+        "name": "Gray Aaf",
+        "city": "Fort Lewis",
+        "code": "GRF"
+    },
+    {
+        "name": "Kodiak",
+        "city": "Kodiak",
+        "code": "ADQ"
+    },
+    {
+        "name": "Upolu",
+        "city": "Opolu",
+        "code": "UPP"
+    },
+    {
+        "name": "Fort Lauderdale Hollywood Intl",
+        "city": "Fort Lauderdale",
+        "code": "FLL"
+    },
+    {
+        "name": "Davis Fld",
+        "city": "Muskogee",
+        "code": "MKO"
+    },
+    {
+        "name": "Falls Intl",
+        "city": "International Falls",
+        "code": "INL"
+    },
+    {
+        "name": "Salt Lake City Intl",
+        "city": "Salt Lake City",
+        "code": "SLC"
+    },
+    {
+        "name": "Childress Muni",
+        "city": "Childress",
+        "code": "CDS"
+    },
+    {
+        "name": "Keesler Afb",
+        "city": "Biloxi",
+        "code": "BIX"
+    },
+    {
+        "name": "Lawson Aaf",
+        "city": "Fort Benning",
+        "code": "LSF"
+    },
+    {
+        "name": "Kingsville Nas",
+        "city": "Kingsville",
+        "code": "NQI"
+    },
+    {
+        "name": "Marshall Aaf",
+        "city": "Fort Riley",
+        "code": "FRI"
+    },
+    {
+        "name": "Harrisburg Intl",
+        "city": "Harrisburg",
+        "code": "MDT"
+    },
+    {
+        "name": "Lincoln",
+        "city": "Lincoln",
+        "code": "LNK"
+    },
+    {
+        "name": "Capital City",
+        "city": "Lansing",
+        "code": "LAN"
+    },
+    {
+        "name": "Waimea Kohala",
+        "city": "Kamuela",
+        "code": "MUE"
+    },
+    {
+        "name": "Massena Intl Richards Fld",
+        "city": "Massena",
+        "code": "MSS"
+    },
+    {
+        "name": "Hickory Rgnl",
+        "city": "Hickory",
+        "code": "HKY"
+    },
+    {
+        "name": "Albert Whitted",
+        "city": "St. Petersburg",
+        "code": "SPG"
+    },
+    {
+        "name": "Page Fld",
+        "city": "Fort Myers",
+        "code": "FMY"
+    },
+    {
+        "name": "George Bush Intercontinental",
+        "city": "Houston",
+        "code": "IAH"
+    },
+    {
+        "name": "Millinocket Muni",
+        "city": "Millinocket",
+        "code": "MLT"
+    },
+    {
+        "name": "Andrews Afb",
+        "city": "Camp Springs",
+        "code": "ADW"
+    },
+    {
+        "name": "Smith Reynolds",
+        "city": "Winston-salem",
+        "code": "INT"
+    },
+    {
+        "name": "Southern California Logistics",
+        "city": "Victorville",
+        "code": "VCV"
+    },
+    {
+        "name": "Bob Sikes",
+        "city": "Crestview",
+        "code": "CEW"
+    },
+    {
+        "name": "Wheeler Sack Aaf",
+        "city": "Fort Drum",
+        "code": "GTB"
+    },
+    {
+        "name": "St Clair Co Intl",
+        "city": "Port Huron",
+        "code": "PHN"
+    },
+    {
+        "name": "Meadows Fld",
+        "city": "Bakersfield",
+        "code": "BFL"
+    },
+    {
+        "name": "El Paso Intl",
+        "city": "El Paso",
+        "code": "ELP"
+    },
+    {
+        "name": "Valley Intl",
+        "city": "Harlingen",
+        "code": "HRL"
+    },
+    {
+        "name": "Columbia Metropolitan",
+        "city": "Columbia",
+        "code": "CAE"
+    },
+    {
+        "name": "Davis Monthan Afb",
+        "city": "Tucson",
+        "code": "DMA"
+    },
+    {
+        "name": "Pensacola Nas",
+        "city": "Pensacola",
+        "code": "NPA"
+    },
+    {
+        "name": "Pensacola Rgnl",
+        "city": "Pensacola",
+        "code": "PNS"
+    },
+    {
+        "name": "Grand Forks Afb",
+        "city": "Red River",
+        "code": "RDR"
+    },
+    {
+        "name": "William P Hobby",
+        "city": "Houston",
+        "code": "HOU"
+    },
+    {
+        "name": "Buckley Afb",
+        "city": "Buckley",
+        "code": "BKF"
+    },
+    {
+        "name": "Northway",
+        "city": "Northway",
+        "code": "ORT"
+    },
+    {
+        "name": "Palmer Muni",
+        "city": "Palmer",
+        "code": "PAQ"
+    },
+    {
+        "name": "Pittsburgh Intl",
+        "city": "Pittsburgh",
+        "code": "PIT"
+    },
+    {
+        "name": "Wiley Post Will Rogers Mem",
+        "city": "Barrow",
+        "code": "BRW"
+    },
+    {
+        "name": "Ellington Fld",
+        "city": "Houston",
+        "code": "EFD"
+    },
+    {
+        "name": "Whidbey Island Nas",
+        "city": "Whidbey Island",
+        "code": "NUW"
+    },
+    {
+        "name": "Alice Intl",
+        "city": "Alice",
+        "code": "ALI"
+    },
+    {
+        "name": "Moody Afb",
+        "city": "Valdosta",
+        "code": "VAD"
+    },
+    {
+        "name": "Miami Intl",
+        "city": "Miami",
+        "code": "MIA"
+    },
+    {
+        "name": "Seattle Tacoma Intl",
+        "city": "Seattle",
+        "code": "SEA"
+    },
+    {
+        "name": "Lovell Fld",
+        "city": "Chattanooga",
+        "code": "CHA"
+    },
+    {
+        "name": "Igor I Sikorsky Mem",
+        "city": "Stratford",
+        "code": "BDR"
+    },
+    {
+        "name": "Jackson Evers Intl",
+        "city": "Jackson",
+        "code": "JAN"
+    },
+    {
+        "name": "Scholes Intl At Galveston",
+        "city": "Galveston",
+        "code": "GLS"
+    },
+    {
+        "name": "Long Beach",
+        "city": "Long Beach",
+        "code": "LGB"
+    },
+    {
+        "name": "Dillingham",
+        "city": "Dillingham",
+        "code": "HDH"
+    },
+    {
+        "name": "Williamsport Rgnl",
+        "city": "Williamsport",
+        "code": "IPT"
+    },
+    {
+        "name": "Indianapolis Intl",
+        "city": "Indianapolis",
+        "code": "IND"
+    },
+    {
+        "name": "Whiteman Afb",
+        "city": "Knobnoster",
+        "code": "SZL"
+    },
+    {
+        "name": "Akron Fulton Intl",
+        "city": "Akron",
+        "code": "AKC"
+    },
+    {
+        "name": "Greenwood Leflore",
+        "city": "Greenwood",
+        "code": "GWO"
+    },
+    {
+        "name": "Westchester Co",
+        "city": "White Plains",
+        "code": "HPN"
+    },
+    {
+        "name": "Francis S Gabreski",
+        "city": "West Hampton Beach",
+        "code": "FOK"
+    },
+    {
+        "name": "Jonesboro Muni",
+        "city": "Jonesboro",
+        "code": "JBR"
+    },
+    {
+        "name": "Tonopah Test Range",
+        "city": "Tonopah",
+        "code": "TNX"
+    },
+    {
+        "name": "Palm Beach Co Park",
+        "city": "West Palm Beach",
+        "code": "LNA"
+    },
+    {
+        "name": "North Island Nas",
+        "city": "San Diego",
+        "code": "NZY"
+    },
+    {
+        "name": "Biggs Aaf",
+        "city": "El Paso",
+        "code": "BIF"
+    },
+    {
+        "name": "Yuma Mcas Yuma Intl",
+        "city": "Yuma",
+        "code": "YUM"
+    },
+    {
+        "name": "Cavern City Air Terminal",
+        "city": "Carlsbad",
+        "code": "CNM"
+    },
+    {
+        "name": "Duluth Intl",
+        "city": "Duluth",
+        "code": "DLH"
+    },
+    {
+        "name": "Bethel",
+        "city": "Bethel",
+        "code": "BET"
+    },
+    {
+        "name": "Bowman Fld",
+        "city": "Louisville",
+        "code": "LOU"
+    },
+    {
+        "name": "Sierra Vista Muni Libby Aaf",
+        "city": "Fort Huachuca",
+        "code": "FHU"
+    },
+    {
+        "name": "Lihue",
+        "city": "Lihue",
+        "code": "LIH"
+    },
+    {
+        "name": "Terre Haute Intl Hulman Fld",
+        "city": "Terre Haute",
+        "code": "HUF"
+    },
+    {
+        "name": "Havre City Co",
+        "city": "Havre",
+        "code": "HVR"
+    },
+    {
+        "name": "Grant Co Intl",
+        "city": "Grant County Airport",
+        "code": "MWH"
+    },
+    {
+        "name": "Edward F Knapp State",
+        "city": "Montpelier",
+        "code": "MPV"
+    },
+    {
+        "name": "Richmond Intl",
+        "city": "Richmond",
+        "code": "RIC"
+    },
+    {
+        "name": "Shreveport Rgnl",
+        "city": "Shreveport",
+        "code": "SHV"
+    },
+    {
+        "name": "Merle K Mudhole Smith",
+        "city": "Cordova",
+        "code": "CDV"
+    },
+    {
+        "name": "Norfolk Intl",
+        "city": "Norfolk",
+        "code": "ORF"
+    },
+    {
+        "name": "Southeast Texas Rgnl",
+        "city": "Beaumont",
+        "code": "BPT"
+    },
+    {
+        "name": "Savannah Hilton Head Intl",
+        "city": "Savannah",
+        "code": "SAV"
+    },
+    {
+        "name": "Hill Afb",
+        "city": "Ogden",
+        "code": "HIF"
+    },
+    {
+        "name": "Nome",
+        "city": "Nome",
+        "code": "OME"
+    },
+    {
+        "name": "Scappoose Industrial Airpark",
+        "city": "San Luis",
+        "code": "SPB"
+    },
+    {
+        "name": "St Petersburg Clearwater Intl",
+        "city": "St. Petersburg",
+        "code": "PIE"
+    },
+    {
+        "name": "Menominee Marinette Twin Co",
+        "city": "Macon",
+        "code": "MNM"
+    },
+    {
+        "name": "Lone Star Executive",
+        "city": "Conroe",
+        "code": "CXO"
+    },
+    {
+        "name": "Deadhorse",
+        "city": "Deadhorse",
+        "code": "SCC"
+    },
+    {
+        "name": "San Antonio Intl",
+        "city": "San Antonio",
+        "code": "SAT"
+    },
+    {
+        "name": "Greater Rochester Intl",
+        "city": "Rochester",
+        "code": "ROC"
+    },
+    {
+        "name": "Patrick Afb",
+        "city": "Coco Beach",
+        "code": "COF"
+    },
+    {
+        "name": "Teterboro",
+        "city": "Teterboro",
+        "code": "TEB"
+    },
+    {
+        "name": "Ellsworth Afb",
+        "city": "Rapid City",
+        "code": "RCA"
+    },
+    {
+        "name": "Raleigh Durham Intl",
+        "city": "Raleigh-durham",
+        "code": "RDU"
+    },
+    {
+        "name": "James M Cox Dayton Intl",
+        "city": "Dayton",
+        "code": "DAY"
+    },
+    {
+        "name": "Kenai Muni",
+        "city": "Kenai",
+        "code": "ENA"
+    },
+    {
+        "name": "Mc Alester Rgnl",
+        "city": "Mcalester",
+        "code": "MLC"
+    },
+    {
+        "name": "Niagara Falls Intl",
+        "city": "Niagara Falls",
+        "code": "IAG"
+    },
+    {
+        "name": "Coulter Fld",
+        "city": "Bryan",
+        "code": "CFD"
+    },
+    {
+        "name": "Newport News Williamsburg Intl",
+        "city": "Newport News",
+        "code": "PHF"
+    },
+    {
+        "name": "Esler Rgnl",
+        "city": "Alexandria",
+        "code": "ESF"
+    },
+    {
+        "name": "Altus Afb",
+        "city": "Altus",
+        "code": "LTS"
+    },
+    {
+        "name": "Tucson Intl",
+        "city": "Tucson",
+        "code": "TUS"
+    },
+    {
+        "name": "Minot Afb",
+        "city": "Minot",
+        "code": "MIB"
+    },
+    {
+        "name": "Beale Afb",
+        "city": "Marysville",
+        "code": "BAB"
+    },
+    {
+        "name": "Greater Kankakee",
+        "city": "Kankakee",
+        "code": "IKK"
+    },
+    {
+        "name": "Seymour Johnson Afb",
+        "city": "Goldsboro",
+        "code": "GSB"
+    },
+    {
+        "name": "Theodore Francis Green State",
+        "city": "Providence",
+        "code": "PVD"
+    },
+    {
+        "name": "Salisbury Ocean City Wicomico Rgnl",
+        "city": "Salisbury",
+        "code": "SBY"
+    },
+    {
+        "name": "Rancho Murieta",
+        "city": "Rancho Murieta",
+        "code": "RIU"
+    },
+    {
+        "name": "Bob Hope",
+        "city": "Burbank",
+        "code": "BUR"
+    },
+    {
+        "name": "Detroit Metro Wayne Co",
+        "city": "Detroit",
+        "code": "DTW"
+    },
+    {
+        "name": "Tampa Intl",
+        "city": "Tampa",
+        "code": "TPA"
+    },
+    {
+        "name": "Pembina Muni",
+        "city": "Pembina",
+        "code": "PMB"
+    },
+    {
+        "name": "Polk Aaf",
+        "city": "Fort Polk",
+        "code": "POE"
+    },
+    {
+        "name": "Eielson Afb",
+        "city": "Fairbanks",
+        "code": "EIL"
+    },
+    {
+        "name": "Chisholm Hibbing",
+        "city": "Hibbing",
+        "code": "HIB"
+    },
+    {
+        "name": "Angelina Co",
+        "city": "Lufkin",
+        "code": "LFK"
+    },
+    {
+        "name": "Midland Intl",
+        "city": "Midland",
+        "code": "MAF"
+    },
+    {
+        "name": "Austin Straubel Intl",
+        "city": "Green Bay",
+        "code": "GRB"
+    },
+    {
+        "name": "Ardmore Muni",
+        "city": "Ardmore",
+        "code": "ADM"
+    },
+    {
+        "name": "Mc Guire Afb",
+        "city": "Wrightstown",
+        "code": "WRI"
+    },
+    {
+        "name": "Cherry Point Mcas",
+        "city": "Cherry Point",
+        "code": "NKT"
+    },
+    {
+        "name": "Emanuel Co",
+        "city": "Santa Barbara",
+        "code": "SBO"
+    },
+    {
+        "name": "Augusta Rgnl At Bush Fld",
+        "city": "Bush Field",
+        "code": "AGS"
+    },
+    {
+        "name": "Sloulin Fld Intl",
+        "city": "Williston",
+        "code": "ISN"
+    },
+    {
+        "name": "Adams Fld",
+        "city": "Little Rock",
+        "code": "LIT"
+    },
+    {
+        "name": "Stewart Intl",
+        "city": "Newburgh",
+        "code": "SWF"
+    },
+    {
+        "name": "Baudette Intl",
+        "city": "Baudette",
+        "code": "BDE"
+    },
+    {
+        "name": "Sacramento Executive",
+        "city": "Sacramento",
+        "code": "SAC"
+    },
+    {
+        "name": "Homer",
+        "city": "Homer",
+        "code": "HOM"
+    },
+    {
+        "name": "Waynesville Rgnl Arpt At Forney Fld",
+        "city": "Fort Leonardwood",
+        "code": "TBN"
+    },
+    {
+        "name": "Dobbins Arb",
+        "city": "Marietta",
+        "code": "MGE"
+    },
+    {
+        "name": "Fairchild Afb",
+        "city": "Spokane",
+        "code": "SKA"
+    },
+    {
+        "name": "Roscommon Co",
+        "city": "Houghton Lake",
+        "code": "HTL"
+    },
+    {
+        "name": "Tyndall Afb",
+        "city": "Panama City",
+        "code": "PAM"
+    },
+    {
+        "name": "Dallas Fort Worth Intl",
+        "city": "Dallas-Fort Worth",
+        "code": "DFW"
+    },
+    {
+        "name": "Melbourne Intl",
+        "city": "Melbourne",
+        "code": "MLB"
+    },
+    {
+        "name": "Mc Chord Afb",
+        "city": "Tacoma",
+        "code": "TCM"
+    },
+    {
+        "name": "Austin Bergstrom Intl",
+        "city": "Austin",
+        "code": "AUS"
+    },
+    {
+        "name": "Rickenbacker Intl",
+        "city": "Columbus",
+        "code": "LCK"
+    },
+    {
+        "name": "Mc Ghee Tyson",
+        "city": "Knoxville",
+        "code": "TYS"
+    },
+    {
+        "name": "Hood Aaf",
+        "city": "Fort Hood",
+        "code": "HLR"
+    },
+    {
+        "name": "Lambert St Louis Intl",
+        "city": "St. Louis",
+        "code": "STL"
+    },
+    {
+        "name": "Millville Muni",
+        "city": "Millville",
+        "code": "MIV"
+    },
+    {
+        "name": "Sheppard Afb Wichita Falls Muni",
+        "city": "Wichita Falls",
+        "code": "SPS"
+    },
+    {
+        "name": "Cincinnati Muni Lunken Fld",
+        "city": "Cincinnati",
+        "code": "LUK"
+    },
+    {
+        "name": "Hartsfield Jackson Atlanta Intl",
+        "city": "Atlanta",
+        "code": "ATL"
+    },
+    {
+        "name": "Castle",
+        "city": "Merced",
+        "code": "MER"
+    },
+    {
+        "name": "Mc Clellan Afld",
+        "city": "Sacramento",
+        "code": "MCC"
+    },
+    {
+        "name": "Gerald R Ford Intl",
+        "city": "Grand Rapids",
+        "code": "GRR"
+    },
+    {
+        "name": "Winkler Co",
+        "city": "Wink",
+        "code": "INK"
+    },
+    {
+        "name": "Fresno Yosemite Intl",
+        "city": "Fresno",
+        "code": "FAT"
+    },
+    {
+        "name": "Vero Beach Muni",
+        "city": "Vero Beach",
+        "code": "VRB"
+    },
+    {
+        "name": "Imperial Co",
+        "city": "Imperial",
+        "code": "IPL"
+    },
+    {
+        "name": "Nashville Intl",
+        "city": "Nashville",
+        "code": "BNA"
+    },
+    {
+        "name": "Laredo Intl",
+        "city": "Laredo",
+        "code": "LRD"
+    },
+    {
+        "name": "Elmendorf Afb",
+        "city": "Anchorage",
+        "code": "EDF"
+    },
+    {
+        "name": "Ralph Wien Mem",
+        "city": "Kotzebue",
+        "code": "OTZ"
+    },
+    {
+        "name": "Altoona Blair Co",
+        "city": "Altoona",
+        "code": "AOO"
+    },
+    {
+        "name": "Dyess Afb",
+        "city": "Abilene",
+        "code": "DYS"
+    },
+    {
+        "name": "South Arkansas Rgnl At Goodwin Fld",
+        "city": "El Dorado",
+        "code": "ELD"
+    },
+    {
+        "name": "La Guardia",
+        "city": "New York",
+        "code": "LGA"
+    },
+    {
+        "name": "Tallahassee Rgnl",
+        "city": "Tallahassee",
+        "code": "TLH"
+    },
+    {
+        "name": "Dupage",
+        "city": "West Chicago",
+        "code": "DPA"
+    },
+    {
+        "name": "Waco Rgnl",
+        "city": "Waco",
+        "code": "ACT"
+    },
+    {
+        "name": "Augusta State",
+        "city": "Augusta",
+        "code": "AUG"
+    },
+    {
+        "name": "Hillsboro Muni",
+        "city": "Hillsboro",
+        "code": "INJ"
+    },
+    {
+        "name": "Jacksonville Nas",
+        "city": "Jacksonville",
+        "code": "NIP"
+    },
+    {
+        "name": "Mc Kellar Sipes Rgnl",
+        "city": "Jackson",
+        "code": "MKL"
+    },
+    {
+        "name": "Molokai",
+        "city": "Molokai",
+        "code": "MKK"
+    },
+    {
+        "name": "Godman Aaf",
+        "city": "Fort Knox",
+        "code": "FTK"
+    },
+    {
+        "name": "San Angelo Rgnl Mathis Fld",
+        "city": "San Angelo",
+        "code": "SJT"
+    },
+    {
+        "name": "Calexico Intl",
+        "city": "Calexico",
+        "code": "CXL"
+    },
+    {
+        "name": "Chico Muni",
+        "city": "Chico",
+        "code": "CIC"
+    },
+    {
+        "name": "Burlington Intl",
+        "city": "Burlington",
+        "code": "BTV"
+    },
+    {
+        "name": "Jacksonville Intl",
+        "city": "Jacksonville",
+        "code": "JAX"
+    },
+    {
+        "name": "Durango La Plata Co",
+        "city": "Durango",
+        "code": "DRO"
+    },
+    {
+        "name": "Washington Dulles Intl",
+        "city": "Washington",
+        "code": "IAD"
+    },
+    {
+        "name": "Easterwood Fld",
+        "city": "College Station",
+        "code": "CLL"
+    },
+    {
+        "name": "Felts Fld",
+        "city": "Spokane",
+        "code": "SFF"
+    },
+    {
+        "name": "General Mitchell Intl",
+        "city": "Milwaukee",
+        "code": "MKE"
+    },
+    {
+        "name": "Abilene Rgnl",
+        "city": "Abilene",
+        "code": "ABI"
+    },
+    {
+        "name": "Columbia Rgnl",
+        "city": "Columbia",
+        "code": "COU"
+    },
+    {
+        "name": "Portland Intl",
+        "city": "Portland",
+        "code": "PDX"
+    },
+    {
+        "name": "Dade Collier Training And Transition",
+        "city": "Miami",
+        "code": "TNT"
+    },
+    {
+        "name": "Palm Beach Intl",
+        "city": "West Palm Beach",
+        "code": "PBI"
+    },
+    {
+        "name": "Fort Worth Meacham Intl",
+        "city": "Fort Worth",
+        "code": "FTW"
+    },
+    {
+        "name": "Ogdensburg Intl",
+        "city": "Ogdensburg",
+        "code": "OGS"
+    },
+    {
+        "name": "Otis Angb",
+        "city": "Falmouth",
+        "code": "FMH"
+    },
+    {
+        "name": "Boeing Fld King Co Intl",
+        "city": "Seattle",
+        "code": "BFI"
+    },
+    {
+        "name": "Lackland Afb Kelly Fld Annex",
+        "city": "San Antonio",
+        "code": "SKF"
+    },
+    {
+        "name": "Honolulu Intl",
+        "city": "Honolulu",
+        "code": "HNL"
+    },
+    {
+        "name": "Des Moines Intl",
+        "city": "Des Moines",
+        "code": "DSM"
+    },
+    {
+        "name": "Craven Co Rgnl",
+        "city": "New Bern",
+        "code": "EWN"
+    },
+    {
+        "name": "San Diego Intl",
+        "city": "San Diego",
+        "code": "SAN"
+    },
+    {
+        "name": "Monroe Rgnl",
+        "city": "Monroe",
+        "code": "MLU"
+    },
+    {
+        "name": "Shaw Afb",
+        "city": "Sumter",
+        "code": "SSC"
+    },
+    {
+        "name": "Ontario Intl",
+        "city": "Ontario",
+        "code": "ONT"
+    },
+    {
+        "name": "Majors",
+        "city": "Greenvile",
+        "code": "GVT"
+    },
+    {
+        "name": "Roswell Intl Air Center",
+        "city": "Roswell",
+        "code": "ROW"
+    },
+    {
+        "name": "Coleman A Young Muni",
+        "city": "Detroit",
+        "code": "DET"
+    },
+    {
+        "name": "Brownsville South Padre Island Intl",
+        "city": "Brownsville",
+        "code": "BRO"
+    },
+    {
+        "name": "Dothan Rgnl",
+        "city": "Dothan",
+        "code": "DHN"
+    },
+    {
+        "name": "Cape May Co",
+        "city": "Wildwood",
+        "code": "WWD"
+    },
+    {
+        "name": "Fallon Nas",
+        "city": "Fallon",
+        "code": "NFL"
+    },
+    {
+        "name": "Selfridge Angb",
+        "city": "Mount Clemens",
+        "code": "MTC"
+    },
+    {
+        "name": "Four Corners Rgnl",
+        "city": "Farmington",
+        "code": "FMN"
+    },
+    {
+        "name": "Corpus Christi Intl",
+        "city": "Corpus Christi",
+        "code": "CRP"
+    },
+    {
+        "name": "Syracuse Hancock Intl",
+        "city": "Syracuse",
+        "code": "SYR"
+    },
+    {
+        "name": "Key West Nas",
+        "city": "Key West",
+        "code": "NQX"
+    },
+    {
+        "name": "Chicago Midway Intl",
+        "city": "Chicago",
+        "code": "MDW"
+    },
+    {
+        "name": "Norman Y Mineta San Jose Intl",
+        "city": "San Jose",
+        "code": "SJC"
+    },
+    {
+        "name": "Lea Co Rgnl",
+        "city": "Hobbs",
+        "code": "HOB"
+    },
+    {
+        "name": "Northeast Philadelphia",
+        "city": "Philadelphia",
+        "code": "PNE"
+    },
+    {
+        "name": "Denver Intl",
+        "city": "Denver",
+        "code": "DEN"
+    },
+    {
+        "name": "Philadelphia Intl",
+        "city": "Philadelphia",
+        "code": "PHL"
+    },
+    {
+        "name": "Sioux Gateway Col Bud Day Fld",
+        "city": "Sioux City",
+        "code": "SUX"
+    },
+    {
+        "name": "Middle Georgia Rgnl",
+        "city": "Macon",
+        "code": "MCN"
+    },
+    {
+        "name": "Truth Or Consequences Muni",
+        "city": "Truth Or Consequences",
+        "code": "TCS"
+    },
+    {
+        "name": "Palmdale Rgnl Usaf Plt 42",
+        "city": "Palmdale",
+        "code": "PMD"
+    },
+    {
+        "name": "Randolph Afb",
+        "city": "San Antonio",
+        "code": "RND"
+    },
+    {
+        "name": "El Centro Naf",
+        "city": "El Centro",
+        "code": "NJK"
+    },
+    {
+        "name": "Port Columbus Intl",
+        "city": "Columbus",
+        "code": "CMH"
+    },
+    {
+        "name": "Drake Fld",
+        "city": "Fayetteville",
+        "code": "FYV"
+    },
+    {
+        "name": "Henry Post Aaf",
+        "city": "Fort Sill",
+        "code": "FSI"
+    },
+    {
+        "name": "Princeton Muni",
+        "city": "Princeton",
+        "code": "PNM"
+    },
+    {
+        "name": "Wright Patterson Afb",
+        "city": "Dayton",
+        "code": "FFO"
+    },
+    {
+        "name": "Edward G Pitka Sr",
+        "city": "Galena",
+        "code": "GAL"
+    },
+    {
+        "name": "Mineral Wells",
+        "city": "Mineral Wells",
+        "code": "MWL"
+    },
+    {
+        "name": "Mc Connell Afb",
+        "city": "Wichita",
+        "code": "IAB"
+    },
+    {
+        "name": "New Orleans Nas Jrb",
+        "city": "New Orleans",
+        "code": "NBG"
+    },
+    {
+        "name": "Beaufort",
+        "city": "Beaufort",
+        "code": "BFT"
+    },
+    {
+        "name": "Texarkana Rgnl Webb Fld",
+        "city": "Texarkana",
+        "code": "TXK"
+    },
+    {
+        "name": "Plattsburgh Intl",
+        "city": "Plattsburgh",
+        "code": "PBG"
+    },
+    {
+        "name": "Phillips Aaf",
+        "city": "Aberdeen",
+        "code": "APG"
+    },
+    {
+        "name": "Tucumcari Muni",
+        "city": "Tucumcari",
+        "code": "TCC"
+    },
+    {
+        "name": "Ted Stevens Anchorage Intl",
+        "city": "Anchorage",
+        "code": "ANC"
+    },
+    {
+        "name": "Robert Gray Aaf",
+        "city": "Killeen",
+        "code": "GRK"
+    },
+    {
+        "name": "Black Rock",
+        "city": "Zuni Pueblo",
+        "code": "ZUN"
+    },
+    {
+        "name": "Bellingham Intl",
+        "city": "Bellingham",
+        "code": "BLI"
+    },
+    {
+        "name": "Millington Rgnl Jetport",
+        "city": "Millington",
+        "code": "NQA"
+    },
+    {
+        "name": "Elkins Randolph Co Jennings Randolph",
+        "city": "Elkins",
+        "code": "EKN"
+    },
+    {
+        "name": "Hartford Brainard",
+        "city": "Hartford",
+        "code": "HFD"
+    },
+    {
+        "name": "North Central State",
+        "city": "Smithfield",
+        "code": "SFZ"
+    },
+    {
+        "name": "Mobile Rgnl",
+        "city": "Mobile",
+        "code": "MOB"
+    },
+    {
+        "name": "Moffett Federal Afld",
+        "city": "Mountain View",
+        "code": "NUQ"
+    },
+    {
+        "name": "Santa Fe Muni",
+        "city": "Santa Fe",
+        "code": "SAF"
+    },
+    {
+        "name": "Barking Sands Pmrf",
+        "city": "Barking Sands",
+        "code": "BKH"
+    },
+    {
+        "name": "Beauregard Rgnl",
+        "city": "Deridder",
+        "code": "DRI"
+    },
+    {
+        "name": "Bradshaw Aaf",
+        "city": "Bradshaw Field",
+        "code": "BSF"
+    },
+    {
+        "name": "Nogales Intl",
+        "city": "Nogales",
+        "code": "OLS"
+    },
+    {
+        "name": "Macdill Afb",
+        "city": "Tampa",
+        "code": "MCF"
+    },
+    {
+        "name": "Scott Afb Midamerica",
+        "city": "Belleville",
+        "code": "BLV"
+    },
+    {
+        "name": "Opa Locka",
+        "city": "Miami",
+        "code": "OPF"
+    },
+    {
+        "name": "Del Rio Intl",
+        "city": "Del Rio",
+        "code": "DRT"
+    },
+    {
+        "name": "Southwest Florida Intl",
+        "city": "Fort Myers",
+        "code": "RSW"
+    },
+    {
+        "name": "King Salmon",
+        "city": "King Salmon",
+        "code": "AKN"
+    },
+    {
+        "name": "Muir Aaf",
+        "city": "Muir",
+        "code": "MUI"
+    },
+    {
+        "name": "Kapalua",
+        "city": "Lahania-kapalua",
+        "code": "JHM"
+    },
+    {
+        "name": "John F Kennedy Intl",
+        "city": "New York",
+        "code": "JFK"
+    },
+    {
+        "name": "Homestead Arb",
+        "city": "Homestead",
+        "code": "HST"
+    },
+    {
+        "name": "Riverside Muni",
+        "city": "Riverside",
+        "code": "RAL"
+    },
+    {
+        "name": "Sherman Aaf",
+        "city": "Fort Leavenworth",
+        "code": "FLV"
+    },
+    {
+        "name": "Wallops Flight Facility",
+        "city": "Wallops Island",
+        "code": "WAL"
+    },
+    {
+        "name": "Holloman Afb",
+        "city": "Alamogordo",
+        "code": "HMN"
+    },
+    {
+        "name": "Willow Grove Nas Jrb",
+        "city": "Willow Grove",
+        "code": "NXX"
+    },
+    {
+        "name": "Cheyenne Rgnl Jerry Olson Fld",
+        "city": "Cheyenne",
+        "code": "CYS"
+    },
+    {
+        "name": "Stockton Metropolitan",
+        "city": "Stockton",
+        "code": "SCK"
+    },
+    {
+        "name": "Charleston Afb Intl",
+        "city": "Charleston",
+        "code": "CHS"
+    },
+    {
+        "name": "Reno Tahoe Intl",
+        "city": "Reno",
+        "code": "RNO"
+    },
+    {
+        "name": "Ketchikan Intl",
+        "city": "Ketchikan",
+        "code": "KTN"
+    },
+    {
+        "name": "Willow Run",
+        "city": "Detroit",
+        "code": "YIP"
+    },
+    {
+        "name": "Vandenberg Afb",
+        "city": "Lompoc",
+        "code": "VBG"
+    },
+    {
+        "name": "Birmingham Intl",
+        "city": "Birmingham",
+        "code": "BHM"
+    },
+    {
+        "name": "Lakehurst Naes",
+        "city": "Lakehurst",
+        "code": "NEL"
+    },
+    {
+        "name": "Eareckson As",
+        "city": "Shemya",
+        "code": "SYA"
+    },
+    {
+        "name": "Nellis Afb",
+        "city": "Las Vegas",
+        "code": "LSV"
+    },
+    {
+        "name": "March Arb",
+        "city": "Riverside",
+        "code": "RIV"
+    },
+    {
+        "name": "Modesto City Co Harry Sham",
+        "city": "Modesto",
+        "code": "MOD"
+    },
+    {
+        "name": "Sacramento Intl",
+        "city": "Sacramento",
+        "code": "SMF"
+    },
+    {
+        "name": "Waukegan Rgnl",
+        "city": "Chicago",
+        "code": "UGN"
+    },
+    {
+        "name": "City Of Colorado Springs Muni",
+        "city": "Colorado Springs",
+        "code": "COS"
+    },
+    {
+        "name": "Buffalo Niagara Intl",
+        "city": "Buffalo",
+        "code": "BUF"
+    },
+    {
+        "name": "Griffing Sandusky",
+        "city": "Sandusky",
+        "code": "SKY"
+    },
+    {
+        "name": "Snohomish Co",
+        "city": "Everett",
+        "code": "PAE"
+    },
+    {
+        "name": "Mountain Home Afb",
+        "city": "Mountain Home",
+        "code": "MUO"
+    },
+    {
+        "name": "Cedar City Rgnl",
+        "city": "Cedar City",
+        "code": "CDC"
+    },
+    {
+        "name": "Bradley Intl",
+        "city": "Windsor Locks",
+        "code": "BDL"
+    },
+    {
+        "name": "Mc Allen Miller Intl",
+        "city": "Mcallen",
+        "code": "MFE"
+    },
+    {
+        "name": "Norfolk Ns",
+        "city": "Norfolk",
+        "code": "NGU"
+    },
+    {
+        "name": "Westover Arb Metropolitan",
+        "city": "Chicopee Falls",
+        "code": "CEF"
+    },
+    {
+        "name": "Lubbock Preston Smith Intl",
+        "city": "Lubbock",
+        "code": "LBB"
+    },
+    {
+        "name": "Chicago Ohare Intl",
+        "city": "Chicago",
+        "code": "ORD"
+    },
+    {
+        "name": "Boca Raton",
+        "city": "Boca Raton",
+        "code": "BCT"
+    },
+    {
+        "name": "Fairbanks Intl",
+        "city": "Fairbanks",
+        "code": "FAI"
+    },
+    {
+        "name": "Quantico Mcaf",
+        "city": "Quantico",
+        "code": "NYG"
+    },
+    {
+        "name": "Cannon Afb",
+        "city": "Clovis",
+        "code": "CVS"
+    },
+    {
+        "name": "Kaneohe Bay Mcaf",
+        "city": "Kaneohe Bay",
+        "code": "NGF"
+    },
+    {
+        "name": "Offutt Afb",
+        "city": "Omaha",
+        "code": "OFF"
+    },
+    {
+        "name": "Gulkana",
+        "city": "Gulkana",
+        "code": "GKN"
+    },
+    {
+        "name": "Watertown Intl",
+        "city": "Watertown",
+        "code": "ART"
+    },
+    {
+        "name": "Palm Springs Intl",
+        "city": "Palm Springs",
+        "code": "PSP"
+    },
+    {
+        "name": "Rick Husband Amarillo Intl",
+        "city": "Amarillo",
+        "code": "AMA"
+    },
+    {
+        "name": "Fort Dodge Rgnl",
+        "city": "Fort Dodge",
+        "code": "FOD"
+    },
+    {
+        "name": "Barksdale Afb",
+        "city": "Shreveport",
+        "code": "BAD"
+    },
+    {
+        "name": "Forbes Fld",
+        "city": "Topeka",
+        "code": "FOE"
+    },
+    {
+        "name": "Cotulla Lasalle Co",
+        "city": "Cotulla",
+        "code": "COT"
+    },
+    {
+        "name": "Wilmington Intl",
+        "city": "Wilmington",
+        "code": "ILM"
+    },
+    {
+        "name": "Baton Rouge Metro Ryan Fld",
+        "city": "Baton Rouge",
+        "code": "BTR"
+    },
+    {
+        "name": "Meridian Nas",
+        "city": "Meridian",
+        "code": "NMM"
+    },
+    {
+        "name": "Tyler Pounds Rgnl",
+        "city": "Tyler",
+        "code": "TYR"
+    },
+    {
+        "name": "Baltimore Washington Intl",
+        "city": "Baltimore",
+        "code": "BWI"
+    },
+    {
+        "name": "Hobart Muni",
+        "city": "Hobart",
+        "code": "HBR"
+    },
+    {
+        "name": "Lanai",
+        "city": "Lanai",
+        "code": "LNY"
+    },
+    {
+        "name": "Alexandria Intl",
+        "city": "Alexandria",
+        "code": "AEX"
+    },
+    {
+        "name": "Condron Aaf",
+        "city": "White Sands",
+        "code": "WSD"
+    },
+    {
+        "name": "Cold Bay",
+        "city": "Cold Bay",
+        "code": "CDB"
+    },
+    {
+        "name": "Tulsa Intl",
+        "city": "Tulsa",
+        "code": "TUL"
+    },
+    {
+        "name": "Sitka Rocky Gutierrez",
+        "city": "Sitka",
+        "code": "SIT"
+    },
+    {
+        "name": "Long Island Mac Arthur",
+        "city": "Islip",
+        "code": "ISP"
+    },
+    {
+        "name": "Minneapolis St Paul Intl",
+        "city": "Minneapolis",
+        "code": "MSP"
+    },
+    {
+        "name": "New Castle",
+        "city": "Wilmington",
+        "code": "ILG"
+    },
+    {
+        "name": "Unalaska",
+        "city": "Unalaska",
+        "code": "DUT"
+    },
+    {
+        "name": "Louis Armstrong New Orleans Intl",
+        "city": "New Orleans",
+        "code": "MSY"
+    },
+    {
+        "name": "Portland Intl Jetport",
+        "city": "Portland",
+        "code": "PWM"
+    },
+    {
+        "name": "Will Rogers World",
+        "city": "Oklahoma City",
+        "code": "OKC"
+    },
+    {
+        "name": "Albany Intl",
+        "city": "Albany",
+        "code": "ALB"
+    },
+    {
+        "name": "Valdez Pioneer Fld",
+        "city": "Valdez",
+        "code": "VDZ"
+    },
+    {
+        "name": "Langley Afb",
+        "city": "Hampton",
+        "code": "LFI"
+    },
+    {
+        "name": "John Wayne Arpt Orange Co",
+        "city": "Santa Ana",
+        "code": "SNA"
+    },
+    {
+        "name": "Columbus Afb",
+        "city": "Colombus",
+        "code": "CBM"
+    },
+    {
+        "name": "Kendall Tamiami Executive",
+        "city": "Kendall-tamiami",
+        "code": "TMB"
+    },
+    {
+        "name": "Oceana Nas",
+        "city": "Oceana",
+        "code": "NTU"
+    },
+    {
+        "name": "Grissom Arb",
+        "city": "Peru",
+        "code": "GUS"
+    },
+    {
+        "name": "Natrona Co Intl",
+        "city": "Casper",
+        "code": "CPR"
+    },
+    {
+        "name": "Eglin Afb",
+        "city": "Valparaiso",
+        "code": "VPS"
+    },
+    {
+        "name": "Craig Fld",
+        "city": "Selma",
+        "code": "SEM"
+    },
+    {
+        "name": "Key West Intl",
+        "city": "Key West",
+        "code": "EYW"
+    },
+    {
+        "name": "Charlotte Douglas Intl",
+        "city": "Charlotte",
+        "code": "CLT"
+    },
+    {
+        "name": "Mc Carran Intl",
+        "city": "Las Vegas",
+        "code": "LAS"
+    },
+    {
+        "name": "Orlando Intl",
+        "city": "Orlando",
+        "code": "MCO"
+    },
+    {
+        "name": "Florence Rgnl",
+        "city": "Florence",
+        "code": "FLO"
+    },
+    {
+        "name": "Great Falls Intl",
+        "city": "Great Falls",
+        "code": "GTF"
+    },
+    {
+        "name": "Youngstown Warren Rgnl",
+        "city": "Youngstown",
+        "code": "YNG"
+    },
+    {
+        "name": "Ladd Aaf",
+        "city": "Fort Wainwright",
+        "code": "FBK"
+    },
+    {
+        "name": "Mc Minnville Muni",
+        "city": "Mackminnville",
+        "code": "MMV"
+    },
+    {
+        "name": "Robins Afb",
+        "city": "Macon",
+        "code": "WRB"
+    },
+    {
+        "name": "Pullman-Moscow Rgnl",
+        "city": "Pullman",
+        "code": "PUW"
+    },
+    {
+        "name": "Lewiston Nez Perce Co",
+        "city": "Lewiston",
+        "code": "LWS"
+    },
+    {
+        "name": "Elmira Corning Rgnl",
+        "city": "Elmira",
+        "code": "ELM"
+    },
+    {
+        "name": "Ithaca Tompkins Rgnl",
+        "city": "Ithaca",
+        "code": "ITH"
+    },
+    {
+        "name": "Monterey Peninsula",
+        "city": "Monterey",
+        "code": "MRY"
+    },
+    {
+        "name": "Santa Barbara Muni",
+        "city": "Santa Barbara",
+        "code": "SBA"
+    },
+    {
+        "name": "Daytona Beach Intl",
+        "city": "Daytona Beach",
+        "code": "DAB"
+    },
+    {
+        "name": "Wall Street Heliport",
+        "city": "New York",
+        "code": "JRB"
+    },
+    {
+        "name": "Talkeetna",
+        "city": "Talkeetna",
+        "code": "TKA"
+    },
+    {
+        "name": "Tweed-New Haven Airport",
+        "city": "New Haven",
+        "code": "HVN"
+    },
+    {
+        "name": "Asheville Regional Airport",
+        "city": "Asheville",
+        "code": "AVL"
+    },
+    {
+        "name": "Piedmont Triad",
+        "city": "Greensboro",
+        "code": "GSO"
+    },
+    {
+        "name": "Sioux Falls",
+        "city": "Sioux Falls",
+        "code": "FSD"
+    },
+    {
+        "name": "Manchester Regional Airport",
+        "city": "Manchester NH",
+        "code": "MHT"
+    },
+    {
+        "name": "Naples Muni",
+        "city": "Naples",
+        "code": "APF"
+    },
+    {
+        "name": "Louisville International Airport",
+        "city": "Louisville",
+        "code": "SDF"
+    },
+    {
+        "name": "Charlottesville-Albemarle",
+        "city": "Charlottesville VA",
+        "code": "CHO"
+    },
+    {
+        "name": "Roanoke Regional",
+        "city": "Roanoke VA",
+        "code": "ROA"
+    },
+    {
+        "name": "Blue Grass",
+        "city": "Lexington KY",
+        "code": "LEX"
+    },
+    {
+        "name": "Evansville Regional",
+        "city": "Evansville",
+        "code": "EVV"
+    },
+    {
+        "name": "Albuquerque International Sunport",
+        "city": "Albuquerque",
+        "code": "ABQ"
+    },
+    {
+        "name": "Gallatin Field",
+        "city": "Bozeman",
+        "code": "BZN"
+    },
+    {
+        "name": "Billings Logan International Airport",
+        "city": "Billings",
+        "code": "BIL"
+    },
+    {
+        "name": "Bert Mooney Airport",
+        "city": "Butte",
+        "code": "BTM"
+    },
+    {
+        "name": "Cherry Capital Airport",
+        "city": "Traverse City",
+        "code": "TVC"
+    },
+    {
+        "name": "Hancock County - Bar Harbor",
+        "city": "Bar Harbor",
+        "code": "BHB"
+    },
+    {
+        "name": "Knox County Regional Airport",
+        "city": "Rockland",
+        "code": "RKD"
+    },
+    {
+        "name": "Jackson Hole Airport",
+        "city": "Jacksn Hole",
+        "code": "JAC"
+    },
+    {
+        "name": "Chicago Rockford International Airport ",
+        "city": "Rockford",
+        "code": "RFD"
+    },
+    {
+        "name": "East 34th Street Heliport",
+        "city": "New York",
+        "code": "TSS"
+    },
+    {
+        "name": "Greenville-Spartanburg International",
+        "city": "Greenville",
+        "code": "GSP"
+    },
+    {
+        "name": "Central Illinois Rgnl",
+        "city": "Bloomington",
+        "code": "BMI"
+    },
+    {
+        "name": "Gulfport-Biloxi",
+        "city": "Gulfport",
+        "code": "GPT"
+    },
+    {
+        "name": "Kalamazoo",
+        "city": "Kalamazoo",
+        "code": "AZO"
+    },
+    {
+        "name": "Toledo",
+        "city": "Toledo",
+        "code": "TOL"
+    },
+    {
+        "name": "Fort Wayne",
+        "city": "Fort Wayne",
+        "code": "FWA"
+    },
+    {
+        "name": "Decatur",
+        "city": "Decatur",
+        "code": "DEC"
+    },
+    {
+        "name": "Cedar Rapids",
+        "city": "Cedar Rapids",
+        "code": "CID"
+    },
+    {
+        "name": "La Crosse Municipal",
+        "city": "La Crosse",
+        "code": "LSE"
+    },
+    {
+        "name": "Central Wisconsin",
+        "city": "Wassau",
+        "code": "CWA"
+    },
+    {
+        "name": "Peoria Regional",
+        "city": "Peoria",
+        "code": "PIA"
+    },
+    {
+        "name": "Appleton",
+        "city": "Appleton",
+        "code": "ATW"
+    },
+    {
+        "name": "Rochester",
+        "city": "Rochester",
+        "code": "RST"
+    },
+    {
+        "name": "Champaign",
+        "city": "Champaign",
+        "code": "CMI"
+    },
+    {
+        "name": "Manhattan Reigonal",
+        "city": "Manhattan",
+        "code": "MHK"
+    },
+    {
+        "name": "Franklin",
+        "city": "Franklin",
+        "code": "FKL"
+    },
+    {
+        "name": "Grand Junction Regional",
+        "city": "Grand Junction",
+        "code": "GJT"
+    },
+    {
+        "name": "St George Muni",
+        "city": "Saint George",
+        "code": "SGU"
+    },
+    {
+        "name": "David Wayne Hooks Field",
+        "city": "Houston",
+        "code": "DWH"
+    },
+    {
+        "name": "Port O\\\\'Connor Airfield",
+        "city": "Port O\\\\'Connor",
+        "code": "S46"
+    },
+    {
+        "name": "Sarasota Bradenton Intl",
+        "city": "Sarasota",
+        "code": "SRQ"
+    },
+    {
+        "name": "Van Nuys",
+        "city": "Van Nuys",
+        "code": "VNY"
+    },
+    {
+        "name": "Arthur Dunn Airpark",
+        "city": "Titusville",
+        "code": "X21"
+    },
+    {
+        "name": "Quad City Intl",
+        "city": "Moline",
+        "code": "MLI"
+    },
+    {
+        "name": "Panama City Bay Co Intl",
+        "city": "Panama City",
+        "code": "PFN"
+    },
+    {
+        "name": "Orlando",
+        "city": "Orlando",
+        "code": "DWS"
+    },
+    {
+        "name": "Bismarck Municipal Airport",
+        "city": "Bismarck",
+        "code": "BIS"
+    },
+    {
+        "name": "Telluride",
+        "city": "Telluride",
+        "code": "TEX"
+    },
+    {
+        "name": "Rapid City Regional Airport",
+        "city": "Rapid City",
+        "code": "RAP"
+    },
+    {
+        "name": "McClellan-Palomar Airport",
+        "city": "Carlsbad",
+        "code": "CLD"
+    },
+    {
+        "name": "Bishop International",
+        "city": "Flint",
+        "code": "FNT"
+    },
+    {
+        "name": "Redding Muni",
+        "city": "Redding",
+        "code": "RDD"
+    },
+    {
+        "name": "Mahlon Sweet Fld",
+        "city": "Eugene",
+        "code": "EUG"
+    },
+    {
+        "name": "Idaho Falls Rgnl",
+        "city": "Idaho Falls",
+        "code": "IDA"
+    },
+    {
+        "name": "Rogue Valley Intl Medford",
+        "city": "Medford",
+        "code": "MFR"
+    },
+    {
+        "name": "Roberts Fld",
+        "city": "Redmond-Bend",
+        "code": "RDM"
+    },
+    {
+        "name": "Akron Canton Regional Airport",
+        "city": "Akron",
+        "code": "CAK"
+    },
+    {
+        "name": "Huntsville International Airport-Carl T Jones Field",
+        "city": "Huntsville",
+        "code": "HSV"
+    },
+    {
+        "name": "Mid-Ohio Valley Regional Airport",
+        "city": "PARKERSBURG",
+        "code": "PKB"
+    },
+    {
+        "name": "Montgomery Regional Airport ",
+        "city": "MONTGOMERY",
+        "code": "MGM"
+    },
+    {
+        "name": "Tri-Cities Regional Airport",
+        "city": "BRISTOL",
+        "code": "TRI"
+    },
+    {
+        "name": "Barkley Regional Airport",
+        "city": "PADUCAH",
+        "code": "PAH"
+    },
+    {
+        "name": "Glacier Park Intl",
+        "city": "Kalispell",
+        "code": "FCA"
+    },
+    {
+        "name": "Page Municipal Airport",
+        "city": "Page",
+        "code": "PGA"
+    },
+    {
+        "name": "Mbs Intl",
+        "city": "Saginaw",
+        "code": "MBS"
+    },
+    {
+        "name": "Greater Binghamton Edwin A Link Fld",
+        "city": "Binghamton",
+        "code": "BGM"
+    },
+    {
+        "name": "Blythe Airport",
+        "city": "Blythe",
+        "code": "BLH"
+    },
+    {
+        "name": "Petersburg James A. Johnson",
+        "city": "Petersburg",
+        "code": "PSG"
+    },
+    {
+        "name": "Orlando Sanford Intl",
+        "city": "Sanford",
+        "code": "SFB"
+    },
+    {
+        "name": "John Murtha Johnstown-Cambria County Airport",
+        "city": "Johnstown",
+        "code": "JST"
+    },
+    {
+        "name": "Missoula Intl",
+        "city": "Missoula",
+        "code": "MSO"
+    },
+    {
+        "name": "Grand Canyon National Park Airport",
+        "city": "Grand Canyon",
+        "code": "GCN"
+    },
+    {
+        "name": "Sugar Land Regional Airport",
+        "city": "Sugar Land",
+        "code": "SGR"
+    },
+    {
+        "name": "Centennial",
+        "city": "Denver",
+        "code": "APA"
+    },
+    {
+        "name": "Clovis Muni",
+        "city": "Clovis",
+        "code": "CVN"
+    },
+    {
+        "name": "Fort Stockton Pecos Co",
+        "city": "Fort Stockton",
+        "code": "FST"
+    },
+    {
+        "name": "Las Vegas Muni",
+        "city": "Las Vegas",
+        "code": "LVS"
+    },
+    {
+        "name": "West Houston",
+        "city": "Houston",
+        "code": "IWS"
+    },
+    {
+        "name": "La Junta Muni",
+        "city": "La Junta",
+        "code": "LHX"
+    },
+    {
+        "name": "Las Cruces Intl",
+        "city": "Las Cruces",
+        "code": "LRU"
+    },
+    {
+        "name": "Stephens Co",
+        "city": "Breckenridge",
+        "code": "BKD"
+    },
+    {
+        "name": "Draughon Miller Central Texas Rgnl",
+        "city": "Temple",
+        "code": "TPL"
+    },
+    {
+        "name": "Ozona Muni",
+        "city": "Ozona",
+        "code": "OZA"
+    },
+    {
+        "name": "Waikoloa Heliport",
+        "city": "Waikoloa Village",
+        "code": "WKL"
+    },
+    {
+        "name": "Eagle Co Rgnl",
+        "city": "Vail",
+        "code": "EGE"
+    },
+    {
+        "name": "Cuyahoga County",
+        "city": "Richmond Heights",
+        "code": "CGF"
+    },
+    {
+        "name": "Mansfield Lahm Regional",
+        "city": "Mansfield",
+        "code": "MFD"
+    },
+    {
+        "name": "Columbus Metropolitan Airport",
+        "city": "Columbus",
+        "code": "CSG"
+    },
+    {
+        "name": "Lawton-Fort Sill Regional Airport",
+        "city": "Lawton",
+        "code": "LAW"
+    },
+    {
+        "name": "Fort Collins Loveland Muni",
+        "city": "Fort Collins",
+        "code": "FNL"
+    },
+    {
+        "name": "Flagstaff Pulliam Airport",
+        "city": "Flagstaff",
+        "code": "FLG"
+    },
+    {
+        "name": "Lake Tahoe Airport",
+        "city": "South Lake Tahoe",
+        "code": "TVL"
+    },
+    {
+        "name": "Magic Valley Regional Airport",
+        "city": "Twin Falls",
+        "code": "TWF"
+    },
+    {
+        "name": "Martha\\\\'s Vineyard",
+        "city": "Vineyard Haven MA",
+        "code": "MVY"
+    },
+    {
+        "name": "Newport State",
+        "city": "Newport RI",
+        "code": "UUU"
+    },
+    {
+        "name": "Hartness State",
+        "city": "Springfield VT",
+        "code": "VSF"
+    },
+    {
+        "name": "Concord Municipal",
+        "city": "Concord NH",
+        "code": "CON"
+    },
+    {
+        "name": "Sanford Regional",
+        "city": "Sanford ME",
+        "code": "SFM"
+    },
+    {
+        "name": "Groton New London",
+        "city": "Groton CT",
+        "code": "GON"
+    },
+    {
+        "name": "Saint Cloud Regional Airport",
+        "city": "Saint Cloud",
+        "code": "STC"
+    },
+    {
+        "name": "Golden Triangle Regional Airport",
+        "city": "Columbus Mississippi",
+        "code": "GTR"
+    },
+    {
+        "name": "Bowerman Field",
+        "city": "Hoquiam",
+        "code": "HQM"
+    },
+    {
+        "name": "Erie Intl Tom Ridge Fld",
+        "city": "Erie",
+        "code": "ERI"
+    },
+    {
+        "name": "Barnstable Muni Boardman Polando Fld",
+        "city": "Barnstable",
+        "code": "HYA"
+    },
+    {
+        "name": "Sedona",
+        "city": "Sedona",
+        "code": "SDX"
+    },
+    {
+        "name": "Morgantown Muni Walter L Bill Hart Fld",
+        "city": "Morgantown",
+        "code": "MGW"
+    },
+    {
+        "name": "Yeager",
+        "city": "Charleston",
+        "code": "CRW"
+    },
+    {
+        "name": "Wilkes Barre Scranton Intl",
+        "city": "Scranton",
+        "code": "AVP"
+    },
+    {
+        "name": "Bemidji Regional Airport",
+        "city": "Bemidji",
+        "code": "BJI"
+    },
+    {
+        "name": "Hector International Airport",
+        "city": "Fargo",
+        "code": "FAR"
+    },
+    {
+        "name": "Downtown",
+        "city": "Kansas City",
+        "code": "MKC"
+    },
+    {
+        "name": "Phoenix-Mesa Gateway",
+        "city": "Mesa",
+        "code": "AZA"
+    },
+    {
+        "name": "Gillette-Campbell County Airport",
+        "city": "Gillette",
+        "code": "GCC"
+    },
+    {
+        "name": "El Toro",
+        "city": "Santa Ana",
+        "code": "NZJ"
+    },
+    {
+        "name": "Iosco County",
+        "city": "East Tawas",
+        "code": "ECA"
+    },
+    {
+        "name": "University Park Airport",
+        "city": "State College Pennsylvania",
+        "code": "SCE"
+    },
+    {
+        "name": "Key Field",
+        "city": "Meridian",
+        "code": "MEI"
+    },
+    {
+        "name": "Abraham Lincoln Capital",
+        "city": "Springfield",
+        "code": "SPI"
+    },
+    {
+        "name": "Cortez Muni",
+        "city": "Cortez",
+        "code": "CEZ"
+    },
+    {
+        "name": "Yampa Valley",
+        "city": "Hayden",
+        "code": "HDN"
+    },
+    {
+        "name": "Gallup Muni",
+        "city": "Gallup",
+        "code": "GUP"
+    },
+    {
+        "name": "Liberal Muni",
+        "city": "Liberal",
+        "code": "LBL"
+    },
+    {
+        "name": "Lamar Muni",
+        "city": "Lamar",
+        "code": "LAA"
+    },
+    {
+        "name": "Renner Fld",
+        "city": "Goodland",
+        "code": "GLD"
+    },
+    {
+        "name": "Yellowstone Rgnl",
+        "city": "Cody",
+        "code": "COD"
+    },
+    {
+        "name": "Springfield Branson Natl",
+        "city": "Springfield",
+        "code": "SGF"
+    },
+    {
+        "name": "Joplin Rgnl",
+        "city": "Joplin",
+        "code": "JLN"
+    },
+    {
+        "name": "Lehigh Valley Intl",
+        "city": "Allentown",
+        "code": "ABE"
+    },
+    {
+        "name": "NW Arkansas Regional",
+        "city": "Bentonville",
+        "code": "XNA"
+    },
+    {
+        "name": "South Bend Rgnl",
+        "city": "South Bend",
+        "code": "SBN"
+    },
+    {
+        "name": "Washington Union Station",
+        "city": "Washington",
+        "code": "ZWU"
+    },
+    {
+        "name": "Smith Fld",
+        "city": "Fort Wayne IN",
+        "code": "SMD"
+    },
+    {
+        "name": "Arcata",
+        "city": "Arcata CA",
+        "code": "ACV"
+    },
+    {
+        "name": "Camp Mabry Austin City",
+        "city": "Austin TX",
+        "code": "ATT"
+    },
+    {
+        "name": "Albert J Ellis",
+        "city": "Jacksonville NC",
+        "code": "OAJ"
+    },
+    {
+        "name": "Tuscaloosa Rgnl",
+        "city": "Tuscaloosa AL",
+        "code": "TCL"
+    },
+    {
+        "name": "Dubuque Rgnl",
+        "city": "Dubuque IA",
+        "code": "DBQ"
+    },
+    {
+        "name": "Kalaupapa Airport",
+        "city": "Molokai",
+        "code": "LUP"
+    },
+    {
+        "name": "Wrangell Airport",
+        "city": "Wrangell",
+        "code": "WRG"
+    },
+    {
+        "name": "Chevak Airport",
+        "city": "Chevak",
+        "code": "VAK"
+    },
+    {
+        "name": "Aniak Airport",
+        "city": "Aniak",
+        "code": "ANI"
+    },
+    {
+        "name": "Mountain Village Airport",
+        "city": "Mountain Village",
+        "code": "MOU"
+    },
+    {
+        "name": "McGrath Airport",
+        "city": "Mcgrath",
+        "code": "MCG"
+    },
+    {
+        "name": "Kalskag Airport",
+        "city": "Kalskag",
+        "code": "KLG"
+    },
+    {
+        "name": "Haines Airport",
+        "city": "Haines",
+        "code": "HNS"
+    },
+    {
+        "name": "Holy Cross Airport",
+        "city": "Holy Cross",
+        "code": "HCR"
+    },
+    {
+        "name": "Skagway Airport",
+        "city": "Skagway",
+        "code": "SGY"
+    },
+    {
+        "name": "Gustavus Airport",
+        "city": "Gustavus",
+        "code": "GST"
+    },
+    {
+        "name": "Adak Airport",
+        "city": "Adak Island",
+        "code": "ADK"
+    },
+    {
+        "name": "Yakima Air Terminal McAllister Field",
+        "city": "Yakima",
+        "code": "YKM"
+    },
+    {
+        "name": "Worland Municipal Airport",
+        "city": "Worland",
+        "code": "WRL"
+    },
+    {
+        "name": "Valdosta Regional Airport",
+        "city": "Valdosta",
+        "code": "VLD"
+    },
+    {
+        "name": "Victoria Regional Airport",
+        "city": "Victoria",
+        "code": "VCT"
+    },
+    {
+        "name": "Quincy Regional Baldwin Field",
+        "city": "Quincy",
+        "code": "UIN"
+    },
+    {
+        "name": "Tupelo Regional Airport",
+        "city": "Tupelo",
+        "code": "TUP"
+    },
+    {
+        "name": "Santa Maria Pub Cpt G Allan Hancock Airport",
+        "city": "Santa Maria",
+        "code": "SMX"
+    },
+    {
+        "name": "Salina Municipal Airport",
+        "city": "Salina",
+        "code": "SLN"
+    },
+    {
+        "name": "Adirondack Regional Airport",
+        "city": "Saranac Lake",
+        "code": "SLK"
+    },
+    {
+        "name": "Sheridan County Airport",
+        "city": "Sheridan",
+        "code": "SHR"
+    },
+    {
+        "name": "San Luis County Regional Airport",
+        "city": "San Luis Obispo",
+        "code": "SBP"
+    },
+    {
+        "name": "Rutland State Airport",
+        "city": "Rutland",
+        "code": "RUT"
+    },
+    {
+        "name": "Rock Springs Sweetwater County Airport",
+        "city": "Rock Springs",
+        "code": "RKS"
+    },
+    {
+        "name": "Rhinelander Oneida County Airport",
+        "city": "Rhinelander",
+        "code": "RHI"
+    },
+    {
+        "name": "Reading Regional Carl A Spaatz Field",
+        "city": "Reading",
+        "code": "RDG"
+    },
+    {
+        "name": "Pease International Tradeport",
+        "city": "Portsmouth",
+        "code": "PSM"
+    },
+    {
+        "name": "Pellston Regional Airport of Emmet County Airport",
+        "city": "Pellston",
+        "code": "PLN"
+    },
+    {
+        "name": "Pierre Regional Airport",
+        "city": "Pierre",
+        "code": "PIR"
+    },
+    {
+        "name": "Pocatello Regional Airport",
+        "city": "Pocatello",
+        "code": "PIH"
+    },
+    {
+        "name": "Hattiesburg Laurel Regional Airport",
+        "city": "Hattiesburg/Laurel",
+        "code": "PIB"
+    },
+    {
+        "name": "Owensboro Daviess County Airport",
+        "city": "Owensboro",
+        "code": "OWB"
+    },
+    {
+        "name": "Southwest Oregon Regional Airport",
+        "city": "North Bend",
+        "code": "OTH"
+    },
+    {
+        "name": "Northwest Alabama Regional Airport",
+        "city": "Muscle Shoals",
+        "code": "MSL"
+    },
+    {
+        "name": "Frank Wiley Field",
+        "city": "Miles City",
+        "code": "MLS"
+    },
+    {
+        "name": "Muskegon County Airport",
+        "city": "Muskegon",
+        "code": "MKG"
+    },
+    {
+        "name": "Lynchburg Regional Preston Glenn Field",
+        "city": "Lynchburg",
+        "code": "LYH"
+    },
+    {
+        "name": "Lewistown Municipal Airport",
+        "city": "Lewistown",
+        "code": "LWT"
+    },
+    {
+        "name": "Lancaster Airport",
+        "city": "Lancaster",
+        "code": "LNS"
+    },
+    {
+        "name": "Klamath Falls Airport",
+        "city": "Klamath Falls",
+        "code": "LMT"
+    },
+    {
+        "name": "Lebanon Municipal Airport",
+        "city": "Lebanon",
+        "code": "LEB"
+    },
+    {
+        "name": "North Platte Regional Airport Lee Bird Field",
+        "city": "North Platte",
+        "code": "LBF"
+    },
+    {
+        "name": "Arnold Palmer Regional Airport",
+        "city": "Latrobe",
+        "code": "LBE"
+    },
+    {
+        "name": "Laramie Regional Airport",
+        "city": "Laramie",
+        "code": "LAR"
+    },
+    {
+        "name": "Jamestown Regional Airport",
+        "city": "Jamestown",
+        "code": "JMS"
+    },
+    {
+        "name": "Kirksville Regional Airport",
+        "city": "Kirksville",
+        "code": "IRK"
+    },
+    {
+        "name": "Tri State Milton J Ferguson Field",
+        "city": "Huntington",
+        "code": "HTS"
+    },
+    {
+        "name": "Memorial Field",
+        "city": "Hot Springs",
+        "code": "HOT"
+    },
+    {
+        "name": "Central Nebraska Regional Airport",
+        "city": "Grand Island",
+        "code": "GRI"
+    },
+    {
+        "name": "Wokal Field Glasgow International Airport",
+        "city": "Glasgow",
+        "code": "GGW"
+    },
+    {
+        "name": "Fayetteville Regional Grannis Field",
+        "city": "Fayetteville",
+        "code": "FAY"
+    },
+    {
+        "name": "New Bedford Regional Airport",
+        "city": "New Bedford",
+        "code": "EWB"
+    },
+    {
+        "name": "Elko Regional Airport",
+        "city": "Elko",
+        "code": "EKO"
+    },
+    {
+        "name": "Chippewa Valley Regional Airport",
+        "city": "Eau Claire",
+        "code": "EAU"
+    },
+    {
+        "name": "DuBois Regional Airport",
+        "city": "Du Bois",
+        "code": "DUJ"
+    },
+    {
+        "name": "Dodge City Regional Airport",
+        "city": "Dodge City",
+        "code": "DDC"
+    },
+    {
+        "name": "Houghton County Memorial Airport",
+        "city": "Hancock",
+        "code": "CMX"
+    },
+    {
+        "name": "William R Fairchild International Airport",
+        "city": "Port Angeles",
+        "code": "CLM"
+    },
+    {
+        "name": "Harrison Marion Regional Airport",
+        "city": "Clarksburg",
+        "code": "CKB"
+    },
+    {
+        "name": "Chippewa County International Airport",
+        "city": "Sault Ste Marie",
+        "code": "CIU"
+    },
+    {
+        "name": "Cape Girardeau Regional Airport",
+        "city": "Cape Girardeau",
+        "code": "CGI"
+    },
+    {
+        "name": "Del Norte County Airport",
+        "city": "Crescent City",
+        "code": "CEC"
+    },
+    {
+        "name": "Southeast Iowa Regional Airport",
+        "city": "Burlington",
+        "code": "BRL"
+    },
+    {
+        "name": "Brunswick Golden Isles Airport",
+        "city": "Brunswick",
+        "code": "BQK"
+    },
+    {
+        "name": "Raleigh County Memorial Airport",
+        "city": "Beckley",
+        "code": "BKW"
+    },
+    {
+        "name": "Western Nebraska Regional Airport",
+        "city": "Scottsbluff",
+        "code": "BFF"
+    },
+    {
+        "name": "Bradford Regional Airport",
+        "city": "Bradford",
+        "code": "BFD"
+    },
+    {
+        "name": "Watertown Regional Airport",
+        "city": "Watertown",
+        "code": "ATY"
+    },
+    {
+        "name": "Alpena County Regional Airport",
+        "city": "Alpena",
+        "code": "APN"
+    },
+    {
+        "name": "Walla Walla Regional Airport",
+        "city": "Walla Walla",
+        "code": "ALW"
+    },
+    {
+        "name": "Waterloo Regional Airport",
+        "city": "Waterloo",
+        "code": "ALO"
+    },
+    {
+        "name": "Alamogordo White Sands Regional Airport",
+        "city": "Alamogordo",
+        "code": "ALM"
+    },
+    {
+        "name": "Athens Ben Epps Airport",
+        "city": "Athens",
+        "code": "AHN"
+    },
+    {
+        "name": "Southwest Georgia Regional Airport",
+        "city": "Albany",
+        "code": "ABY"
+    },
+    {
+        "name": "Aberdeen Regional Airport",
+        "city": "Aberdeen",
+        "code": "ABR"
+    },
+    {
+        "name": "Aleknagik Airport",
+        "city": "Aleknagik",
+        "code": "WKK"
+    },
+    {
+        "name": "Brookings Regional Airport",
+        "city": "Brookings",
+        "code": "BKX"
+    },
+    {
+        "name": "Mercer County Airport",
+        "city": "Bluefield",
+        "code": "BLF"
+    },
+    {
+        "name": "Kearney Municipal Airport",
+        "city": "Kearney",
+        "code": "EAR"
+    },
+    {
+        "name": "Mid Delta Regional Airport",
+        "city": "Greenville",
+        "code": "GLH"
+    },
+    {
+        "name": "Laughlin-Bullhead Intl",
+        "city": "Bullhead",
+        "code": "IFP"
+    },
+    {
+        "name": "Kingman Airport",
+        "city": "Kingman",
+        "code": "IGM"
+    },
+    {
+        "name": "Tri Cities Airport",
+        "city": "Pasco",
+        "code": "PSC"
+    },
+    {
+        "name": "Akutan Seaplane Base",
+        "city": "Akutan",
+        "code": "KQA"
+    },
+    {
+        "name": "Grant County Airport",
+        "city": "Silver City",
+        "code": "SVC"
+    },
+    {
+        "name": "Lopez Island Airport",
+        "city": "Lopez",
+        "code": "LPS"
+    },
+    {
+        "name": "Worcester Regional Airport",
+        "city": "Worcester",
+        "code": "ORH"
+    },
+    {
+        "name": "New Haven Rail Station",
+        "city": "New Haven",
+        "code": "ZVE"
+    },
+    {
+        "name": "Bremerton National",
+        "city": "Bremerton",
+        "code": "PWT"
+    },
+    {
+        "name": "Spencer Muni",
+        "city": "Spencer",
+        "code": "SPW"
+    },
+    {
+        "name": "Jefferson City Memorial Airport",
+        "city": "Jefferson City",
+        "code": "JEF"
+    },
+    {
+        "name": "Grand Canyon West Airport",
+        "city": "Grand Canyon West",
+        "code": "GCW"
+    },
+    {
+        "name": "Boulder City Municipal Airport",
+        "city": "Boulder City",
+        "code": "BLD"
+    },
+    {
+        "name": "Provincetown Muni",
+        "city": "Provincetown",
+        "code": "PVC"
+    },
+    {
+        "name": "Kenmore Air Harbor Seaplane Base",
+        "city": "Seattle",
+        "code": "LKE"
+    },
+    {
+        "name": "Fullerton Municipal Airport",
+        "city": "Fullerton",
+        "code": "FUL"
+    },
+    {
+        "name": "Friedman Mem",
+        "city": "Hailey",
+        "code": "SUN"
+    },
+    {
+        "name": "Mason City Municipal",
+        "city": "Mason City",
+        "code": "MCW"
+    },
+    {
+        "name": "Fortman Airport",
+        "city": "St. Marys",
+        "code": "1OH"
+    },
+    {
+        "name": "Pangborn Field",
+        "city": "Wenatchee",
+        "code": "EAT"
+    },
+    {
+        "name": "Wittman Regional Airport",
+        "city": "Oshkosh",
+        "code": "OSH"
+    },
+    {
+        "name": "Southwest Michigan Regional Airport",
+        "city": "Benton Harbor",
+        "code": "BEH"
+    },
+    {
+        "name": "Waukesha County Airport",
+        "city": "Waukesha",
+        "code": "UES"
+    },
+    {
+        "name": "Galt Field Airport",
+        "city": "Greenwood",
+        "code": "10C"
+    },
+    {
+        "name": "Everglades Airpark",
+        "city": "Everglades",
+        "code": "X01"
+    },
+    {
+        "name": "Togiak Airport",
+        "city": "Togiak Village",
+        "code": "TOG"
+    },
+    {
+        "name": "Port Heiden Airport",
+        "city": "Port Heiden",
+        "code": "PTH"
+    },
+    {
+        "name": "King Cove Airport",
+        "city": "King Cove",
+        "code": "KVC"
+    },
+    {
+        "name": "New Stuyahok Airport",
+        "city": "New Stuyahok",
+        "code": "KNW"
+    },
+    {
+        "name": "Igiugig Airport",
+        "city": "Igiugig",
+        "code": "IGG"
+    },
+    {
+        "name": "Deering Airport",
+        "city": "Deering",
+        "code": "DRG"
+    },
+    {
+        "name": "Sand Point Airport",
+        "city": "Sand Point",
+        "code": "SDP"
+    },
+    {
+        "name": "Hagerstown Regional Richard A Henson Field",
+        "city": "Hagerstown",
+        "code": "HGR"
+    },
+    {
+        "name": "Port Clarence Coast Guard Station",
+        "city": "Port Clarence",
+        "code": "KPC"
+    },
+    {
+        "name": "Arctic Village Airport",
+        "city": "Arctic Village",
+        "code": "ARC"
+    },
+    {
+        "name": "Noatak Airport",
+        "city": "Noatak",
+        "code": "WTK"
+    },
+    {
+        "name": "Savoonga Airport",
+        "city": "Savoonga",
+        "code": "SVA"
+    },
+    {
+        "name": "Shishmaref Airport",
+        "city": "Shishmaref",
+        "code": "SHH"
+    },
+    {
+        "name": "Ruby Airport",
+        "city": "Ruby",
+        "code": "RBY"
+    },
+    {
+        "name": "Point Hope Airport",
+        "city": "Point Hope",
+        "code": "PHO"
+    },
+    {
+        "name": "Mekoryuk Airport",
+        "city": "Mekoryuk",
+        "code": "MYU"
+    },
+    {
+        "name": "Kivalina Airport",
+        "city": "Kivalina",
+        "code": "KVL"
+    },
+    {
+        "name": "St Marys Airport",
+        "city": "St Mary's",
+        "code": "KSM"
+    },
+    {
+        "name": "Kaltag Airport",
+        "city": "Kaltag",
+        "code": "KAL"
+    },
+    {
+        "name": "Hooper Bay Airport",
+        "city": "Hooper Bay",
+        "code": "HPB"
+    },
+    {
+        "name": "Gambell Airport",
+        "city": "Gambell",
+        "code": "GAM"
+    },
+    {
+        "name": "Atqasuk Edward Burnell Sr Memorial Airport",
+        "city": "Atqasuk",
+        "code": "ATK"
+    },
+    {
+        "name": "Anvik Airport",
+        "city": "Anvik",
+        "code": "ANV"
+    },
+    {
+        "name": "Anaktuvuk Pass Airport",
+        "city": "Anaktuvuk Pass",
+        "code": "AKP"
+    },
+    {
+        "name": "Gary Chicago International Airport",
+        "city": "Gary",
+        "code": "GYY"
+    },
+    {
+        "name": "Brainerd Lakes Rgnl",
+        "city": "Brainerd",
+        "code": "BRD"
+    },
+    {
+        "name": "Greenbrier Valley Airport",
+        "city": "Lewisburg",
+        "code": "LWB"
+    },
+    {
+        "name": "Pitt-Greenville Airport",
+        "city": "Greenville",
+        "code": "PGV"
+    },
+    {
+        "name": "Chefornak Airport",
+        "city": "Chefornak",
+        "code": "CYF"
+    },
+    {
+        "name": "Oxnard - Ventura County",
+        "city": "Oxnard",
+        "code": "OXR"
+    },
+    {
+        "name": "Branson LLC",
+        "city": "Branson",
+        "code": "BKG"
+    },
+    {
+        "name": "Penn Station",
+        "city": "Baltimore",
+        "code": "ZBP"
+    },
+    {
+        "name": "Penn Station",
+        "city": "New York",
+        "code": "ZYP"
+    },
+    {
+        "name": "Stratton ANGB - Schenectady County Airpor",
+        "city": "Scotia NY",
+        "code": "SCH"
+    },
+    {
+        "name": "St. Augustine Airport",
+        "city": "St. Augustine Airport",
+        "code": "UST"
+    },
+    {
+        "name": "Charles M Schulz Sonoma Co",
+        "city": "Santa Rosa",
+        "code": "STS"
+    },
+    {
+        "name": "Kissimmee Gateway Airport",
+        "city": "Kissimmee",
+        "code": "ISM"
+    },
+    {
+        "name": "Lake City Municipal Airport",
+        "city": "Lake City",
+        "code": "LCQ"
+    },
+    {
+        "name": "Logan-Cache",
+        "city": "Logan",
+        "code": "LGU"
+    },
+    {
+        "name": "Brigham City",
+        "city": "Brigham City",
+        "code": "BMC"
+    },
+    {
+        "name": "Malad City",
+        "city": "Malad City",
+        "code": "MLD"
+    },
+    {
+        "name": "Aspen Pitkin County Sardy Field",
+        "city": "Aspen",
+        "code": "ASE"
+    },
+    {
+        "name": "Hilton Head",
+        "city": "Hilton Head",
+        "code": "HHH"
+    },
+    {
+        "name": "Philadelphia 30th St Station",
+        "city": "Philadelphia",
+        "code": "ZFV"
+    },
+    {
+        "name": "KBWD",
+        "city": "Brownwood",
+        "code": "BWD"
+    },
+    {
+        "name": "Mexia - Limestone County Airport",
+        "city": "Mexia",
+        "code": "LXY"
+    },
+    {
+        "name": "Kerrville Municipal Airport",
+        "city": "Kerrville",
+        "code": "ERV"
+    },
+    {
+        "name": "Sussex Co",
+        "city": "Georgetown",
+        "code": "GED"
+    },
+    {
+        "name": "Great Bend Municipal",
+        "city": "Great Bend",
+        "code": "GBN"
+    },
+    {
+        "name": "Hays Regional Airport",
+        "city": "Hays",
+        "code": "HYS"
+    },
+    {
+        "name": "Spirit Of St Louis",
+        "city": "Null",
+        "code": "SUS"
+    },
+    {
+        "name": "Ely Municipal",
+        "city": "Ely",
+        "code": "LYU"
+    },
+    {
+        "name": "Grand Rapids Itasca County",
+        "city": "Grand Rapids MN",
+        "code": "GPZ"
+    },
+    {
+        "name": "Thief River Falls",
+        "city": "Thief River Falls",
+        "code": "TVF"
+    },
+    {
+        "name": "Eagle River",
+        "city": "Eagle River",
+        "code": "EGV"
+    },
+    {
+        "name": "Lakeland",
+        "city": "Minocqua - Woodruff",
+        "code": "ARV"
+    },
+    {
+        "name": "Ankeny Regl Airport",
+        "city": "Ankeny",
+        "code": "IKV"
+    },
+    {
+        "name": "Corpus Christi NAS",
+        "city": "Corpus Christi",
+        "code": "NGP"
+    },
+    {
+        "name": "Avalon",
+        "city": "Catalina Island",
+        "code": "AVX"
+    },
+    {
+        "name": "Mojave",
+        "city": "Mojave",
+        "code": "MHV"
+    },
+    {
+        "name": "Kenmore Air Harbor Inc Seaplane Base",
+        "city": "Kenmore",
+        "code": "KEH"
+    },
+    {
+        "name": "Hutchinson Municipal Airport",
+        "city": "Hutchinson",
+        "code": "HUT"
+    },
+    {
+        "name": "Eagle County Airport",
+        "city": "Eagle",
+        "code": "EGA"
+    },
+    {
+        "name": "Rosecrans Mem",
+        "city": "Rosecrans",
+        "code": "STJ"
+    },
+    {
+        "name": "Hartford Union Station",
+        "city": "Hartford",
+        "code": "ZRT"
+    },
+    {
+        "name": "Stamford Amtrak Station",
+        "city": "Stamford",
+        "code": "ZTF"
+    },
+    {
+        "name": "Newark Penn Station",
+        "city": "Newark",
+        "code": "ZRP"
+    },
+    {
+        "name": "Volk Fld",
+        "city": "Camp Douglas",
+        "code": "VOK"
+    },
+    {
+        "name": "BFT County Airport",
+        "city": "Beauford",
+        "code": "BFT"
+    },
+    {
+        "name": "Gunnison - Crested Butte",
+        "city": "Gunnison",
+        "code": "GUC"
+    },
+    {
+        "name": "Zamperini Field Airport",
+        "city": "Torrance",
+        "code": "TOA"
+    },
+    {
+        "name": "Manistee County-Blacker Airport",
+        "city": "Manistee",
+        "code": "MBL"
+    },
+    {
+        "name": "Charlotte County-Punta Gorda Airport",
+        "city": "Punta Gorda",
+        "code": "PGD"
+    },
+    {
+        "name": "Grand Canyon Heliport",
+        "city": "Grand Canyon",
+        "code": "JGC"
+    },
+    {
+        "name": "Northern Aroostook Regional Airport",
+        "city": "Frenchville",
+        "code": "WFK"
+    },
+    {
+        "name": "Chautauqua County-Jamestown",
+        "city": "Jamestown",
+        "code": "JHW"
+    },
+    {
+        "name": "Lake Cumberland Regional Airport",
+        "city": "Somerset",
+        "code": "SME"
+    },
+    {
+        "name": "Shenandoah Valley Regional Airport",
+        "city": "Weyers Cave",
+        "code": "SHD"
+    },
+    {
+        "name": "Devils Lake Regional Airport",
+        "city": "Devils Lake",
+        "code": "DVL"
+    },
+    {
+        "name": "Dickinson Theodore Roosevelt Regional Airport",
+        "city": "Dickinson",
+        "code": "DIK"
+    },
+    {
+        "name": "Sidney-Richland Municipal Airport",
+        "city": "Sidney",
+        "code": "SDY"
+    },
+    {
+        "name": "Chadron Municipal Airport",
+        "city": "Chadron",
+        "code": "CDR"
+    },
+    {
+        "name": "Alliance Municipal Airport",
+        "city": "Alliance",
+        "code": "AIA"
+    },
+    {
+        "name": "McCook Regional Airport",
+        "city": "McCook",
+        "code": "MCK"
+    },
+    {
+        "name": "Florida Keys Marathon Airport",
+        "city": "Marathon",
+        "code": "MTH"
+    },
+    {
+        "name": "Dawson Community Airport",
+        "city": "Glendive",
+        "code": "GDV"
+    },
+    {
+        "name": "LM Clayton Airport",
+        "city": "Wolf Point",
+        "code": "OLF"
+    },
+    {
+        "name": "Yellowstone Airport",
+        "city": "West Yellowstone",
+        "code": "WYS"
+    },
+    {
+        "name": "San Luis Valley Regional Airport",
+        "city": "Alamosa",
+        "code": "ALS"
+    },
+    {
+        "name": "Canyonlands Field",
+        "city": "Moab",
+        "code": "CNY"
+    },
+    {
+        "name": "Ely Airport",
+        "city": "Ely",
+        "code": "ELY"
+    },
+    {
+        "name": "Vernal Regional Airport",
+        "city": "Vernal",
+        "code": "VEL"
+    },
+    {
+        "name": "Sierra Blanca Regional Airport",
+        "city": "Ruidoso",
+        "code": "SRR"
+    },
+    {
+        "name": "Show Low Regional Airport",
+        "city": "Show Low",
+        "code": "SOW"
+    },
+    {
+        "name": "McCall Municipal Airport",
+        "city": "McCall",
+        "code": "MYL"
+    },
+    {
+        "name": "Lemhi County Airport",
+        "city": "Salmon",
+        "code": "SMN"
+    },
+    {
+        "name": "Mammoth Yosemite Airport",
+        "city": "Mammoth Lakes",
+        "code": "MMH"
+    },
+    {
+        "name": "Friday Harbor Airport",
+        "city": "Friday Harbor",
+        "code": "FRD"
+    },
+    {
+        "name": "Orcas Island Airport",
+        "city": "Eastsound",
+        "code": "ESD"
+    },
+    {
+        "name": "Anacortes Airport",
+        "city": "Anacortes",
+        "code": "OTS"
+    },
+    {
+        "name": "Astoria Regional Airport",
+        "city": "Astoria",
+        "code": "AST"
+    },
+    {
+        "name": "Newport Municipal Airport",
+        "city": "Newport",
+        "code": "ONP"
+    },
+    {
+        "name": "Emmonak Airport",
+        "city": "Emmonak",
+        "code": "EMK"
+    },
+    {
+        "name": "Unalakleet Airport",
+        "city": "Unalakleet",
+        "code": "UNK"
+    },
+    {
+        "name": "Ugnu-Kuparuk Airport",
+        "city": "Kuparuk",
+        "code": "UUK"
+    },
+    {
+        "name": "Shageluk Airport",
+        "city": "Shageluk",
+        "code": "SHX"
+    },
+    {
+        "name": "Chuathbaluk Airport",
+        "city": "Chuathbaluk",
+        "code": "CHU"
+    },
+    {
+        "name": "Nuiqsut Airport",
+        "city": "Nuiqsut",
+        "code": "NUI"
+    },
+    {
+        "name": "Eek Airport",
+        "city": "Eek",
+        "code": "EEK"
+    },
+    {
+        "name": "Kasigluk Airport",
+        "city": "Kasigluk",
+        "code": "KUK"
+    },
+    {
+        "name": "Kwethluk Airport",
+        "city": "Kwethluk",
+        "code": "KWT"
+    },
+    {
+        "name": "Kwigillingok Airport",
+        "city": "Kwigillingok",
+        "code": "KWK"
+    },
+    {
+        "name": "Marshall Don Hunter Sr. Airport",
+        "city": "Marshall",
+        "code": "MLL"
+    },
+    {
+        "name": "Russian Mission Airport",
+        "city": "Russian Mission",
+        "code": "RSH"
+    },
+    {
+        "name": "Tuntutuliak Airport",
+        "city": "Tuntutuliak",
+        "code": "WTL"
+    },
+    {
+        "name": "Ekwok Airport",
+        "city": "Ekwok",
+        "code": "KEK"
+    },
+    {
+        "name": "Koliganek Airport",
+        "city": "Koliganek",
+        "code": "KGK"
+    },
+    {
+        "name": "Levelock Airport",
+        "city": "Levelock",
+        "code": "KLL"
+    },
+    {
+        "name": "Manokotak Airport",
+        "city": "Manokotak",
+        "code": "KMO"
+    },
+    {
+        "name": "Twin Hills Airport",
+        "city": "Twin Hills",
+        "code": "TWA"
+    },
+    {
+        "name": "Chalkyitsik Airport",
+        "city": "Chalkyitsik",
+        "code": "CIK"
+    },
+    {
+        "name": "Eagle Airport",
+        "city": "Eagle",
+        "code": "EAA"
+    },
+    {
+        "name": "Hughes Airport",
+        "city": "Hughes",
+        "code": "HUS"
+    },
+    {
+        "name": "Huslia Airport",
+        "city": "Huslia",
+        "code": "HSL"
+    },
+    {
+        "name": "Livingood Airport",
+        "city": "Livingood",
+        "code": "LIV"
+    },
+    {
+        "name": "Minto Airport",
+        "city": "Minto",
+        "code": "MNT"
+    },
+    {
+        "name": "Nulato Airport",
+        "city": "Nulato",
+        "code": "NUL"
+    },
+    {
+        "name": "Rampart Airport",
+        "city": "Rampart",
+        "code": "RMP"
+    },
+    {
+        "name": "Tanana Airport",
+        "city": "Tanana",
+        "code": "TAL"
+    },
+    {
+        "name": "Venetie Airport",
+        "city": "Venetie",
+        "code": "VEE"
+    },
+    {
+        "name": "Beaver Airport",
+        "city": "Beaver",
+        "code": "WBQ"
+    },
+    {
+        "name": "Central Airport",
+        "city": "Central",
+        "code": "CEM"
+    },
+    {
+        "name": "Shungnak Airport",
+        "city": "Shungnak",
+        "code": "SHG"
+    },
+    {
+        "name": "Birch Creek Airport",
+        "city": "Brich Creek",
+        "code": "KBC"
+    },
+    {
+        "name": "Coldfoot Airport",
+        "city": "Coldfoot",
+        "code": "CXF"
+    },
+    {
+        "name": "Inyokern Airport",
+        "city": "Inyokern",
+        "code": "IYK"
+    },
+    {
+        "name": "Visalia Municipal Airport",
+        "city": "Visalia",
+        "code": "VIS"
+    },
+    {
+        "name": "Merced Municipal Airport",
+        "city": "Merced",
+        "code": "MCE"
+    },
+    {
+        "name": "Angoon Seaplane Base",
+        "city": "Angoon",
+        "code": "AGN"
+    },
+    {
+        "name": "Elfin Cove Seaplane Base",
+        "city": "Elfin Cove",
+        "code": "ELV"
+    },
+    {
+        "name": "Tenakee Seaplane Base",
+        "city": "Tenakee Springs",
+        "code": "TKE"
+    },
+    {
+        "name": "Pelican Seaplane Base",
+        "city": "Pelican",
+        "code": "PEC"
+    },
+    {
+        "name": "Chatham Seaplane Base",
+        "city": "Sitka",
+        "code": "CYM"
+    },
+    {
+        "name": "Funter Bay Seaplane Base",
+        "city": "Funter Bay",
+        "code": "FNR"
+    },
+    {
+        "name": "Excursion Inlet Seaplane Base",
+        "city": "Excursion Inlet",
+        "code": "EXI"
+    },
+    {
+        "name": "Hoonah Airport",
+        "city": "Hoonah",
+        "code": "HNH"
+    },
+    {
+        "name": "Kake Airport",
+        "city": "Kake",
+        "code": "AFE"
+    },
+    {
+        "name": "Craig Seaplane Base",
+        "city": "Craig",
+        "code": "CGA"
+    },
+    {
+        "name": "Hollis Seaplane Base",
+        "city": "Hollis",
+        "code": "HYL"
+    },
+    {
+        "name": "Metlakatla Seaplane Base",
+        "city": "Metakatla",
+        "code": "MTM"
+    },
+    {
+        "name": "Thorne Bay Seaplane Base",
+        "city": "Thorne Bay",
+        "code": "KTB"
+    },
+    {
+        "name": "Hydaburg Seaplane Base",
+        "city": "Hydaburg",
+        "code": "HYG"
+    },
+    {
+        "name": "Hyder Seaplane Base",
+        "city": "Hyder",
+        "code": "WHD"
+    },
+    {
+        "name": "Point Baker Seaplane Base",
+        "city": "Point Baker",
+        "code": "KPB"
+    },
+    {
+        "name": "Port Protection Seaplane Base",
+        "city": "Port Protection",
+        "code": "PPV"
+    },
+    {
+        "name": "North Whale Seaplane Base",
+        "city": "North Whale Pass",
+        "code": "WWP"
+    },
+    {
+        "name": "Chignik Lake Airport",
+        "city": "Chignik Lake",
+        "code": "KCQ"
+    },
+    {
+        "name": "Egegik Airport",
+        "city": "Egegik",
+        "code": "EGX"
+    },
+    {
+        "name": "Chignik Lagoon Airport",
+        "city": "Chignik Lagoon",
+        "code": "KCL"
+    },
+    {
+        "name": "Chignik Bay Seaplane Base",
+        "city": "Chignik",
+        "code": "KBW"
+    },
+    {
+        "name": "Perryville Airport",
+        "city": "Perryville",
+        "code": "KPV"
+    },
+    {
+        "name": "Pilot Point Airport",
+        "city": "Pilot Point",
+        "code": "PIP"
+    },
+    {
+        "name": "South Naknek Airport",
+        "city": "South Naknek",
+        "code": "WSN"
+    },
+    {
+        "name": "Akhiok Airport",
+        "city": "Akhiok",
+        "code": "AKK"
+    },
+    {
+        "name": "Karuluk Airport",
+        "city": "Karluk",
+        "code": "KYK"
+    },
+    {
+        "name": "Larsen Bay Airport",
+        "city": "Larsen Bay",
+        "code": "KLN"
+    },
+    {
+        "name": "Old Harbor Airport",
+        "city": "Old Harbor",
+        "code": "OLH"
+    },
+    {
+        "name": "Ouzinkie Airport",
+        "city": "Ouzinkie",
+        "code": "KOZ"
+    },
+    {
+        "name": "Port Lions Airport",
+        "city": "Port Lions",
+        "code": "ORI"
+    },
+    {
+        "name": "Alitak Seaplane Base",
+        "city": "Lazy Bay",
+        "code": "ALZ"
+    },
+    {
+        "name": "Amook Bay Seaplane Base",
+        "city": "Amook Bay",
+        "code": "AOS"
+    },
+    {
+        "name": "Kitoi Bay Seaplane Base",
+        "city": "Kitoi Bay",
+        "code": "KKB"
+    },
+    {
+        "name": "Moser Bay Seaplane Base",
+        "city": "Moser Bay",
+        "code": "KMY"
+    },
+    {
+        "name": "Olga Bay Seaplane Base",
+        "city": "Olga Bay",
+        "code": "KOY"
+    },
+    {
+        "name": "Port Bailey Seaplane Base",
+        "city": "Port Bailey",
+        "code": "KPY"
+    },
+    {
+        "name": "Port Williams Seaplane Base",
+        "city": "Port Williams",
+        "code": "KPR"
+    },
+    {
+        "name": "Seal Bay Seaplane Base",
+        "city": "Seal Bay",
+        "code": "SYB"
+    },
+    {
+        "name": "San Juan - Uganik Seaplane Base",
+        "city": "San Juan",
+        "code": "WSJ"
+    },
+    {
+        "name": "West Point Village Seaplane Base",
+        "city": "West Point",
+        "code": "KWP"
+    },
+    {
+        "name": "Zachar Bay Seaplane Base",
+        "city": "Zachar Bay",
+        "code": "KZB"
+    },
+    {
+        "name": "Ambler Airport",
+        "city": "Ambler",
+        "code": "ABL"
+    },
+    {
+        "name": "Buckland Airport",
+        "city": "Buckland",
+        "code": "BKC"
+    },
+    {
+        "name": "Bob Baker Memorial Airport",
+        "city": "Kiana",
+        "code": "IAN"
+    },
+    {
+        "name": "Kobuk Airport",
+        "city": "Kobuk",
+        "code": "OBU"
+    },
+    {
+        "name": "Robert Curtis Memorial Airport",
+        "city": "Noorvik",
+        "code": "ORV"
+    },
+    {
+        "name": "Selawik Airport",
+        "city": "Selawik",
+        "code": "WLK"
+    },
+    {
+        "name": "Brevig Mission Airport",
+        "city": "Brevig Mission",
+        "code": "KTS"
+    },
+    {
+        "name": "Elim Airport",
+        "city": "Elim",
+        "code": "ELI"
+    },
+    {
+        "name": "Golovin Airport",
+        "city": "Golovin",
+        "code": "GLV"
+    },
+    {
+        "name": "Teller Airport",
+        "city": "Teller",
+        "code": "TLA"
+    },
+    {
+        "name": "Wales Airport",
+        "city": "Wales",
+        "code": "WAA"
+    },
+    {
+        "name": "White Mountain Airport",
+        "city": "White Mountain",
+        "code": "WMO"
+    },
+    {
+        "name": "Council Airport",
+        "city": "Council",
+        "code": "CIL"
+    },
+    {
+        "name": "Koyuk Alfred Adams Airport",
+        "city": "Koyuk",
+        "code": "KKA"
+    },
+    {
+        "name": "St. Michael Airport",
+        "city": "St. Michael",
+        "code": "SMK"
+    },
+    {
+        "name": "Shaktoolik Airport",
+        "city": "Shaktoolik",
+        "code": "SKK"
+    },
+    {
+        "name": "Stebbins Airport",
+        "city": "Stebbins",
+        "code": "WBB"
+    },
+    {
+        "name": "Tin City LRRS Airport",
+        "city": "Tin City",
+        "code": "TNC"
+    },
+    {
+        "name": "Atka Airport",
+        "city": "Atka",
+        "code": "AKB"
+    },
+    {
+        "name": "Nikolski Air Station",
+        "city": "Nikolski",
+        "code": "IKO"
+    },
+    {
+        "name": "Icy Bay Airport",
+        "city": "Icy Bay",
+        "code": "ICY"
+    },
+    {
+        "name": "Yakataga Airport",
+        "city": "Yakataga",
+        "code": "CYT"
+    },
+    {
+        "name": "Alakanuk Airport",
+        "city": "Alakanuk",
+        "code": "AUK"
+    },
+    {
+        "name": "Sheldon Point Airport",
+        "city": "Nunam Iqua",
+        "code": "SXP"
+    },
+    {
+        "name": "Kipnuk Airport",
+        "city": "Kipnuk",
+        "code": "KPN"
+    },
+    {
+        "name": "False Pass Airport",
+        "city": "False Pass",
+        "code": "KFP"
+    },
+    {
+        "name": "Nelson Lagoon",
+        "city": "Nelson Lagoon",
+        "code": "NLG"
+    },
+    {
+        "name": "Port Moller Airport",
+        "city": "Cold Bay",
+        "code": "PML"
+    },
+    {
+        "name": "Klawock Airport",
+        "city": "Klawock",
+        "code": "KLW"
+    },
+    {
+        "name": "Quinhagak Airport",
+        "city": "Quinhagak",
+        "code": "KWN"
+    },
+    {
+        "name": "Kotlik Airport",
+        "city": "Kotlik",
+        "code": "KOT"
+    },
+    {
+        "name": "Koyukuk Airport",
+        "city": "Koyukuk",
+        "code": "KYU"
+    },
+    {
+        "name": "Scammon Bay Airport",
+        "city": "Scammon Bay",
+        "code": "SCM"
+    },
+    {
+        "name": "Nondalton Airport",
+        "city": "Nondalton",
+        "code": "NNL"
+    },
+    {
+        "name": "Pedro Bay Airport",
+        "city": "Pedro Bay",
+        "code": "PDB"
+    },
+    {
+        "name": "Nunapitchuk Airport",
+        "city": "Nunapitchuk",
+        "code": "NUP"
+    },
+    {
+        "name": "Kongiganak Airport",
+        "city": "Kongiganak",
+        "code": "KKH"
+    },
+    {
+        "name": "Nikolai Airport",
+        "city": "Nikolai",
+        "code": "NIB"
+    },
+    {
+        "name": "Takotna Airport",
+        "city": "Takotna",
+        "code": "TCT"
+    },
+    {
+        "name": "Pilot Station Airport",
+        "city": "Pilot Station",
+        "code": "PQS"
+    },
+    {
+        "name": "Akiak Airport",
+        "city": "Akiak",
+        "code": "AKI"
+    },
+    {
+        "name": "Tuluksak Airport",
+        "city": "Tuluksak",
+        "code": "TLT"
+    },
+    {
+        "name": "Grayling Airport",
+        "city": "Grayling",
+        "code": "KGX"
+    },
+    {
+        "name": "Wainwright Airport",
+        "city": "Wainwright",
+        "code": "AIN"
+    },
+    {
+        "name": "Chenega Bay Airport",
+        "city": "Chenega",
+        "code": "NCN"
+    },
+    {
+        "name": "Chisana Airport",
+        "city": "Chisana",
+        "code": "CZN"
+    },
+    {
+        "name": "Tok Junction Airport",
+        "city": "Tok",
+        "code": "6K8"
+    },
+    {
+        "name": "Circle City Airport",
+        "city": "Circle",
+        "code": "IRC"
+    },
+    {
+        "name": "Coffman Cove Seaplane Base",
+        "city": "Coffman Cove",
+        "code": "KCC"
+    },
+    {
+        "name": "Crooked Creek Airport",
+        "city": "Crooked Creek",
+        "code": "CKD"
+    },
+    {
+        "name": "Red Devil Airport",
+        "city": "Red Devil",
+        "code": "RDV"
+    },
+    {
+        "name": "Sleetmute Airport",
+        "city": "Sleetmute",
+        "code": "SLQ"
+    },
+    {
+        "name": "Stony River 2 Airport",
+        "city": "Stony River",
+        "code": "SRV"
+    },
+    {
+        "name": "Healy River Airport",
+        "city": "Healy",
+        "code": "HKB"
+    },
+    {
+        "name": "Kake Seaplane Base",
+        "city": "Kake",
+        "code": "KAE"
+    },
+    {
+        "name": "Klawock Seaplane Base",
+        "city": "Klawock",
+        "code": "AQC"
+    },
+    {
+        "name": "Minchumina Airport",
+        "city": "Lake Minchumina",
+        "code": "MHM"
+    },
+    {
+        "name": "Manley Hot Springs Airport",
+        "city": "Manley Hot Springs",
+        "code": "MLY"
+    },
+    {
+        "name": "St. George Airport",
+        "city": "St. George",
+        "code": "STG"
+    },
+    {
+        "name": "Tatitlek Airport",
+        "city": "Tatitlek",
+        "code": "TEK"
+    },
+    {
+        "name": "Ketchikan harbor Seaplane Base",
+        "city": "Ketchikan",
+        "code": "WFB"
+    },
+    {
+        "name": "St. Louis Downtown Airport",
+        "city": "East St. Louis",
+        "code": "CPS"
+    },
+    {
+        "name": "Eastern WV Regional Airport",
+        "city": "Martinsburg",
+        "code": "MRB"
+    },
+    {
+        "name": "Rock Hill York Co Bryant Airport",
+        "city": "Rock Hill",
+        "code": "RKH"
+    },
+    {
+        "name": "Allegheny County Airport",
+        "city": "Pittsburgh",
+        "code": "AGC"
+    },
+    {
+        "name": "Cecil Field",
+        "city": "Jacksonville",
+        "code": "NZC"
+    },
+    {
+        "name": "Fulton County Airport Brown Field",
+        "city": "Atlanta",
+        "code": "FTY"
+    },
+    {
+        "name": "Ocean Isle Beach Airport",
+        "city": "Ocean Isle Beach",
+        "code": "60J"
+    },
+    {
+        "name": "Ohio State University Airport",
+        "city": "Columbus",
+        "code": "OSU"
+    },
+    {
+        "name": "Addison",
+        "city": "Addison",
+        "code": "ADS"
+    },
+    {
+        "name": "Destin",
+        "city": "Destin",
+        "code": "DTS"
+    },
+    {
+        "name": "Fort Jefferson",
+        "city": "Fort Jefferson - Dry Tortugas",
+        "code": "RBN"
+    },
+    {
+        "name": "Kinston Regional Jetport",
+        "city": "Kinston",
+        "code": "ISO"
+    },
+    {
+        "name": "First Flight Airport",
+        "city": "Kill Devil Hills",
+        "code": "FFA"
+    },
+    {
+        "name": "Provo Municipal Airport",
+        "city": "Provo",
+        "code": "PVU"
+    },
+    {
+        "name": "Steamboat Springs Airport-Bob Adams Field",
+        "city": "Steamboat Springs",
+        "code": "SBS"
+    },
+    {
+        "name": "Delta Municipal Airport",
+        "city": "Delta",
+        "code": "DTA"
+    },
+    {
+        "name": "Richfield Minicipal Airport",
+        "city": "Richfield",
+        "code": "RIF"
+    },
+    {
+        "name": "Carbon County Regional-Buck Davis Field",
+        "city": "Price",
+        "code": "PUC"
+    },
+    {
+        "name": "Los Alamos Airport",
+        "city": "Los Alamos",
+        "code": "LAM"
+    },
+    {
+        "name": "Borrego Valley Airport",
+        "city": "Borrego Springs",
+        "code": "BXS"
+    },
+    {
+        "name": "Lake Havasu City Airport",
+        "city": "Lake Havasu City",
+        "code": "HII"
+    },
+    {
+        "name": "Winslow-Lindbergh Regional Airport",
+        "city": "Winslow",
+        "code": "INW"
+    },
+    {
+        "name": "Douglas Municipal Airport",
+        "city": "Douglas",
+        "code": "DGL"
+    },
+    {
+        "name": "Bartow Municipal Airport",
+        "city": "Bartow",
+        "code": "BOW"
+    },
+    {
+        "name": "Livermore Municipal",
+        "city": "Livermore",
+        "code": "LVK"
+    },
+    {
+        "name": "MariposaYosemite",
+        "city": "Mariposa",
+        "code": "MPI"
+    },
+    {
+        "name": "Jacqueline Cochran Regional Airport",
+        "city": "Palm Springs",
+        "code": "TRM"
+    },
+    {
+        "name": "Santa Monica Municipal Airport",
+        "city": "Santa Monica",
+        "code": "SMO"
+    },
+    {
+        "name": "Bermuda Dunes Airport",
+        "city": "Palm Springs",
+        "code": "UDD"
+    },
+    {
+        "name": "Scottsdale Airport",
+        "city": "Scottsdale",
+        "code": "ZSY"
+    },
+    {
+        "name": "Olympia Regional Airpor",
+        "city": "Olympia",
+        "code": "OLM"
+    },
+    {
+        "name": "Yolo County Airport",
+        "city": "Davis-Woodland-Winters",
+        "code": "DWA"
+    },
+    {
+        "name": "Garfield County Regional Airport",
+        "city": "Rifle",
+        "code": "RIL"
+    },
+    {
+        "name": "Shively Field Airport",
+        "city": "SARATOGA",
+        "code": "SAA"
+    },
+    {
+        "name": "Dekalb-Peachtree Airport",
+        "city": "Atlanta",
+        "code": "PDK"
+    },
+    {
+        "name": "Monroe County Airport",
+        "city": "Bloomington",
+        "code": "BMG"
+    },
+    {
+        "name": "Witham Field Airport",
+        "city": "Stuart",
+        "code": "SUA"
+    },
+    {
+        "name": "Morristown Municipal Airport",
+        "city": "Morristown",
+        "code": "MMU"
+    },
+    {
+        "name": "Napa County Airport",
+        "city": "Napa",
+        "code": "APC"
+    },
+    {
+        "name": "Brown Field Municipal Airport",
+        "city": "San Diego",
+        "code": "SDM"
+    },
+    {
+        "name": "Pahokee Airport",
+        "city": "Pahokee",
+        "code": "PHK"
+    },
+    {
+        "name": "Panama City-NW Florida Bea.",
+        "city": "Panama City",
+        "code": "ECP"
+    },
+    {
+        "name": "San Bernardino International Airport",
+        "city": "San Bernardino",
+        "code": "SBD"
+    },
+    {
+        "name": "San Carlos Airport",
+        "city": "San Carlos",
+        "code": "SQL"
+    },
+    {
+        "name": "Rocky Mount Wilson Regional Airport",
+        "city": "Rocky Mount",
+        "code": "RWI"
+    },
+    {
+        "name": "Soldotna Airport",
+        "city": "Soldotna",
+        "code": "SXQ"
+    },
+    {
+        "name": "Gillespie",
+        "city": "El Cajon",
+        "code": "SEE"
+    },
+    {
+        "name": "Truckee-Tahoe Airport",
+        "city": "Truckee",
+        "code": "TKF"
+    },
+    {
+        "name": "Moultrie Municipal Airport",
+        "city": "Moultrie",
+        "code": "MGR"
+    },
+    {
+        "name": "Cobb County Airport-Mc Collum Field",
+        "city": "Atlanta",
+        "code": "RYY"
+    },
+    {
+        "name": "Oneonta Municipal Airport",
+        "city": "Oneonta",
+        "code": "ONH"
+    },
+    {
+        "name": "Dell Flight Strip",
+        "city": "Dell",
+        "code": "4U9"
+    },
+    {
+        "name": "Mission Field Airport",
+        "city": "Livingston-Montana",
+        "code": "LVM"
+    },
+    {
+        "name": "Big Timber Airport",
+        "city": "Big Timber",
+        "code": "6S0"
+    },
+    {
+        "name": "Tulip City Airport",
+        "city": "Holland",
+        "code": "BIV"
+    },
+    {
+        "name": "West 30th St. Heliport",
+        "city": "New York",
+        "code": "JRA"
+    },
+    {
+        "name": "Lakeland Linder Regional Airport",
+        "city": "Lakeland",
+        "code": "LAL"
+    },
+    {
+        "name": "Idlewild Intl",
+        "city": "New York",
+        "code": "IDL"
+    },
+    {
+        "name": "French Valley Airport",
+        "city": "Murrieta-Temecula",
+        "code": "RBK"
+    },
+    {
+        "name": "Erie-Ottawa Regional Airport",
+        "city": "Port Clinton",
+        "code": "PCW"
+    },
+    {
+        "name": "Dayton-Wright Brothers Airport",
+        "city": "Dayton",
+        "code": "MGY"
+    },
+    {
+        "name": "Richmond Municipal Airport",
+        "city": "Richmond",
+        "code": "RID"
+    },
+    {
+        "name": "Findlay Airport",
+        "city": "Findley",
+        "code": "FDY"
+    },
+    {
+        "name": "Black Hills Airport-Clyde Ice Field",
+        "city": "Spearfish-South Dakota",
+        "code": "SPF"
+    },
+    {
+        "name": "Olive Branch Muni",
+        "city": "Olive Branch",
+        "code": "OLV"
+    },
+    {
+        "name": "Rocky Mountain Metropolitan Airport",
+        "city": "Broomfield-CO",
+        "code": "BJC"
+    },
+    {
+        "name": "McNary Field",
+        "city": "Salem",
+        "code": "SLE"
+    },
+    {
+        "name": "Tunica Municipal Airport",
+        "city": "Tunica",
+        "code": "UTM"
+    },
+    {
+        "name": "Lawrence J Timmerman Airport",
+        "city": "Milwaukee",
+        "code": "MWC"
+    },
+    {
+        "name": "Southern Wisconsin Regional Airport",
+        "city": "Janesville",
+        "code": "JVL"
+    },
+    {
+        "name": "Arlington Municipal",
+        "city": "Arlington",
+        "code": "GKY"
+    },
+    {
+        "name": "Gwinnett County Airport-Briscoe Field",
+        "city": "Lawrenceville",
+        "code": "LZU"
+    },
+    {
+        "name": "Bowling Green-Warren County Regional Airport",
+        "city": "Bowling Green",
+        "code": "BWG"
+    },
+    {
+        "name": "Richard Lloyd Jones Jr Airport",
+        "city": "Tulsa",
+        "code": "RVS"
+    },
+    {
+        "name": "Bryce Canyon",
+        "city": "Bryce Canyon",
+        "code": "BCE"
+    },
+    {
+        "name": "Burlington-Alamance Regional Airport",
+        "city": "Burlington",
+        "code": "BUY"
+    },
+    {
+        "name": "New Century AirCenter Airport",
+        "city": "Olathe",
+        "code": "JCI"
+    },
+    {
+        "name": "Easton-Newnam Field Airport",
+        "city": "Easton",
+        "code": "ESN"
+    },
+    {
+        "name": "Ferry County Airport",
+        "city": "Republic",
+        "code": "R49"
+    },
+    {
+        "name": "Yuba County Airport",
+        "city": "Yuba City",
+        "code": "MYV"
+    },
+    {
+        "name": "Halliburton Field Airport",
+        "city": "Duncan",
+        "code": "DUC"
+    },
+    {
+        "name": "Chinle Municipal Airport",
+        "city": "Chinle",
+        "code": "E91"
+    },
+    {
+        "name": "Garner Field",
+        "city": "Uvalde",
+        "code": "UVA"
+    },
+    {
+        "name": "Lewis University Airport",
+        "city": "Lockport",
+        "code": "LOT"
+    },
+    {
+        "name": "Frasca Field",
+        "city": "Urbana",
+        "code": "C16"
+    },
+    {
+        "name": "Buchanan Field Airport",
+        "city": "Concord",
+        "code": "CCR"
+    },
+    {
+        "name": "Key Largo",
+        "city": "Ocean Reef Club Airport",
+        "code": "OCA"
+    },
+    {
+        "name": "Springfield-Beckly Municipal Airport",
+        "city": "Springfield",
+        "code": "SGH"
+    },
+    {
+        "name": "Miami Seaplane Base",
+        "city": "Miami",
+        "code": "MPB"
+    },
+    {
+        "name": "Philip Billard Muni",
+        "city": "Topeka",
+        "code": "TOP"
+    },
+    {
+        "name": "Emporia Municipal Airport",
+        "city": "Emporia",
+        "code": "EMP"
+    },
+    {
+        "name": "Collin County Regional Airport at Mc Kinney",
+        "city": "DALLAS",
+        "code": "TKI"
+    },
+    {
+        "name": "Chicago Executive",
+        "city": "Chicago-Wheeling",
+        "code": "PWK"
+    },
+    {
+        "name": "Kelso Longview",
+        "city": "Kelso",
+        "code": "KLS"
+    },
+    {
+        "name": "Put-in-Bay Airport",
+        "city": "Put-in-Bay",
+        "code": "3W2"
+    },
+    {
+        "name": "Jefferson County Intl",
+        "city": "Port Townsend",
+        "code": "TWD"
+    },
+    {
+        "name": "Lynden Airport",
+        "city": "Lynden",
+        "code": "38W"
+    },
+    {
+        "name": "Jefferson County Intl",
+        "city": "Port Townsend",
+        "code": "0S9"
+    },
+    {
+        "name": "Train Station",
+        "city": "Richmond",
+        "code": "ZRD"
+    },
+    {
+        "name": "Wilmington Airborne Airpark",
+        "city": "Wilmington",
+        "code": "ILN"
+    },
+    {
+        "name": "Marana Regional",
+        "city": "Tucson",
+        "code": "AVW"
+    },
+    {
+        "name": "Casa Grande Municipal Airport",
+        "city": "Casa Grande",
+        "code": "CGZ"
+    },
+    {
+        "name": "Buckeye Municipal Airport",
+        "city": "Buckeye",
+        "code": "BXK"
+    },
+    {
+        "name": "Gila Bend Municipal Airport",
+        "city": "Gila Bend",
+        "code": "E63"
+    },
+    {
+        "name": "McMinn Co",
+        "city": "Athens",
+        "code": "MMI"
+    },
+    {
+        "name": "Sterling Municipal Airport",
+        "city": "Sterling",
+        "code": "STK"
+    },
+    {
+        "name": "Rawlins Municipal Airport-Harvey Field",
+        "city": "Rawlins",
+        "code": "RWL"
+    },
+    {
+        "name": "Caldwell Essex County Airport",
+        "city": "Caldwell",
+        "code": "CDW"
+    },
+    {
+        "name": "Lee C Fine Memorial Airport",
+        "city": "Kaiser Lake Ozark",
+        "code": "AIZ"
+    },
+    {
+        "name": "Big Bear City",
+        "city": "Big Bear",
+        "code": "L35"
+    },
+    {
+        "name": "Thomasville Regional Airport",
+        "city": "Thomasville",
+        "code": "TVI"
+    },
+    {
+        "name": "Henderson Executive Airport",
+        "city": "Henderson",
+        "code": "HSH"
+    },
+    {
+        "name": "Henry Tift Myers Airport",
+        "city": "Tifton",
+        "code": "TMA"
+    },
+    {
+        "name": "Deer Valley Municipal Airport",
+        "city": "Phoenix ",
+        "code": "DVT"
+    },
+    {
+        "name": "Hondo Municipal Airport",
+        "city": "Hondo",
+        "code": "HDO"
+    },
+    {
+        "name": "McKinley National Park Airport",
+        "city": "McKinley Park",
+        "code": "MCL"
+    },
+    {
+        "name": "Lake Hood Seaplane Base",
+        "city": "Anchorage",
+        "code": "LHD"
+    },
+    {
+        "name": "Prospect Creek Airport",
+        "city": "Prospect Creek",
+        "code": "PPC"
+    },
+    {
+        "name": "Columbia County",
+        "city": "Hudson NY",
+        "code": "HCC"
+    },
+    {
+        "name": "Wheeling Ohio County Airport",
+        "city": "Wheeling",
+        "code": "HLG"
+    },
+    {
+        "name": "Fitzgerald Municipal Airport",
+        "city": "Fitzgerald",
+        "code": "FZG"
+    },
+    {
+        "name": "Perry-Foley Airport",
+        "city": "Perry",
+        "code": "40J"
+    },
+    {
+        "name": "Cairo-Grady County Airport",
+        "city": "Cairo",
+        "code": "70J"
+    },
+    {
+        "name": "Aransas County Airport",
+        "city": "Rockport",
+        "code": "RKP"
+    },
+    {
+        "name": "Crisp County Cordele Airport",
+        "city": "Cordele",
+        "code": "CKF"
+    },
+    {
+        "name": "Ormond Beach municipal Airport",
+        "city": "Ormond Beach",
+        "code": "OMN"
+    },
+    {
+        "name": "Portland Troutdale",
+        "city": "Troutdale",
+        "code": "TTD"
+    },
+    {
+        "name": "Portland Hillsboro",
+        "city": "Hillsboro",
+        "code": "HIO"
+    },
+    {
+        "name": "Suwannee County Airport",
+        "city": "Live Oak",
+        "code": "24J"
+    },
+    {
+        "name": "Montgomery County Airpark",
+        "city": "Gaithersburg",
+        "code": "GAI"
+    },
+    {
+        "name": "Charlevoix Municipal Airport",
+        "city": "Charelvoix",
+        "code": "CVX"
+    },
+    {
+        "name": "Quincy Municipal Airport",
+        "city": "Quincy",
+        "code": "2J9"
+    },
+    {
+        "name": "Roche Harbor Seaplane Base",
+        "city": "Roche Harbor",
+        "code": "RCE"
+    },
+    {
+        "name": "Blakely Island Airport",
+        "city": "Blakely Island",
+        "code": "BYW"
+    },
+    {
+        "name": "Rosario Seaplane Base",
+        "city": "Rosario",
+        "code": "RSJ"
+    },
+    {
+        "name": "Westsound Seaplane Base",
+        "city": "Westsound",
+        "code": "WSX"
+    },
+    {
+        "name": "Friday Harbor Seaplane Base",
+        "city": "Friday Harbor",
+        "code": "FBS"
+    },
+    {
+        "name": "Furnace Creek",
+        "city": "Death Valley National Park",
+        "code": "L06"
+    },
+    {
+        "name": "Flagler County Airport",
+        "city": "Flagler",
+        "code": "XFL"
+    },
+    {
+        "name": "Morrisville Stowe State Airport",
+        "city": "Morrisville",
+        "code": "MVL"
+    },
+    {
+        "name": "Dallas Executive Airport",
+        "city": "Dallas",
+        "code": "RBD"
+    },
+    {
+        "name": "Welke Airport",
+        "city": "Beaver Island",
+        "code": "6Y8"
+    },
+    {
+        "name": "Westerly State Airport",
+        "city": "Washington County",
+        "code": "WST"
+    },
+    {
+        "name": "Block Island State Airport",
+        "city": "Block Island",
+        "code": "BID"
+    },
+    {
+        "name": "Atmautluak Airport",
+        "city": "Atmautluak",
+        "code": "369"
+    },
+    {
+        "name": "Nightmute Airport",
+        "city": "Nightmute",
+        "code": "NME"
+    },
+    {
+        "name": "Toksook Bay Airport",
+        "city": "Toksook Bay",
+        "code": "OOK"
+    },
+    {
+        "name": "Tununak Airport",
+        "city": "Tununak",
+        "code": "TNK"
+    },
+    {
+        "name": "Goodnews Airport",
+        "city": "Goodnews Bay",
+        "code": "GNU"
+    },
+    {
+        "name": "Newtok Airport",
+        "city": "Newtok",
+        "code": "WWT"
+    },
+    {
+        "name": "Decatur County Industrial Air Park",
+        "city": "Bainbridge",
+        "code": "BGE"
+    },
+    {
+        "name": "Silver Springs Airport",
+        "city": "Silver Springs",
+        "code": "SPZ"
+    },
+    {
+        "name": "Whiteman Airport",
+        "city": "Los Angeles",
+        "code": "WHP"
+    },
+    {
+        "name": "Madera Municipal Airport",
+        "city": "Madera",
+        "code": "MAE"
+    },
+    {
+        "name": "Mountain Home Municipal Airport",
+        "city": "Mountain Home",
+        "code": "U76"
+    },
+    {
+        "name": "Jackson County Airport",
+        "city": "Jefferson",
+        "code": "19A"
+    },
+    {
+        "name": "Apalachicola Regional Airport",
+        "city": "Apalachicola",
+        "code": "AAF"
+    },
+    {
+        "name": "St. Augustine Airport",
+        "city": "St. Augustine",
+        "code": "SGJ"
+    },
+    {
+        "name": "Douglas Municipal Airport",
+        "city": "Douglas",
+        "code": "DQH"
+    },
+    {
+        "name": "St Lucie County International Airport",
+        "city": "Fort Pierce",
+        "code": "FRP"
+    },
+    {
+        "name": "Alexandria",
+        "city": "Alexandria",
+        "code": "ALX"
+    },
+    {
+        "name": "Taunton Municipal Airport - King Field",
+        "city": "Taunton",
+        "code": "TAN"
+    },
+    {
+        "name": "Plymouth Municipal Airport",
+        "city": "Plymouth",
+        "code": "PYM"
+    },
+    {
+        "name": "Quonset State Airport",
+        "city": "North Kingstown",
+        "code": "OQU"
+    },
+    {
+        "name": "Mansfield Municipal",
+        "city": "Mansfield",
+        "code": "1B9"
+    },
+    {
+        "name": "Norwood Memorial Airport",
+        "city": "Norwood",
+        "code": "OWD"
+    },
+    {
+        "name": "Barnes Municipal",
+        "city": "Westfield",
+        "code": "BAF"
+    },
+    {
+        "name": "Windham Airport",
+        "city": "Willimantic",
+        "code": "IJD"
+    },
+    {
+        "name": "Orange County Airport",
+        "city": "Montgomery",
+        "code": "MGJ"
+    },
+    {
+        "name": "Capital City Airport",
+        "city": "Harrisburg",
+        "code": "CXY"
+    },
+    {
+        "name": "Marshfield Municipal Airport",
+        "city": "Marshfield",
+        "code": "GHG"
+    },
+    {
+        "name": "Danbury Municipal Airport",
+        "city": "Danbury",
+        "code": "DXR"
+    },
+    {
+        "name": "Boire Field Airport",
+        "city": "Nashua",
+        "code": "ASH"
+    },
+    {
+        "name": "Lawrence Municipal Airport",
+        "city": "Lawrence",
+        "code": "LWM"
+    },
+    {
+        "name": "Waterbury-Oxford Airport",
+        "city": "Oxford",
+        "code": "OXC"
+    },
+    {
+        "name": "Fitchburg Municipal Airport",
+        "city": "Fitchburg",
+        "code": "FIT"
+    },
+    {
+        "name": "Cartersville Airport",
+        "city": "Cartersville",
+        "code": "VPC"
+    },
+    {
+        "name": "Centre-Piedmont-Cherokee County Regional Airport",
+        "city": "Centre",
+        "code": "PYP"
+    },
+    {
+        "name": "Richard B Russell Airport",
+        "city": "Rome",
+        "code": "RMG"
+    },
+    {
+        "name": "Northeast Alabama Regional Airport",
+        "city": "Gadsden",
+        "code": "GAD"
+    },
+    {
+        "name": "Knoxville Downtown Island Airport",
+        "city": "Knoxville",
+        "code": "DKX"
+    },
+    {
+        "name": "Barrow County Airport",
+        "city": "Winder",
+        "code": "WDR"
+    },
+    {
+        "name": "Plantation Airpark",
+        "city": "Sylvania",
+        "code": "JYL"
+    },
+    {
+        "name": "Dalton Municipal Airport",
+        "city": "Dalton",
+        "code": "DNN"
+    },
+    {
+        "name": "West Georgia Regional Airport - O V Gray Field",
+        "city": "Carrollton",
+        "code": "CTJ"
+    },
+    {
+        "name": "Isbell Field Airport",
+        "city": "Fort Payne",
+        "code": "4A9"
+    },
+    {
+        "name": "LaGrange-Callaway Airport",
+        "city": "LaGrange",
+        "code": "LGC"
+    },
+    {
+        "name": "Baldwin County Airport",
+        "city": "Milledgeville",
+        "code": "MLJ"
+    },
+    {
+        "name": "Polk County Airport - Cornelius Moore Field",
+        "city": "Cedartown",
+        "code": "4A4"
+    },
+    {
+        "name": "Harris County Airport",
+        "city": "Pine Mountain",
+        "code": "PIM"
+    },
+    {
+        "name": "Atlanta Regional Airport - Falcon Field",
+        "city": "Atlanta",
+        "code": "FFC"
+    },
+    {
+        "name": "Covington Municipal Airport",
+        "city": "Covington",
+        "code": "9A1"
+    },
+    {
+        "name": "Lee Gilmer Memorial Airport",
+        "city": "Gainesville",
+        "code": "GVL"
+    },
+    {
+        "name": "DeFuniak Springs Airport",
+        "city": "DeFuniak Springs",
+        "code": "54J"
+    },
+    {
+        "name": "Barwick Lafayette Airport",
+        "city": "LaFayette",
+        "code": "9A5"
+    },
+    {
+        "name": "Harry Clever Field Airport",
+        "city": "New Philadelpha",
+        "code": "PHD"
+    },
+    {
+        "name": "Darlington County Jetport",
+        "city": "Darlington",
+        "code": "UDG"
+    },
+    {
+        "name": "Hilton Head Airport",
+        "city": "Hilton Head Island",
+        "code": "HXD"
+    },
+    {
+        "name": "Gilmer County Airport",
+        "city": "Ellijay",
+        "code": "49A"
+    },
+    {
+        "name": "Elizabethton Municipal Airport",
+        "city": "Elizabethton",
+        "code": "0A9"
+    },
+    {
+        "name": "Moton Field Municipal Airport",
+        "city": "Tuskegee",
+        "code": "06A"
+    },
+    {
+        "name": "Daniel Field Airport",
+        "city": "Augusta",
+        "code": "DNL"
+    },
+    {
+        "name": "Foothills Regional Airport",
+        "city": "Morganton",
+        "code": "MRN"
+    },
+    {
+        "name": "Pike County Airport - Hatcher Field",
+        "city": "Pikeville",
+        "code": "PBX"
+    },
+    {
+        "name": "Toccoa RG Letourneau Field Airport",
+        "city": "Toccoa",
+        "code": "TOC"
+    },
+    {
+        "name": "Tampa Executive Airport",
+        "city": "Tampa",
+        "code": "VDF"
+    },
+    {
+        "name": "Fort Worth Alliance Airport",
+        "city": "Fort Worth",
+        "code": "AFW"
+    },
+    {
+        "name": "East Troy Municipal Airport",
+        "city": "East Troy",
+        "code": "57C"
+    },
+    {
+        "name": "Montgomery Field",
+        "city": "San Diego",
+        "code": "MYF"
+    },
+    {
+        "name": "Lawrence Municipal",
+        "city": "Lawrence",
+        "code": "LWC"
+    },
+    {
+        "name": "Wellington Municipal",
+        "city": "Wellington",
+        "code": "EGT"
+    },
+    {
+        "name": "Griffin-Spalding County Airport",
+        "city": "Griffin",
+        "code": "6A2"
+    },
+    {
+        "name": "Pompano Beach Airpark",
+        "city": "Pompano Beach",
+        "code": "PMP"
+    },
+    {
+        "name": "Shelby County Airport",
+        "city": "Alabaster",
+        "code": "EET"
+    },
+    {
+        "name": "Indianapolis Metropolitan Airport",
+        "city": "Indianapolis",
+        "code": "UMP"
+    },
+    {
+        "name": "London-Corbin Airport-MaGee Field",
+        "city": "London",
+        "code": "LOZ"
+    },
+    {
+        "name": "Fredericksburg Amtrak Station",
+        "city": "Fredericksburg",
+        "code": "FBG"
+    },
+    {
+        "name": "John H. Batten Airport",
+        "city": "Racine",
+        "code": "RAC"
+    },
+    {
+        "name": "Redlands Municipal Airport",
+        "city": "Redlands",
+        "code": "REI"
+    },
+    {
+        "name": "Chemehuevi Valley",
+        "city": "Chemehuevi Valley",
+        "code": "49X"
+    },
+    {
+        "name": "Flabob Airport",
+        "city": "Riverside",
+        "code": "RIR"
+    },
+    {
+        "name": "Tacoma Narrows Airport",
+        "city": "Tacoma",
+        "code": "TIW"
+    },
+    {
+        "name": "Tampa North Aero Park",
+        "city": "Tampa",
+        "code": "X39"
+    },
+    {
+        "name": "Jack Edwards Airport",
+        "city": "Gulf Shores",
+        "code": "JKA"
+    },
+    {
+        "name": "Hazleton Municipal",
+        "city": "Hazleton",
+        "code": "HZL"
+    },
+    {
+        "name": "Greater Cumberland Rgnl.",
+        "city": "Cumberland",
+        "code": "CBE"
+    },
+    {
+        "name": "Tri-County Regional Airport",
+        "city": "Lone Rock",
+        "code": "LNR"
+    },
+    {
+        "name": "Regional Airport",
+        "city": "Joliet",
+        "code": "JOT"
+    },
+    {
+        "name": "Illinois Valley Regional",
+        "city": "Peru",
+        "code": "VYS"
+    },
+    {
+        "name": "Reynolds Field",
+        "city": "Jackson",
+        "code": "JXN"
+    },
+    {
+        "name": "Wings Field",
+        "city": "Philadelphia",
+        "code": "BBX"
+    },
+    {
+        "name": "County",
+        "city": "Okeechobee",
+        "code": "OBE"
+    },
+    {
+        "name": "Regional - Hendricks AAF",
+        "city": "Sebring",
+        "code": "SEF"
+    },
+    {
+        "name": "Executive",
+        "city": "Avon Park",
+        "code": "AVO"
+    },
+    {
+        "name": "Gilbert Airport",
+        "city": "Winter Haven",
+        "code": "GIF"
+    },
+    {
+        "name": "Municipal Airport",
+        "city": "Zephyrhills",
+        "code": "ZPH"
+    },
+    {
+        "name": "International Airport",
+        "city": "Ocala",
+        "code": "OCF"
+    },
+    {
+        "name": "Jesup-Wayne County Airport",
+        "city": "Jesup",
+        "code": "JES"
+    },
+    {
+        "name": "Madison GA Municipal Airport",
+        "city": "Madison",
+        "code": "52A"
+    },
+    {
+        "name": "Coweta County Airport",
+        "city": "Newnan",
+        "code": "CCO"
+    },
+    {
+        "name": "McDuffie County Airport",
+        "city": "Thomson",
+        "code": "HQU"
+    },
+    {
+        "name": "Municipal Airport",
+        "city": "Aiken",
+        "code": "AIK"
+    },
+    {
+        "name": "Woodward Field",
+        "city": "Camden",
+        "code": "CDN"
+    },
+    {
+        "name": "Municipal Airport",
+        "city": "Lumberton",
+        "code": "LBT"
+    },
+    {
+        "name": "Ridgeland Airport",
+        "city": "Ridgeland",
+        "code": "3J1"
+    },
+    {
+        "name": "Moore County Airport",
+        "city": "Pinehurst-Southern Pines",
+        "code": "SOP"
+    },
+    {
+        "name": "Richmond County Airport",
+        "city": "Rockingham",
+        "code": "RCZ"
+    },
+    {
+        "name": "Bamberg County Airport",
+        "city": "Bamberg",
+        "code": "99N"
+    },
+    {
+        "name": "Richland Airport",
+        "city": "Richland Center",
+        "code": "93C"
+    },
+    {
+        "name": "Municipal Airport",
+        "city": "Viroqua",
+        "code": "Y51"
+    },
+    {
+        "name": "Baraboo Wisconsin Dells Airport",
+        "city": "Baraboo",
+        "code": "DLL"
+    },
+    {
+        "name": "Foster Field",
+        "city": "Apple River",
+        "code": "7A4"
+    },
+    {
+        "name": "Regional Airport",
+        "city": "Statesville",
+        "code": "SVH"
+    },
+    {
+        "name": "Sylvania Airport",
+        "city": "Sturtevant",
+        "code": "C89"
+    },
+    {
+        "name": "Municipal Airport",
+        "city": "Burlington",
+        "code": "BUU"
+    },
+    {
+        "name": "Stroudsburg-Pocono Airport",
+        "city": "East Stroudsburg",
+        "code": "N53"
+    },
+    {
+        "name": "Spring Hill Airport",
+        "city": "Sterling",
+        "code": "70N"
+    },
+    {
+        "name": "Randall Airport",
+        "city": "Middletown",
+        "code": "06N"
+    },
+    {
+        "name": "William T. Piper Mem.",
+        "city": "Lock Haven",
+        "code": "LHV"
+    },
+    {
+        "name": "Grove City Airport",
+        "city": "Grove City",
+        "code": "29D"
+    },
+    {
+        "name": "Lansdowne Airport",
+        "city": "Youngstown",
+        "code": "04G"
+    },
+    {
+        "name": "Wadsworth Municipal",
+        "city": "Wadsworth",
+        "code": "3G3"
+    },
+    {
+        "name": "Ashland County Airport",
+        "city": "Ashland",
+        "code": "3G4"
+    },
+    {
+        "name": "Pittsburgh-Monroeville Airport",
+        "city": "Monroeville",
+        "code": "4G0"
+    },
+    {
+        "name": "Somerset County Airport",
+        "city": "Somerset",
+        "code": "2G9"
+    },
+    {
+        "name": "Youngstown Elser Metro Airport",
+        "city": "Youngstown",
+        "code": "4G4"
+    },
+    {
+        "name": "Braceville Airport",
+        "city": "Braceville",
+        "code": "41N"
+    },
+    {
+        "name": "Lorain County Regional Airport",
+        "city": "Lorain-Elyria",
+        "code": "LPR"
+    },
+    {
+        "name": "Germack Airport",
+        "city": "Geneva",
+        "code": "7D9"
+    },
+    {
+        "name": "Burke Lakefront Airport",
+        "city": "Cleveland",
+        "code": "BKL"
+    },
+    {
+        "name": "Chautauqua County-Dunkirk Airport",
+        "city": "Dunkirk",
+        "code": "DKK"
+    },
+    {
+        "name": "Hamburg Inc Airport",
+        "city": "Hamburg",
+        "code": "4G2"
+    },
+    {
+        "name": "Trenton-Robbinsville Airport",
+        "city": "Trenton",
+        "code": "N87"
+    },
+    {
+        "name": "South Jersey Regional Airport",
+        "city": "Mount Holly",
+        "code": "VAY"
+    },
+    {
+        "name": "Spitfire Aerodrome",
+        "city": "Pedricktown",
+        "code": "7N7"
+    },
+    {
+        "name": "Linden Airport",
+        "city": "Linden",
+        "code": "LDJ"
+    },
+    {
+        "name": "Morgantown Airport",
+        "city": "Morgantown",
+        "code": "O03"
+    },
+    {
+        "name": "Harford County Airport",
+        "city": "Churchville",
+        "code": "0W3"
+    },
+    {
+        "name": "Tri-State Steuben County Airport",
+        "city": "Angola",
+        "code": "ANQ"
+    },
+    {
+        "name": "Plymouth Municipal Airport",
+        "city": "Plymouth",
+        "code": "C65"
+    },
+    {
+        "name": "Van Wert County Airport",
+        "city": "Van Wert",
+        "code": "VNW"
+    },
+    {
+        "name": "Port Bucyrus-Crawford County Airport",
+        "city": "Bucyrus",
+        "code": "17G"
+    },
+    {
+        "name": "Lake Wales Municipal Airport",
+        "city": "Lake Wales",
+        "code": "X07"
+    },
+    {
+        "name": "Brooks Field Airport",
+        "city": "Marshall",
+        "code": "RMY"
+    },
+    {
+        "name": "Genesee County Airport",
+        "city": "Batavia",
+        "code": "GVQ"
+    },
+    {
+        "name": "Finger Lakes Regional Airport",
+        "city": "Seneca Falls",
+        "code": "0G7"
+    },
+    {
+        "name": "Stormville Airport",
+        "city": "Stormville",
+        "code": "N69"
+    },
+    {
+        "name": "Robertson Field",
+        "city": "Plainville",
+        "code": "4B8"
+    },
+    {
+        "name": "Williams County Airport",
+        "city": "Bryan",
+        "code": "0G6"
+    },
+    {
+        "name": "Clearwater Air Park",
+        "city": "Clearwater",
+        "code": "CLW"
+    },
+    {
+        "name": "South Lakeland Airport",
+        "city": "Lakeland",
+        "code": "X49"
+    },
+    {
+        "name": "All Airports",
+        "city": "New York",
+        "code": "NYC"
+    },
+    {
+        "name": "All Airports",
+        "city": "Chicago",
+        "code": "CHI"
+    },
+    {
+        "name": "Meigs Field",
+        "city": "Chicago",
+        "code": "CGX"
+    },
+    {
+        "name": "All Airports",
+        "city": "Washington",
+        "code": "WAS"
+    },
+    {
+        "name": "Pickens County Airport",
+        "city": "Jasper",
+        "code": "JZP"
+    },
+    {
+        "name": "Grand Strand Airport",
+        "city": "North Myrtle Beach",
+        "code": "CRE"
+    },
+    {
+        "name": "Lansing Municipal",
+        "city": "Lansing",
+        "code": "IGQ"
+    },
+    {
+        "name": "Bloyer Field",
+        "city": "Tomah",
+        "code": "Y72"
+    },
+    {
+        "name": "Ramona Airport",
+        "city": "Ramona",
+        "code": "RNM"
+    },
+    {
+        "name": "Branch County Memorial Airport",
+        "city": "Coldwater",
+        "code": "OEB"
+    },
+    {
+        "name": "Wilkes-Barre Wyoming Valley Airport",
+        "city": "Wilkes-Barre",
+        "code": "WBW"
+    },
+    {
+        "name": "Lost Nation Municipal Airport",
+        "city": "Willoughby",
+        "code": "LNN"
+    },
+    {
+        "name": "Capital City Airport",
+        "city": "Frankfort",
+        "code": "FFT"
+    },
+    {
+        "name": "Lewiston Maine",
+        "city": "Lewiston",
+        "code": "LEW"
+    },
+    {
+        "name": "Florence",
+        "city": "Florence",
+        "code": "6S2"
+    },
+    {
+        "name": "Martin Campbell Field Airport",
+        "city": "Copperhead",
+        "code": "1A3"
+    },
+    {
+        "name": "Naval Air Station",
+        "city": "Glenview",
+        "code": "NBU"
+    },
+    {
+        "name": "Marco Islands",
+        "city": "Marco Island Airport",
+        "code": "MRK"
+    },
+    {
+        "name": "Drummond Island Airport",
+        "city": "Drummond Island",
+        "code": "DRM"
+    },
+    {
+        "name": "Garland Airport",
+        "city": "Lewiston",
+        "code": "8M8"
+    },
+    {
+        "name": "Gladwin Zettel Memorial Airport",
+        "city": "Gladwin",
+        "code": "GDW"
+    },
+    {
+        "name": "Lowell City Airport",
+        "city": "Lowell",
+        "code": "24C"
+    },
+    {
+        "name": "South Haven Area Regional Airport",
+        "city": "South Haven",
+        "code": "LWA"
+    },
+    {
+        "name": "Schaumburg Regional",
+        "city": "Schaumburg",
+        "code": "06C"
+    },
+    {
+        "name": "Marshfield Municipal Airport",
+        "city": "Marshfield",
+        "code": "MFI"
+    },
+    {
+        "name": "Alexander Field South Wood County Airport",
+        "city": "Wisconsin Rapids",
+        "code": "ISW"
+    },
+    {
+        "name": "Clinton Municipal",
+        "city": "Clinton",
+        "code": "CWI"
+    },
+    {
+        "name": "Beverly Municipal Airport",
+        "city": "Beverly",
+        "code": "BVY"
+    },
+    {
+        "name": "Oakdale Airport",
+        "city": "Oakdale",
+        "code": "O27"
+    },
+    {
+        "name": "Poplar Bluff Municipal Airport",
+        "city": "Poplar Bluff",
+        "code": "POF"
+    },
+    {
+        "name": "Eastport Municipal Airport",
+        "city": "Eastport",
+        "code": "EPM"
+    },
+    {
+        "name": "Keokuk Municipal Airport",
+        "city": "Keokuk",
+        "code": "EOK"
+    },
+    {
+        "name": "Banks Airport",
+        "city": "Swans Island",
+        "code": "ME5"
+    },
+    {
+        "name": "Bagdad Airport",
+        "city": "Bagdad",
+        "code": "E51"
+    },
+    {
+        "name": "Ocean Ridge Airport",
+        "city": "Gualala",
+        "code": "E55"
+    },
+    {
+        "name": "Kent State Airport",
+        "city": "Kent",
+        "code": "1G3"
+    },
+    {
+        "name": "Atlantic City Rail Terminal",
+        "city": "Atlantic City NJ",
+        "code": "ZRA"
+    },
+    {
+        "name": "Springfield Amtrak Station",
+        "city": "Springfield MA",
+        "code": "ZSF"
+    },
+    {
+        "name": "Amherst Amtrak Station AMM",
+        "city": "Amherst MA",
+        "code": "XZK"
+    },
+    {
+        "name": "Fond Du Lac County Airport",
+        "city": "Fond du Lac",
+        "code": "FLD"
+    },
+    {
+        "name": "Waupaca Municipal Airport",
+        "city": "Waupaca",
+        "code": "PCZ"
+    },
+    {
+        "name": "Stevens Point Municipal Airport",
+        "city": "Stevens Point",
+        "code": "STE"
+    },
+    {
+        "name": "Luce County Airport",
+        "city": "Newberry",
+        "code": "ERY"
+    },
+    {
+        "name": "Forest Lake Airport",
+        "city": "Forest Lake",
+        "code": "25D"
+    },
+    {
+        "name": "Galion Municipal Airport",
+        "city": "Galion",
+        "code": "GQQ"
+    },
+    {
+        "name": "Clarksville-Montgomery County Regional Airport",
+        "city": "Clarksville",
+        "code": "CKV"
+    },
+    {
+        "name": "Lompoc Airport",
+        "city": "Lompoc",
+        "code": "LPC"
+    },
+    {
+        "name": "Chester County G O Carlson Airport",
+        "city": "Coatesville",
+        "code": "CTH"
+    },
+    {
+        "name": "Lake Placid Airport",
+        "city": "Lake Placid",
+        "code": "LKP"
+    },
+    {
+        "name": "Long Lake",
+        "city": "Long Lake",
+        "code": "NY9"
+    },
+    {
+        "name": "Wishram Amtrak Station",
+        "city": "Wishram",
+        "code": "WIH"
+    },
+    {
+        "name": "Lima Allen County Airport",
+        "city": "Lima",
+        "code": "AOH"
+    },
+    {
+        "name": "McKinnon Airport",
+        "city": "Brunswick",
+        "code": "SSI"
+    },
+    {
+        "name": "Beaver Falls",
+        "city": "Beaver Falls",
+        "code": "BFP"
+    },
+    {
+        "name": "Seaplane Base",
+        "city": "Winterhaven",
+        "code": "F57"
+    },
+    {
+        "name": "Georgetown County Airport",
+        "city": "Georgetown",
+        "code": "GGE"
+    },
+    {
+        "name": "Hardwick Field Airport",
+        "city": "Cleveland",
+        "code": "HDI"
+    },
+    {
+        "name": "Mark Anton Airport",
+        "city": "Dayton",
+        "code": "2A0"
+    },
+    {
+        "name": "Jefferson County Airpark",
+        "city": "Steubenville",
+        "code": "2G2"
+    },
+    {
+        "name": "Renton",
+        "city": "Renton",
+        "code": "RNT"
+    },
+    {
+        "name": "Brackett Field",
+        "city": "La Verne",
+        "code": "POC"
+    },
+    {
+        "name": "Jekyll Island Airport",
+        "city": "Jekyll Island",
+        "code": "09J"
+    },
+    {
+        "name": "CedarKey",
+        "city": "Cedar Key",
+        "code": "CDK"
+    },
+    {
+        "name": "Cross City",
+        "city": "Cross City",
+        "code": "CTY"
+    },
+    {
+        "name": "Clemson",
+        "city": "Clemson",
+        "code": "CEU"
+    },
+    {
+        "name": "Heber City Municipal Airport",
+        "city": "Heber",
+        "code": "36U"
+    },
+    {
+        "name": "Beech Factory Airport",
+        "city": "Wichita",
+        "code": "BEC"
+    },
+    {
+        "name": "Cherokee County Airport",
+        "city": "Canton",
+        "code": "47A"
+    },
+    {
+        "name": "Fernandina Beach Municipal Airport",
+        "city": "Fernandina Beach",
+        "code": "55J"
+    },
+    {
+        "name": "Georgetown Municipal Airport",
+        "city": "Georgetown",
+        "code": "GTU"
+    },
+    {
+        "name": "Sidney Muni Airport",
+        "city": "Sidney",
+        "code": "SNY"
+    },
+    {
+        "name": "Eagle's Nest Airport",
+        "city": "Waynesboro",
+        "code": "W13"
+    },
+    {
+        "name": "Leesburg Executive Airport",
+        "city": "Leesburg",
+        "code": "JYO"
+    },
+    {
+        "name": "Williamson-Sodus Airport",
+        "city": "Williamson",
+        "code": "SDC"
+    },
+    {
+        "name": "Clear Lake Metroport",
+        "city": "Clear Lake City",
+        "code": "CLC"
+    },
+    {
+        "name": "Boulder Municipal",
+        "city": "Boulder",
+        "code": "WBU"
+    },
+    {
+        "name": "Palo Alto Airport of Santa Clara County",
+        "city": "Palo Alto",
+        "code": "PAO"
+    },
+    {
+        "name": "Mesa Falcon Field",
+        "city": "Mesa",
+        "code": "FFZ"
+    },
+    {
+        "name": "Coolidge Municipal Airport",
+        "city": "Cooldige",
+        "code": "P08"
+    },
+    {
+        "name": "Cottonwood Airport",
+        "city": "Cottonwood",
+        "code": "P52"
+    },
+    {
+        "name": "Phoenix Regional Airport",
+        "city": "Phoenix",
+        "code": "A39"
+    },
+    {
+        "name": "Wickenburg Municipal Airport",
+        "city": "Wickenburg",
+        "code": "E25"
+    },
+    {
+        "name": "Oakland Co. Intl",
+        "city": "Pontiac",
+        "code": "PTK"
+    },
+    {
+        "name": "Dillant Hopkins Airport",
+        "city": "Keene",
+        "code": "EEN"
+    },
+    {
+        "name": "Monroe Reqional Airport",
+        "city": "Charlotte",
+        "code": "EQY"
+    },
+    {
+        "name": "Iowa City Municipal Airport",
+        "city": "Iowa City",
+        "code": "IOW"
+    },
+    {
+        "name": "Windom Municipal Airport",
+        "city": "Windom",
+        "code": "MWM"
+    },
+    {
+        "name": "Lee Airport",
+        "city": "Annapolis",
+        "code": "ANP"
+    },
+    {
+        "name": "Pecos Municipal Airport",
+        "city": "Pecos",
+        "code": "PEQ"
+    },
+    {
+        "name": "Hattiesburg Bobby L. Chain Municipal Airport",
+        "city": "Hattiesburg",
+        "code": "HBG"
+    },
+    {
+        "name": "Chan Gurney",
+        "city": "Yankton",
+        "code": "YKN"
+    },
+    {
+        "name": "Selfield Airport",
+        "city": "Selma Alabama",
+        "code": "SES"
+    },
+    {
+        "name": "Frazier Lake Airpark",
+        "city": "Hollister",
+        "code": "1C9"
+    },
+    {
+        "name": "Hayward Executive Airport",
+        "city": "Hayward",
+        "code": "HWD"
+    },
+    {
+        "name": "Ann Arbor Municipal Airport",
+        "city": "Ann Arbor",
+        "code": "ARB"
+    },
+    {
+        "name": "Boston Back Bay Station",
+        "city": "Boston",
+        "code": "ZTY"
+    },
+    {
+        "name": "Clayton County Tara Field",
+        "city": "Hampton",
+        "code": "4A7"
+    },
+    {
+        "name": "NAS Alameda",
+        "city": "Alameda",
+        "code": "NGZ"
+    },
+    {
+        "name": "Wilmington Amtrak Station",
+        "city": "Wilmington",
+        "code": "ZWI"
+    },
+    {
+        "name": "Elkhart Municipal",
+        "city": "Elkhart",
+        "code": "EKI"
+    },
+    {
+        "name": "Immokalee ",
+        "city": "Immokalee ",
+        "code": "IMM"
+    },
+    {
+        "name": "New Carrollton Rail Station",
+        "city": "New Carrollton",
+        "code": "ZRZ"
+    },
+    {
+        "name": "Dinwiddie County Airport",
+        "city": "Petersburg",
+        "code": "PTB"
+    },
+    {
+        "name": "Sheboygan County Memorial Airport",
+        "city": "Sheboygan",
+        "code": "SBM"
+    },
+    {
+        "name": "Ephraim-Gibraltar Airport",
+        "city": "Ephraim",
+        "code": "3D2"
+    },
+    {
+        "name": "Pinal Airpark",
+        "city": "Marana",
+        "code": "MZJ"
+    },
+    {
+        "name": "Glendale Municipal Airport",
+        "city": "Glendale",
+        "code": "GEU"
+    },
+    {
+        "name": "Safford Regional Airport",
+        "city": "Safford",
+        "code": "SAD"
+    },
+    {
+        "name": "Sikeston Memorial Municipal",
+        "city": "Sikeston",
+        "code": "SIK"
+    },
+    {
+        "name": "Oceano County Airport",
+        "city": "Oceano",
+        "code": "L52"
+    },
+    {
+        "name": "Floyd Bennett Memorial Airport",
+        "city": "Queensbury",
+        "code": "GFL"
+    },
+    {
+        "name": "Saratoga County Airport",
+        "city": "Ballston Spa",
+        "code": "5B2"
+    },
+    {
+        "name": "Burrello-Mechanicville Airport",
+        "city": "Mechanicville",
+        "code": "K27"
+    },
+    {
+        "name": "Crystal River",
+        "city": "Crystal River",
+        "code": "CGC"
+    },
+    {
+        "name": "Martin State",
+        "city": "Baltimore",
+        "code": "MTN"
+    },
+    {
+        "name": "Lincoln Regional Airport Karl Harder Field",
+        "city": "Lincoln",
+        "code": "LHM"
+    },
+    {
+        "name": "Fostoria Metropolitan Airport",
+        "city": "Fostoria",
+        "code": "FZI"
+    },
+    {
+        "name": "Eastern Slopes Regional",
+        "city": "Fryeburg",
+        "code": "IZG"
+    },
+    {
+        "name": "Lakefront",
+        "city": "New Orleans",
+        "code": "NEW"
+    },
+    {
+        "name": "Pappy Boyington",
+        "city": "Coeur d'Alene",
+        "code": "COE"
+    },
+    {
+        "name": "Beaumont Municipal",
+        "city": "Beaumont",
+        "code": "BMT"
+    },
+    {
+        "name": "Vermilion Regional",
+        "city": "Danville",
+        "code": "DNV"
+    },
+    {
+        "name": "Merritt Island Airport",
+        "city": "Cocoa",
+        "code": "COI"
+    },
+    {
+        "name": "Valkaria Municipal",
+        "city": "Valkaria",
+        "code": "X59"
+    },
+    {
+        "name": "Space Coast Reg'l Airport",
+        "city": "Titusville",
+        "code": "TIX"
+    },
+    {
+        "name": "Sebastian Municipal",
+        "city": "Sebastian",
+        "code": "X26"
+    },
+    {
+        "name": "Effingham Memorial Airport",
+        "city": "Effingham",
+        "code": "1H2"
+    },
+    {
+        "name": "Andrau Airport",
+        "city": "Houston",
+        "code": "AAP"
+    },
+    {
+        "name": "Flying Cloud Airport",
+        "city": "Eden Prairie",
+        "code": "FCM"
+    },
+    {
+        "name": "Johnson County Airport",
+        "city": "Olathe",
+        "code": "OJC"
+    },
+    {
+        "name": "Apopka",
+        "city": "Orlando",
+        "code": "X04"
+    },
+    {
+        "name": "Brandywine Airport",
+        "city": "West Goshen Township",
+        "code": "OQN"
+    },
+    {
+        "name": "Manassas",
+        "city": "Manassas",
+        "code": "MNZ"
+    },
+    {
+        "name": "Hite Airport",
+        "city": "Hanksville",
+        "code": "UT3"
+    },
+    {
+        "name": "Shelby County Airport",
+        "city": "Shelbyville",
+        "code": "2H0"
+    },
+    {
+        "name": "Grand Canyon West Airport",
+        "city": "Peach Springs",
+        "code": "1G4"
+    },
+    {
+        "name": "Rock Airport",
+        "city": "Tarentum",
+        "code": "9G1"
+    },
+    {
+        "name": "Plum Island Airport",
+        "city": "Newburyport",
+        "code": "2B2"
+    },
+    {
+        "name": "Kulik Lake Airport",
+        "city": "Kulik Lake",
+        "code": "LKK"
+    },
+    {
+        "name": "Port Alsworth Airport",
+        "city": "Port alsworth",
+        "code": "PTA"
+    },
+    {
+        "name": "Fairfield County Airport",
+        "city": "Winnsboro",
+        "code": "FDW"
+    },
+    {
+        "name": "Skyhaven Airport",
+        "city": "Rochester",
+        "code": "DAW"
+    },
+    {
+        "name": "Port Oceanic Airport",
+        "city": "Port Oceanic",
+        "code": "PRL"
+    },
+    {
+        "name": "Newton City-County Airport",
+        "city": "Newton",
+        "code": "EWK"
+    },
+    {
+        "name": "Bolton Field",
+        "city": "Columbus",
+        "code": "TZR"
+    },
+    {
+        "name": "Ocean Shores Municipal",
+        "city": "Ocean Shores",
+        "code": "W04"
+    },
+    {
+        "name": "Packwood",
+        "city": "Packwood",
+        "code": "55S"
+    },
+    {
+        "name": "Fort Bridger",
+        "city": "Fort Bridger",
+        "code": "FBR"
+    },
+    {
+        "name": "Prosser",
+        "city": "Prosser",
+        "code": "S40"
+    },
+    {
+        "name": "Chehalis-Centralia",
+        "city": "Chehalis",
+        "code": "CLS"
+    },
+    {
+        "name": "Desert Aire",
+        "city": "Mattawa",
+        "code": "M94"
+    },
+    {
+        "name": "Lebanon State",
+        "city": "Lebanon",
+        "code": "S30"
+    },
+    {
+        "name": "Evanston-Uinta CO Burns Fld",
+        "city": "Evanston",
+        "code": "EVW"
+    },
+    {
+        "name": "Sabetha Municipal",
+        "city": "Sabetha",
+        "code": "K83"
+    },
+    {
+        "name": "Mount Pleasant Regional-Faison Field",
+        "city": "Mount Pleasant",
+        "code": "LRO"
+    },
+    {
+        "name": "Jimmy Carter Regional",
+        "city": "Americus",
+        "code": "ACJ"
+    },
+    {
+        "name": "Weedon Field",
+        "city": "Eufala",
+        "code": "EUF"
+    },
+    {
+        "name": "Saluda County",
+        "city": "Saluda",
+        "code": "6J4"
+    },
+    {
+        "name": "Dare County Regional",
+        "city": "Manteo",
+        "code": "MQI"
+    },
+    {
+        "name": "Auburn University Regional",
+        "city": "Auburn",
+        "code": "AUO"
+    },
+    {
+        "name": "Tri-Cities",
+        "city": "Endicott",
+        "code": "CZG"
+    },
+    {
+        "name": "Bessemer",
+        "city": "Bessemer",
+        "code": "EKY"
+    },
+    {
+        "name": "Colorado Springs East",
+        "city": "Ellicott",
+        "code": "A50"
+    },
+    {
+        "name": "Crystal Airport",
+        "city": "Crystal",
+        "code": "MIC"
+    },
+    {
+        "name": "Clarke CO",
+        "city": "Quitman",
+        "code": "23M"
+    },
+    {
+        "name": "W H Barron Field",
+        "city": "Dublin",
+        "code": "DBN"
+    },
+    {
+        "name": "Union Station",
+        "city": "Utica",
+        "code": "UCA"
+    },
+    {
+        "name": "Corvallis Muni",
+        "city": "Corvallis",
+        "code": "CVO"
+    },
+    {
+        "name": "Chatsworth Station",
+        "city": "Chatsworth",
+        "code": "CWT"
+    },
+    {
+        "name": "Deer Harbor Seaplane",
+        "city": "Deer Harbor",
+        "code": "DHB"
+    },
+    {
+        "name": "San Diego Old Town Transit Center",
+        "city": "San Diego",
+        "code": "OLT"
+    }
+]
