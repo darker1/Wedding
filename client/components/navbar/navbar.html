@@ -12,15 +12,16 @@
             <a href="/party/msy"> New Orleans </a>
         </li>
       </ul>
+      <a name="navbar"></a>
       <form class="nav navbar-nav navbar-right form-inline" name="frm">
-          <button ng-show="!showWelcomeText()" ng-disabled="frm.email.$pristine || frm.email.$dirty && frm.email.$invalid" type="button" class="btn btn-default" ng-click="saveEmail()">Stay Informed!</button>
-          <div ng-show="!showWelcomeText()" class="form-group">
+           <div ng-show="!showWelcomeText()" class="form-group">
             <input type="text" name="email" class="form-control" placeholder="Email Address" ng-pattern="pattern" ng-model="email" ng-keyup="saveEmail($event, frm.email)">
           </div>
           <div ng-show="!showWelcomeText()" class="form-group">    
-              <input type="text" class="form-control" placeholder="Your Name" ng-model="name" ng-keyup="saveEmail($event, frm.email)">   
+              <input type="text" name="name" class="form-control" placeholder="Your Name" ng-model="name" ng-keyup="saveEmail($event, frm.email)">   
           </div>
           <span ng-show="showWelcomeText()" ng-bind="welcomeText"> </span>
+          <button ng-show="!showWelcomeText()" ng-class="{'btn-primary':!(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) && !(frm.name.$pristine)}" ng-disabled="(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) && (frm.name.$pristine || frm.name.$dirty && frm.name.$invalid)" ng-minlength="1" ng-required="true" type="button" class="btn btn-default" ng-click="saveEmail()">Stay Informed!</button>
       </form>
     </div>
   </div>
