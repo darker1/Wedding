@@ -1,11 +1,25 @@
 <div class="modal-header">
-  <button ng-if="modal.dismissable" type="button" ng-click="$dismiss()" class="close">&times;</button>
-  <h4 ng-if="modal.title" ng-bind="modal.title" class="modal-title"></h4>
+    <button ng-if="modal.dismissable" type="button" ng-click="$dismiss()" class="close">&times;</button>
+    <h4 ng-if="modal.title" ng-bind="modal.title" class="modal-title"></h4>
 </div>
 <div class="modal-body">
-  <p ng-if="modal.text" ng-bind="modal.text"></p>
-  <div ng-if="modal.html" ng-bind-html="modal.html"></div>
+    <p ng-if="modal.text" ng-bind="modal.text"></p>
+    <form name="frm"> 
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" name="name" class="form-control" placeholder="Name" ng-model="modal.rsvpData.name">
+        </div>
+        <div class="form-group">
+            <label>Email Address</label>
+            <input type="text" name="email" class="form-control" ng-pattern="modal.pattern" placeholder="Email" ng-model="modal.rsvpData.email">
+        </div>
+        <div class="form-group">
+            <label># of Guests</label>
+            <input type="number" class="form-control" value="1" ng-model="modal.rsvpData.guests">
+        </div>
+    </form>
 </div>
 <div class="modal-footer">
-  <button ng-repeat="button in modal.buttons" ng-class="button.classes" ng-click="button.click($event)" ng-bind="button.text" class="btn"></button>
+    <button ng-repeat="button in modal.buttons" ng-class="button.classes" ng-click="button.click($event)" ng-bind="button.text" ng-disabled="button.disabled"
+    class="btn"></button>
 </div>

@@ -4,9 +4,9 @@
             <h1> New Orleans, Louisiana </h1>
             <h2> When: April 16, 2016 4:00PM</h2>
             <h2> Where: Metarie, Louisiana</h2> (Address will be sent to those who RSVP)
-            <br>
+            <button type="button" class="btn btn-primary btn-lg btn-block" ng-click="createRsvp()">RSVP</button>
             <h3> The Big Easy: </h3>
-            <p style="text-align:justify">This is Kyle’s old stompin' ground and, in his opinion, the best place to throw a party. We will be having a crawfish boil (major thanks to Brad, Nicole, and baby Waverly for hosting!) on Saturday and celebrating the entire weekend! Prepare (i.e., start hydrating) for non-stop fun: trips to the French Quarter & Bourbon Street, ALL the drinks, AMAZING food, and <a href="http://www.pastemagazine.com/articles/2015/06/all-hail-the-drive-through-daiquiri.html"> Drive Through Daiquiris (Yes that is really a thing)</a>!
+            <p style="text-align:justify">This is Kyle’s old stompin' ground and, in his opinion, the best place to throw a party. We will be having a crawfish boil (major thanks to Brad, Nicole, and baby Waverly for hosting!) on Saturday and celebrating the entire weekend! Prepare (i.e., start hydrating) for non-stop fun: trips to the French Quarter & Bourbon Street, ALL the drinks, AMAZING food, and <a href="http://www.pastemagazine.com/articles/2015/06/all-hail-the-drive-through-daiquiri.html"> drive-through-daiquiris (yes, that is really a thing)</a>!
             </p>
             <h3>CRAWFISH!</h3>
             <p style="text-align:justify">
@@ -19,8 +19,64 @@
         </div>
     </div>
     <div class="col-md-12">
-        <div class="col-md-6 pull-left" style="top:50px">
+        <div class="col-md-6 pull-left">
             <iframe class="pull-left" width="100%" height="480" src="https://www.youtube.com/embed/EndhxlX7Df8" frameborder="1px" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-6" style="top:30">
+            <h3> Suggested Weekend Gear: </h3>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <img src="assets/images/yeti_coozie.jpg" width="45px">
+                        </td>
+                        <td>
+                            <a href="http://www.amazon.com/Yeti-YRAMCOL-Coolers-Rambler-Colster/dp/B00SU9ACGA/ref=sr_1_1?ie=UTF8&qid=1453193619&sr=8-1&keywords=yeti+coozie">A coozie (Yeti is the best!)</a>
+                        </td>
+                        <td>
+                            Get you one!
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="assets/images/sunscreen.jpg" width="45px">
+                        </td>
+                        <td>
+                            <a ng-href="http://www.amazon.com/Banana-Boat-Performance-Sunscreens-Technology/dp/B0030ZEGDY/ref=sr_1_3?s=beauty&ie=UTF8&qid=1453193877&sr=1-3&keywords=sunscreen">Sunscreen</a>
+                        </td>
+                        <td>
+                            It gets really hot/sunny in Louisiana.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="assets/images/lsu_jersey.jpg" width="55px">
+                        </td>
+                        <td>
+                            <a ng-href="http://www.fansedge.com/league/College/team/LSU_Tigers/category/3103/browse/featuredproduct/585581/partnerid/14071/source/csefe12-pla-id?sku=1759360&utm_content=control&gclid=Cj0KEQiAxMG1BRDFmu3P3qjwmeMBEiQAEzSDLpan-PaPj2CadsExM0xQcIMkx-22GPO_I4yFEMoWu9YaAvMH8P8HAQ">LSU Gear</a>
+                        </td>
+                        <td>
+                            Because you are invited to a party!
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="assets/images/stupid_fan.jpg" width="55px">
+                        </td>
+                        <td>
+                            <a ng-href="http://www.amazon.com/O2Cool-Pocket-Carabiner-Batteries-Assorted/dp/B008HT3T3G/ref=sr_1_13?ie=UTF8&qid=1455947130&sr=8-13&keywords=fan+mister">A Personal Fan</a>
+                        </td>
+                        <td>
+                            Being O2Cool is O2 important!
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="col-md-6 pull-right">
+            <img width="100%" src="/assets/images/meagan_kyle_tigerstadium.jpg">
         </div>
         <div class="col-md-6">
             <div>
@@ -70,51 +126,6 @@
                         </td>
                         <td style="text-align:justify">
                             We know, it’s not a place to stay. However, it’s worth mentioning when you’re considering travel arrangements. You can easily taxi to wherever you’re staying and Uber (order and pay through your smartphone) wherever you want. WAY better than a rental car: 1) you almost always save money 2) the Uber driver is always your designated driver.
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </div>
-    <div class="col-md-12">
-        <div class="col-md-8 pull-right">
-            <img width="100%" src="/assets/images/meagan_kyle_tigerstadium.jpg">
-        </div>
-        <div class="col-md-4">
-            <h3> Suggested Weekend Gear: </h3>
-            <table>
-                <tbody>
-                    <tr>
-                        <td>
-                            <img src="assets/images/yeti_coozie.jpg" width="45px">
-                        </td>
-                        <td>
-                            <a href="http://www.amazon.com/Yeti-YRAMCOL-Coolers-Rambler-Colster/dp/B00SU9ACGA/ref=sr_1_1?ie=UTF8&qid=1453193619&sr=8-1&keywords=yeti+coozie">A coozie (Yeti is the best!)</a>
-                        </td>
-                        <td>
-                            Get you one!
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="assets/images/sunscreen.jpg" width="45px">
-                        </td>
-                        <td>
-                            <a ng-href="http://www.amazon.com/Banana-Boat-Performance-Sunscreens-Technology/dp/B0030ZEGDY/ref=sr_1_3?s=beauty&ie=UTF8&qid=1453193877&sr=1-3&keywords=sunscreen">Sunscreen</a>
-                        </td>
-                        <td>
-                            It gets really hot/sunny in Louisiana.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="assets/images/lsu_jersey.jpg" width="55px">
-                        </td>
-                        <td>
-                            <a ng-href="http://www.fansedge.com/league/College/team/LSU_Tigers/category/3103/browse/featuredproduct/585581/partnerid/14071/source/csefe12-pla-id?sku=1759360&utm_content=control&gclid=Cj0KEQiAxMG1BRDFmu3P3qjwmeMBEiQAEzSDLpan-PaPj2CadsExM0xQcIMkx-22GPO_I4yFEMoWu9YaAvMH8P8HAQ">LSU Gear</a>
-                        </td>
-                        <td>
-                            Because you are invited to a party!
                         </td>
                     </tr>
                 </tbody>

@@ -6,10 +6,9 @@ var mongoose = require('mongoose'),
 var RsvpSchema = new Schema({
   name: String,
   email: String,
-  phone: String, 
-  party: [String],
-  numberOfGuests: Number,
-  active: Boolean
+  party: String,
+  guests: Number,
+  attending: Boolean
 });
 
 module.exports = mongoose.model('Rsvp', RsvpSchema);

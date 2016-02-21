@@ -23,3 +23,6 @@
 .modal-danger .modal-header {
   background: $brand-danger;
 }
+input.ng-invalid{
+    border: 1px solid red;
+}

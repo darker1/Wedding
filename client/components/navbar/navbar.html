@@ -18,7 +18,7 @@
               <input type="text" name="name" class="form-control" placeholder="Your Name" ng-model="name" ng-keyup="saveEmail($event, frm.email)">   
           </div>
           <span ng-show="showWelcomeText()" ng-bind="welcomeText"> </span>
-          <button ng-show="!showWelcomeText()" ng-class="{'btn-primary':!(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) && !(frm.name.$pristine)}" ng-disabled="(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) && (frm.name.$pristine || frm.name.$dirty && frm.name.$invalid)" ng-minlength="1" ng-required="true" type="button" class="btn btn-default" ng-click="saveEmail()">Stay Informed!</button>
+          <button ng-show="!showWelcomeText()" ng-class="{'btn-primary':!(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) && !(frm.name.$pristine)}" ng-disabled="(frm.email.$pristine || frm.email.$dirty && frm.email.$invalid) || (frm.name.$pristine || frm.name.$dirty && frm.name.$invalid)" ng-minlength="1" ng-required="true" type="button" class="btn btn-default" ng-click="saveEmail()">Stay Informed!</button>
       </form>
     </div>
   </div>

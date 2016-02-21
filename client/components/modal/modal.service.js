@@ -1,77 +1,74 @@
 'use strict';
 
 angular.module('weddingApp')
-  .factory('Modal', function ($rootScope, $modal) {
-    /**
-     * Opens a modal
-     * @param  {Object} scope      - an object to be merged with modal's scope
-     * @param  {String} modalClass - (optional) class(es) to be applied to the modal
-     * @return {Object}            - the instance $modal.open() returns
-     */
-    function openModal(scope, modalClass) {
-      var modalScope = $rootScope.$new();
-      scope = scope || {};
-      modalClass = modalClass || 'modal-default';
-
-      angular.extend(modalScope, scope);
-
-      return $modal.open({
-        templateUrl: 'components/modal/modal.html',
-        windowClass: modalClass,
-        scope: modalScope
-      });
-    }
-
-    // Public API here
-    return {
-
-      /* Confirmation modals */
-      confirm: {
-
+    .factory('Modal', ['$rootScope', '$uibModal', function ($rootScope, $uibModal) {
         /**
-         * Create a function to open a delete confirmation modal (ex. ng-click='myModalFn(name, arg1, arg2...)')
-         * @param  {Function} del - callback, ran when delete is confirmed
-         * @return {Function}     - the function to open the modal (ex. myModalFn)
+         * Opens a modal
+         * @param  {Object} scope      - an object to be merged with modal's scope
+         * @param  {String} modalClass - (optional) class(es) to be applied to the modal
+         * @return {Object}            - the instance $modal.open() returns
          */
-        delete: function(del) {
-          del = del || angular.noop;
+        function openModal(scope, modalClass) {
+            var modalScope = $rootScope.$new();
+            scope = scope || {};
+            modalClass = modalClass || 'modal-default';
 
-          /**
-           * Open a delete confirmation modal
-           * @param  {String} name   - name or info to show on modal
-           * @param  {All}           - any additional args are passed straight to del callback
-           */
-          return function() {
-            var args = Array.prototype.slice.call(arguments),
-                name = args.shift(),
-                deleteModal;
+            angular.extend(modalScope, scope);
 
-            deleteModal = openModal({
-              modal: {
-                dismissable: true,
-                title: 'Confirm Delete',
-                html: '<p>Are you sure you want to delete <strong>' + name + '</strong> ?</p>',
-                buttons: [{
-                  classes: 'btn-danger',
-                  text: 'Delete',
-                  click: function(e) {
-                    deleteModal.close(e);
-                  }
-                }, {
-                  classes: 'btn-default',
-                  text: 'Cancel',
-                  click: function(e) {
-                    deleteModal.dismiss(e);
-                  }
-                }]
-              }
-            }, 'modal-danger');
-
-            deleteModal.result.then(function(event) {
-              del.apply(event, args);
+            return $uibModal.open({
+                templateUrl: 'components/modal/modal.html',
+                windowClass: modalClass,
+                scope: modalScope
             });
-          };
         }
-      }
-    };
-  });
+
+        // Public API here
+        return {
+            Rsvp: {
+                msy: function (cb) {
+                    cb = cb || angular.noop;
+
+                    return function () {
+                        var args = Array.prototype.slice.call(arguments),
+                            name = args.shift(),
+                            rsvpModal;
+                        var data = { guests: 0 };
+                        var pattern = /^[-a-z0-9~!$%^&*_=+}{\'?]+(\.[-a-z0-9~!$%^&*_=+}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|arpa|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|pro|travel|mobi|[a-z][a-z])|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,5})?$/i;
+                        rsvpModal = openModal({
+                            modal: {
+                                rsvpData: data,
+                                pattern: pattern,
+                                dismissable: true,
+                                title: 'Joining us in the Big Easy?',
+                                html: '',
+                                buttons: [{
+                                    classes: 'btn-success',
+                                    text: 'Yes',
+                                    click: function (e) {
+                                        if (data.name && (new RegExp(pattern)).test(data.email)) {
+                                            e.attending = true;
+                                            rsvpModal.close(e);
+                                        }
+                                    }
+                                }, {
+                                    classes: 'btn-Danger',
+                                    text: 'No',
+                                    click: function (e) {
+                                        if (data.name) {
+                                            e.attending = false;
+                                            rsvpModal.close(e);
+                                        }
+                                    }
+                                }]
+                            }
+                        }, 'modal-danger');
+
+                        rsvpModal.result.then(function (event) {
+                            data.attending = event.attending;
+                            cb.apply(event, [data]);
+                        });
+                    };
+                }
+            }
+        };
+    }]);
