@@ -9,8 +9,8 @@ angular.module('weddingApp')
             'title': 'Wedding',
             'link': '/ceremony'
         }, {
-            'title': 'Parties',
-            'link': '/parties'
+            'title': 'New Orleans',
+            'link': '/party/msy'
         }];
         $scope.email = '';
         $scope.name = '';
