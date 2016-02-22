@@ -1,6 +1,6 @@
 'use strict';
 
 angular.module('weddingApp')
-  .controller('ORDCtrl', function ($scope) {
+  .controller('OrdCtrl', function ($scope) {
     $scope.message = 'Hello';
   });

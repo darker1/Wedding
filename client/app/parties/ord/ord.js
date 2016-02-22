@@ -3,9 +3,9 @@
 angular.module('weddingApp')
   .config(function ($stateProvider) {
     $stateProvider
-      .state('ORD', {
+      .state('ord', {
         url: '/party/ord',
-        templateUrl: 'app/parties/ORD/ORD.html',
-        controller: 'ORDCtrl'
+        templateUrl: 'app/parties/ord/ord.html',
+        controller: 'OrdCtrl'
       });
   });
