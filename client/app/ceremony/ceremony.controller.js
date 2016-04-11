@@ -1,8 +1,12 @@
 'use strict';
 
 angular.module('weddingApp')
-  .controller('CeremonyCtrl', ['$scope', 'airportService', function ($scope, airportService) {
+  .controller('CeremonyCtrl', ['$scope', 'airportService', 'rsvpService', 'Modal', function ($scope, airportService, rsvpService, Modal) {
   
+    $scope.createRsvp = Modal.Rsvp.pvr(function(rsvp) {
+        rsvp.party = "PVR";
+        rsvpService.save(rsvp);
+    });
 
     $scope.numberOfPassengers = '';
     
