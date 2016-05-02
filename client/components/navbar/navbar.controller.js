@@ -17,6 +17,9 @@ angular.module('weddingApp')
         }, {
             'title': 'Los Angeles',
             'link': '/party/lax'
+        }, {
+            'title': 'FAQ',
+            'link': '/faq'
         }];
         $scope.email = '';
         $scope.name = '';

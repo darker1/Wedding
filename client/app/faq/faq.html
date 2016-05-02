@@ -1,8 +1,8 @@
 <div class="col-md-12">
     <div class="col-md-8">
   <uib-accordion>
-    <uib-accordion-group heading="{{group.title}}" ng-repeat="group in questions">
-      {{group.content}}
+    <uib-accordion-group heading="{{group.title}}" ng-repeat="group in questions" >
+        <span ng-bind-html="group.content"></span>
     </uib-accordion-group>
   </uib-accordion>
   </div>
